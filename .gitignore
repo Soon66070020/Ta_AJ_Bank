@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints and temp directories
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+.pytest_cache/
+
+# Virtual environments
+venv/
+.env
+.venv
+env/
+ENV/
+
+# IDE and Editor configurations
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Project specific ignores (local agent workspace files and test outputs)
+.agents/
+skills-lock.json
+iframe_figures/
+out_test_nb_*.ipynb
+*.log

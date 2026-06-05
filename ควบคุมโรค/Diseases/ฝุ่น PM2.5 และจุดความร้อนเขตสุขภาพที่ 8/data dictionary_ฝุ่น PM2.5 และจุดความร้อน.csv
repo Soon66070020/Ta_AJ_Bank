@@ -1,0 +1,5 @@
+﻿attribute_eng,description,data_type
+date,วันที่ตรวจวัดและจัดเก็บข้อมูล,date
+province,จังหวัดที่ตรวจวัดปริมาณฝุ่น PM2.5 และจุดความร้อน (Hot spot),text
+pm25,ค่าปริมาณฝุ่น PM2.5 ที่ตรวจวัดได้,number
+hotspot,ค่าปริมาณจุดความร้อน (Hot Spot) ที่ตรวจวัดได้,number

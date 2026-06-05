@@ -1,0 +1,7 @@
+﻿Attribute,description,datatype
+date_receive,วันที่บันทึกข้อมูล,date
+province,จังหวัด,varchar
+district,อำเภอ,varchar
+subdistrict,ตำบล,varchar
+pm25_value,ค่าฝุ่น PM 2.5,float
+count_hotspot,จำนวนจุดความร้อน,int

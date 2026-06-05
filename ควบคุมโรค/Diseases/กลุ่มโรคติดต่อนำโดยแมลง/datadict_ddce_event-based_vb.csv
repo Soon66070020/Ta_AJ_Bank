@@ -1,0 +1,6 @@
+﻿attribute,description,data_type,data_size
+year,ปีที่ได้รับแจ้งเหตุการณ์,STRING ตัวอักษร,4
+month,เดือนที่ได้รับแจ้งเหตุการณ์,STRING ตัวอักษร,2
+event_name,ชื่อโรค/ภัย/เหตุการณ์,STRING ตัวอักษร,200
+province,จังหวัดที่เกิดเหตุการณ์,STRING ตัวอักษร,100
+disease_group,กลุ่มโรค,STRING ตัวอักษร,100

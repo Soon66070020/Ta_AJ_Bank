@@ -1,0 +1,613 @@
+﻿year,month,event_name,disease_group,province
+2020,11,Lymphatic filariasis,แมลง,ชลบุรี
+2020,8,Lymphatic filariasis,แมลง,ระยอง
+2020,8,Lymphatic filariasis,แมลง,ระยอง
+2020,8,อื่นๆ ระบุ,แมลง,อ่างทอง
+2020,8,อื่นๆ ระบุ,แมลง,อ่างทอง
+2020,8,อื่นๆ ระบุ,แมลง,เชียงใหม่
+2020,8,อื่นๆ ระบุ,แมลง,นนทบุรี
+2020,3,Zika,แมลง,อุตรดิตถ์
+2020,3,Zika,แมลง,พิษณุโลก
+2020,4,Zika,แมลง,กำแพงเพชร
+2020,4,Zika,แมลง,พิษณุโลก
+2020,2,DF/D.H.F./DSS,แมลง,ยะลา
+2020,1,DF/D.H.F./DSS,แมลง,สงขลา
+2020,1,DF/D.H.F./DSS,แมลง,สงขลา
+2020,1,Chikungunya fever,แมลง,พัทลุง
+2020,1,Chikungunya fever,แมลง,สระบุรี
+2020,1,Zika,แมลง,สงขลา
+2020,1,Chikungunya fever,แมลง,เชียงใหม่
+2020,1,Chikungunya fever,แมลง,นนทบุรี
+2020,1,DF/D.H.F./DSS,แมลง,เชียงใหม่
+2020,1,DF/D.H.F./DSS,แมลง,สมุทรปราการ
+2020,1,DF/D.H.F./DSS,แมลง,สมุทรปราการ
+2020,1,Zika,แมลง,พิษณุโลก
+2020,1,Chikungunya fever,แมลง,เพชรบูรณ์
+2020,1,Zika,แมลง,สุโขทัย
+2020,1,Chikungunya fever,แมลง,เพชรบูรณ์
+2020,1,DF/D.H.F./DSS,แมลง,ชลบุรี
+2020,1,DF/D.H.F./DSS,แมลง,ชลบุรี
+2020,1,Zika,แมลง,สตูล
+2020,1,Zika,แมลง,สงขลา
+2020,1,Zika,แมลง,พิษณุโลก
+2020,1,DF/D.H.F./DSS,แมลง,สุโขทัย
+2020,1,DF/D.H.F./DSS,แมลง,สุโขทัย
+2020,1,Zika,แมลง,อุดรธานี
+2020,1,Zika,แมลง,สกลนคร
+2020,1,Zika,แมลง,เชียงใหม่
+2020,1,DF/D.H.F./DSS,แมลง,อ่างทอง
+2020,1,DF/D.H.F./DSS,แมลง,บึงกาฬ
+2020,1,Zika,แมลง,สกลนคร
+2020,1,Zika,แมลง,พิษณุโลก
+2020,1,Zika,แมลง,สกลนคร
+2020,1,Zika,แมลง,ลำปาง
+2020,1,Chikungunya fever,แมลง,ศรีสะเกษ
+2020,2,DF/D.H.F./DSS,แมลง,สระแก้ว
+2020,2,DF/D.H.F./DSS,แมลง,สระแก้ว
+2020,2,Lymphatic filariasis,แมลง,ระยอง
+2020,2,Zika,แมลง,พิษณุโลก
+2020,2,DF/D.H.F./DSS,แมลง,ยะลา
+2020,2,DF/D.H.F./DSS,แมลง,เชียงใหม่
+2020,2,Lymphatic filariasis,แมลง,ระยอง
+2020,2,Zika,แมลง,เชียงใหม่
+2020,2,Chikungunya fever,แมลง,เชียงใหม่
+2020,2,Chikungunya fever,แมลง,เชียงใหม่
+2020,2,Lymphatic filariasis,แมลง,ระยอง
+2020,2,Malaria,แมลง,ลพบุรี
+2020,2,Malaria,แมลง,ลพบุรี
+2020,3,DF/D.H.F./DSS,แมลง,ปทุมธานี
+2020,3,DF/D.H.F./DSS,แมลง,ปทุมธานี
+2020,3,Zika,แมลง,พิษณุโลก
+2020,3,Zika,แมลง,ปราจีนบุรี
+2020,3,Chikungunya fever,แมลง,ชัยภูมิ
+2020,3,Chikungunya fever,แมลง,ชัยภูมิ
+2020,4,Chikungunya fever,แมลง,นครพนม
+2020,4,Chikungunya fever,แมลง,นครพนม
+2020,4,DF/D.H.F./DSS,แมลง,นครราชสีมา
+2020,4,DF/D.H.F./DSS,แมลง,นครราชสีมา
+2020,4,DF/D.H.F./DSS,แมลง,ยะลา
+2020,4,DF/D.H.F./DSS,แมลง,ยะลา
+2020,4,Chikungunya fever,แมลง,อุทัยธานี
+2020,4,Chikungunya fever,แมลง,อุทัยธานี
+2020,4,Chikungunya fever,แมลง,สกลนคร
+2020,4,Chikungunya fever,แมลง,สกลนคร
+2020,4,DF/D.H.F./DSS,แมลง,สระแก้ว
+2020,4,DF/D.H.F./DSS,แมลง,สระแก้ว
+2020,4,Zika,แมลง,อุดรธานี
+2020,4,Chikungunya fever,แมลง,สกลนคร
+2020,4,Chikungunya fever,แมลง,สกลนคร
+2020,4,DF/D.H.F./DSS,แมลง,ปัตตานี
+2020,4,DF/D.H.F./DSS,แมลง,น่าน
+2020,4,Chikungunya fever,แมลง,สุรินทร์
+2020,4,Chikungunya fever,แมลง,สุรินทร์
+2020,4,Chikungunya fever,แมลง,บึงกาฬ
+2020,4,Chikungunya fever,แมลง,บึงกาฬ
+2020,4,Chikungunya fever,แมลง,นครราชสีมา
+2020,4,Chikungunya fever,แมลง,นครราชสีมา
+2020,4,DF/D.H.F./DSS,แมลง,ระยอง
+2020,4,DF/D.H.F./DSS,แมลง,ระยอง
+2020,4,Chikungunya fever,แมลง,นครพนม
+2020,4,Chikungunya fever,แมลง,นครพนม
+2020,4,Chikungunya fever,แมลง,สกลนคร
+2020,4,Chikungunya fever,แมลง,สกลนคร
+2020,5,Malaria,แมลง,พิษณุโลก
+2020,5,Malaria,แมลง,พิษณุโลก
+2020,5,DF/D.H.F./DSS,แมลง,สระบุรี
+2020,5,DF/D.H.F./DSS,แมลง,สระบุรี
+2020,5,DF/D.H.F./DSS,แมลง,สุโขทัย
+2020,5,Zika,แมลง,สุโขทัย
+2020,5,Zika,แมลง,เพชรบูรณ์
+2020,5,DF/D.H.F./DSS,แมลง,สุโขทัย
+2020,5,Chikungunya fever,แมลง,มุกดาหาร
+2020,5,DF/D.H.F./DSS,แมลง,อำนาจเจริญ
+2020,5,Chikungunya fever,แมลง,มุกดาหาร
+2020,5,DF/D.H.F./DSS,แมลง,ลำปาง
+2020,5,Chikungunya fever,แมลง,มหาสารคาม
+2020,5,DF/D.H.F./DSS,แมลง,ลำพูน
+2020,5,DF/D.H.F./DSS,แมลง,ลำพูน
+2020,5,DF/D.H.F./DSS,แมลง,หนองคาย
+2020,5,DF/D.H.F./DSS,แมลง,หนองคาย
+2020,5,DF/D.H.F./DSS,แมลง,ลพบุรี
+2020,5,DF/D.H.F./DSS,แมลง,ลพบุรี
+2020,5,Chikungunya fever,แมลง,น่าน
+2020,5,DF/D.H.F./DSS,แมลง,นครสวรรค์
+2020,5,Chikungunya fever,แมลง,น่าน
+2020,5,DF/D.H.F./DSS,แมลง,นครสวรรค์
+2020,5,Chikungunya fever,แมลง,ลำปาง
+2020,5,Chikungunya fever,แมลง,ลำปาง
+2020,5,DF/D.H.F./DSS,แมลง,ลำปาง
+2020,5,Chikungunya fever,แมลง,ชัยภูมิ
+2020,5,DF/D.H.F./DSS,แมลง,นครราชสีมา
+2020,5,Chikungunya fever,แมลง,ชัยภูมิ
+2020,5,DF/D.H.F./DSS,แมลง,นครราชสีมา
+2020,5,Chikungunya fever,แมลง,สกลนคร
+2020,5,Chikungunya fever,แมลง,สกลนคร
+2020,5,Chikungunya fever,แมลง,นครราชสีมา
+2020,5,Chikungunya fever,แมลง,นครราชสีมา
+2020,5,Zika,แมลง,หนองคาย
+2020,4,DF/D.H.F./DSS,แมลง,พะเยา
+2020,5,DF/D.H.F./DSS,แมลง,กระบี่
+2020,5,DF/D.H.F./DSS,แมลง,กระบี่
+2020,5,DF/D.H.F./DSS,แมลง,พะเยา
+2020,6,Zika,แมลง,สกลนคร
+2020,5,Zika,แมลง,สุโขทัย
+2020,4,Chikungunya fever,แมลง,พิษณุโลก
+2020,6,DF/D.H.F./DSS,แมลง,แม่ฮ่องสอน
+2020,6,Chikungunya fever,แมลง,พิษณุโลก
+2020,6,Chikungunya fever,แมลง,ลำปาง
+2020,6,DF/D.H.F./DSS,แมลง,ภูเก็ต
+2020,6,Scrub Typhus,แมลง,กำแพงเพชร
+2020,6,Malaria,แมลง,อุทัยธานี
+2020,6,Malaria,แมลง,อุทัยธานี
+2020,6,Zika,แมลง,สงขลา
+2020,6,Chikungunya fever,แมลง,ลำพูน
+2020,6,Zika,แมลง,ลำปาง
+2020,6,Chikungunya fever,แมลง,ลำพูน
+2020,6,Zika,แมลง,ภูเก็ต
+2020,6,Chikungunya fever,แมลง,อุทัยธานี
+2020,6,DF/D.H.F./DSS,แมลง,เชียงใหม่
+2020,6,DF/D.H.F./DSS,แมลง,เชียงใหม่
+2020,6,DF/D.H.F./DSS,แมลง,ตาก
+2020,6,DF/D.H.F./DSS,แมลง,ตาก
+2020,6,Zika,แมลง,ภูเก็ต
+2020,6,Malaria,แมลง,พิษณุโลก
+2020,6,DF/D.H.F./DSS,แมลง,พังงา
+2020,6,DF/D.H.F./DSS,แมลง,ภูเก็ต
+2020,6,Zika,แมลง,พังงา
+2020,6,DF/D.H.F./DSS,แมลง,ชุมพร
+2020,6,DF/D.H.F./DSS,แมลง,ชุมพร
+2020,6,Malaria,แมลง,พิษณุโลก
+2020,6,Malaria,แมลง,พิษณุโลก
+2020,6,Zika,แมลง,ตาก
+2020,6,DF/D.H.F./DSS,แมลง,นครราชสีมา
+2020,6,DF/D.H.F./DSS,แมลง,นครราชสีมา
+2020,6,Chikungunya fever,แมลง,อุทัยธานี
+2020,6,Chikungunya fever,แมลง,อุทัยธานี
+2020,6,Chikungunya fever,แมลง,อุทัยธานี
+2020,6,Chikungunya fever,แมลง,อุทัยธานี
+2020,6,Malaria,แมลง,อุทัยธานี
+2020,6,Chikungunya fever,แมลง,นครสวรรค์
+2020,6,Malaria,แมลง,น่าน
+2020,6,Chikungunya fever,แมลง,อุทัยธานี
+2020,6,Chikungunya fever,แมลง,นครสวรรค์
+2020,6,Chikungunya fever,แมลง,สกลนคร
+2020,6,Chikungunya fever,แมลง,สกลนคร
+2020,6,Chikungunya fever,แมลง,อุทัยธานี
+2020,6,DF/D.H.F./DSS,แมลง,นนทบุรี
+2020,6,Chikungunya fever,แมลง,ชัยภูมิ
+2020,6,Chikungunya fever,แมลง,ชัยภูมิ
+2020,6,DF/D.H.F./DSS,แมลง,หนองคาย
+2020,6,DF/D.H.F./DSS,แมลง,หนองคาย
+2020,6,Chikungunya fever,แมลง,อุทัยธานี
+2020,6,Chikungunya fever,แมลง,นครสวรรค์
+2020,6,DF/D.H.F./DSS,แมลง,ชลบุรี
+2020,6,DF/D.H.F./DSS,แมลง,นครปฐม
+2020,6,DF/D.H.F./DSS,แมลง,กาญจนบุรี
+2020,6,DF/D.H.F./DSS,แมลง,ราชบุรี
+2020,6,DF/D.H.F./DSS,แมลง,นครปฐม
+2020,6,DF/D.H.F./DSS,แมลง,กาญจนบุรี
+2020,6,Chikungunya fever,แมลง,นครพนม
+2020,7,Chikungunya fever,แมลง,นครพนม
+2020,7,Chikungunya fever,แมลง,บุรีรัมย์
+2020,6,Chikungunya fever,แมลง,ลำปาง
+2020,7,Chikungunya fever,แมลง,บุรีรัมย์
+2020,6,Chikungunya fever,แมลง,ลำปาง
+2020,7,Chikungunya fever,แมลง,ลำปาง
+2020,7,Zika,แมลง,กระบี่
+2020,6,Chikungunya fever,แมลง,เชียงใหม่
+2020,7,Chikungunya fever,แมลง,ลำปาง
+2020,7,Chikungunya fever,แมลง,บุรีรัมย์
+2020,7,Zika,แมลง,ชลบุรี
+2020,7,Chikungunya fever,แมลง,บุรีรัมย์
+2020,7,Chikungunya fever,แมลง,เชียงราย
+2020,7,Chikungunya fever,แมลง,ชัยภูมิ
+2020,7,Chikungunya fever,แมลง,ชัยภูมิ
+2020,7,DF/D.H.F./DSS,แมลง,เชียงราย
+2020,7,Chikungunya fever,แมลง,สระบุรี
+2020,7,Chikungunya fever,แมลง,สระบุรี
+2020,7,Chikungunya fever,แมลง,เชียงใหม่
+2020,7,Zika,แมลง,อำนาจเจริญ
+2020,6,Chikungunya fever,แมลง,อุทัยธานี
+2020,6,Chikungunya fever,แมลง,อุทัยธานี
+2020,6,Chikungunya fever,แมลง,อุทัยธานี
+2020,7,Chikungunya fever,แมลง,อุทัยธานี
+2020,7,Chikungunya fever,แมลง,อุทัยธานี
+2020,7,Chikungunya fever,แมลง,อุทัยธานี
+2020,7,Malaria,แมลง,อุทัยธานี
+2020,7,Malaria,แมลง,อุทัยธานี
+2020,7,Chikungunya fever,แมลง,อุทัยธานี
+2020,7,Chikungunya fever,แมลง,อุทัยธานี
+2020,7,Chikungunya fever,แมลง,อุทัยธานี
+2020,7,Chikungunya fever,แมลง,อุทัยธานี
+2020,7,DF/D.H.F./DSS,แมลง,พระนครศรีอยุธยา
+2020,6,DF/D.H.F./DSS,แมลง,ยะลา
+2020,7,DF/D.H.F./DSS,แมลง,พระนครศรีอยุธยา
+2020,7,Chikungunya fever,แมลง,ลพบุรี
+2020,7,DF/D.H.F./DSS,แมลง,อุดรธานี
+2020,7,Chikungunya fever,แมลง,ลพบุรี
+2020,7,Chikungunya fever,แมลง,นครสวรรค์
+2020,7,Zika,แมลง,สงขลา
+2020,7,DF/D.H.F./DSS,แมลง,อุดรธานี
+2020,7,Chikungunya fever,แมลง,สุรินทร์
+2020,7,DF/D.H.F./DSS,แมลง,ลำปาง
+2020,7,Chikungunya fever,แมลง,ลำปาง
+2020,7,DF/D.H.F./DSS,แมลง,ลำปาง
+2020,7,Chikungunya fever,แมลง,ลำปาง
+2020,7,Chikungunya fever,แมลง,แพร่
+2020,7,DF/D.H.F./DSS,แมลง,ลำปาง
+2020,7,Chikungunya fever,แมลง,ลำปาง
+2020,7,Chikungunya fever,แมลง,แพร่
+2020,7,DF/D.H.F./DSS,แมลง,ลำปาง
+2020,7,Chikungunya fever,แมลง,บุรีรัมย์
+2020,7,Chikungunya fever,แมลง,นครสวรรค์
+2020,7,Zika,แมลง,สงขลา
+2020,7,Chikungunya fever,แมลง,นครสวรรค์
+2020,7,Chikungunya fever,แมลง,นครสวรรค์
+2020,7,Chikungunya fever,แมลง,อุทัยธานี
+2020,7,Chikungunya fever,แมลง,นครสวรรค์
+2020,7,Chikungunya fever,แมลง,อุทัยธานี
+2020,7,Chikungunya fever,แมลง,ลพบุรี
+2020,7,Chikungunya fever,แมลง,ลพบุรี
+2020,7,Chikungunya fever,แมลง,นครสวรรค์
+2020,7,Chikungunya fever,แมลง,พิจิตร
+2020,7,Zika,แมลง,สงขลา
+2020,7,Chikungunya fever,แมลง,สระบุรี
+2020,7,Chikungunya fever,แมลง,ลำปาง
+2020,7,Chikungunya fever,แมลง,ลำปาง
+2020,7,Chikungunya fever,แมลง,ลำปาง
+2020,7,Chikungunya fever,แมลง,ลำปาง
+2020,7,Chikungunya fever,แมลง,บุรีรัมย์
+2020,7,Zika,แมลง,บุรีรัมย์
+2020,7,Chikungunya fever,แมลง,ลำปาง
+2020,7,Chikungunya fever,แมลง,ลำปาง
+2020,7,Chikungunya fever,แมลง,ลำปาง
+2020,7,Chikungunya fever,แมลง,ลำปาง
+2020,7,DF/D.H.F./DSS,แมลง,เพชรบูรณ์
+2020,7,DF/D.H.F./DSS,แมลง,แพร่
+2020,7,DF/D.H.F./DSS,แมลง,แม่ฮ่องสอน
+2020,7,DF/D.H.F./DSS,แมลง,แม่ฮ่องสอน
+2020,7,DF/D.H.F./DSS,แมลง,ตรัง
+2020,7,DF/D.H.F./DSS,แมลง,ตรัง
+2020,7,DF/D.H.F./DSS,แมลง,ปัตตานี
+2020,7,DF/D.H.F./DSS,แมลง,ปัตตานี
+2020,7,Chikungunya fever,แมลง,ลำปาง
+2020,7,Chikungunya fever,แมลง,ลพบุรี
+2020,7,Chikungunya fever,แมลง,ลำปาง
+2020,7,Chikungunya fever,แมลง,บุรีรัมย์
+2020,7,Chikungunya fever,แมลง,อุทัยธานี
+2020,7,Chikungunya fever,แมลง,นครสวรรค์
+2020,7,Chikungunya fever,แมลง,ลำปาง
+2020,7,Chikungunya fever,แมลง,ลำปาง
+2020,7,Chikungunya fever,แมลง,ลำปาง
+2020,7,Chikungunya fever,แมลง,ลำปาง
+2020,7,Chikungunya fever,แมลง,ลำปาง
+2020,7,Chikungunya fever,แมลง,ลำปาง
+2020,7,Chikungunya fever,แมลง,ลำปาง
+2020,7,Chikungunya fever,แมลง,สุรินทร์
+2020,7,Scrub Typhus,แมลง,ตราด
+2020,7,DF/D.H.F./DSS,แมลง,พระนครศรีอยุธยา
+2020,7,DF/D.H.F./DSS,แมลง,พระนครศรีอยุธยา
+2020,7,Chikungunya fever,แมลง,ชัยนาท
+2020,7,Chikungunya fever,แมลง,นครสวรรค์
+2020,7,Chikungunya fever,แมลง,ลพบุรี
+2020,7,Chikungunya fever,แมลง,ลพบุรี
+2020,7,Chikungunya fever,แมลง,ลำปาง
+2020,7,Zika,แมลง,เชียงใหม่
+2020,7,Chikungunya fever,แมลง,ลำปาง
+2020,7,Chikungunya fever,แมลง,ลำปาง
+2020,7,DF/D.H.F./DSS,แมลง,มหาสารคาม
+2020,7,Chikungunya fever,แมลง,อุทัยธานี
+2020,7,DF/D.H.F./DSS,แมลง,มหาสารคาม
+2020,7,DF/D.H.F./DSS,แมลง,ตาก
+2020,7,DF/D.H.F./DSS,แมลง,ตาก
+2020,7,Zika,แมลง,เพชรบูรณ์
+2020,7,Scrub Typhus,แมลง,กระบี่
+2020,7,Chikungunya fever,แมลง,ลำปาง
+2020,7,Chikungunya fever,แมลง,ลำปาง
+2020,7,Chikungunya fever,แมลง,ลำปาง
+2020,7,DF/D.H.F./DSS,แมลง,เชียงราย
+2020,7,Scrub Typhus,แมลง,กระบี่
+2020,7,DF/D.H.F./DSS,แมลง,เชียงราย
+2020,8,Chikungunya fever,แมลง,ลำปาง
+2020,8,Chikungunya fever,แมลง,ลำปาง
+2020,8,DF/D.H.F./DSS,แมลง,หนองบัวลำภู
+2020,8,DF/D.H.F./DSS,แมลง,หนองบัวลำภู
+2020,7,DF/D.H.F./DSS,แมลง,อุดรธานี
+2020,8,DF/D.H.F./DSS,แมลง,อุดรธานี
+2020,8,Chikungunya fever,แมลง,ลำปาง
+2020,8,Chikungunya fever,แมลง,ลำปาง
+2020,8,Chikungunya fever,แมลง,บุรีรัมย์
+2020,8,Chikungunya fever,แมลง,บุรีรัมย์
+2020,8,Chikungunya fever,แมลง,นครสวรรค์
+2020,8,Chikungunya fever,แมลง,นครสวรรค์
+2020,8,Chikungunya fever,แมลง,นครสวรรค์
+2020,8,Chikungunya fever,แมลง,นครสวรรค์
+2020,8,DF/D.H.F./DSS,แมลง,ตรัง
+2020,8,DF/D.H.F./DSS,แมลง,ตรัง
+2020,8,Chikungunya fever,แมลง,ลพบุรี
+2020,8,Chikungunya fever,แมลง,ลพบุรี
+2020,8,Chikungunya fever,แมลง,ลพบุรี
+2020,8,Chikungunya fever,แมลง,ลพบุรี
+2020,8,Chikungunya fever,แมลง,ลพบุรี
+2020,8,Chikungunya fever,แมลง,ลพบุรี
+2020,8,Chikungunya fever,แมลง,นครสวรรค์
+2020,8,Zika,แมลง,สงขลา
+2020,8,Scrub Typhus,แมลง,ชลบุรี
+2020,8,Chikungunya fever,แมลง,บุรีรัมย์
+2020,8,Chikungunya fever,แมลง,ชัยนาท
+2020,8,Zika,แมลง,พิษณุโลก
+2020,8,Malaria,แมลง,พิจิตร
+2020,8,Malaria,แมลง,พิจิตร
+2020,8,Chikungunya fever,แมลง,ชัยนาท
+2020,8,Chikungunya fever,แมลง,นครสวรรค์
+2020,8,DF/D.H.F./DSS,แมลง,สระบุรี
+2020,8,DF/D.H.F./DSS,แมลง,สระบุรี
+2020,8,Chikungunya fever,แมลง,นครสวรรค์
+2020,8,Chikungunya fever,แมลง,นครสวรรค์
+2020,8,Chikungunya fever,แมลง,นครสวรรค์
+2020,8,Chikungunya fever,แมลง,นครสวรรค์
+2020,8,Chikungunya fever,แมลง,ชัยนาท
+2020,8,DF/D.H.F./DSS,แมลง,อุตรดิตถ์
+2020,8,DF/D.H.F./DSS,แมลง,อุตรดิตถ์
+2020,8,Zika,แมลง,ฉะเชิงเทรา
+2020,8,Zika,แมลง,ฉะเชิงเทรา
+2020,8,Chikungunya fever,แมลง,ลพบุรี
+2020,8,Zika,แมลง,สุโขทัย
+2020,8,Zika,แมลง,สงขลา
+2020,8,Malaria,แมลง,พิจิตร
+2020,8,Malaria,แมลง,พิจิตร
+2020,8,Chikungunya fever,แมลง,ลพบุรี
+2020,8,Chikungunya fever,แมลง,นครสวรรค์
+2020,8,Chikungunya fever,แมลง,ลพบุรี
+2020,8,Chikungunya fever,แมลง,ลพบุรี
+2020,8,Chikungunya fever,แมลง,ลพบุรี
+2020,8,Chikungunya fever,แมลง,พิจิตร
+2020,8,Chikungunya fever,แมลง,นครสวรรค์
+2020,8,Chikungunya fever,แมลง,ลพบุรี
+2020,8,Zika,แมลง,เชียงใหม่
+2020,8,Chikungunya fever,แมลง,ลพบุรี
+2020,8,Chikungunya fever,แมลง,พิจิตร
+2020,8,DF/D.H.F./DSS,แมลง,นครศรีธรรมราช
+2020,8,DF/D.H.F./DSS,แมลง,นครศรีธรรมราช
+2020,8,Zika,แมลง,ตาก
+2020,8,Zika,แมลง,ปทุมธานี
+2020,8,Zika,แมลง,เพชรบูรณ์
+2020,8,DF/D.H.F./DSS,แมลง,สระบุรี
+2020,8,DF/D.H.F./DSS,แมลง,สระบุรี
+2020,8,Chikungunya fever,แมลง,สุพรรณบุรี
+2020,8,Chikungunya fever,แมลง,สุพรรณบุรี
+2020,8,Zika,แมลง,สงขลา
+2020,8,Chikungunya fever,แมลง,ลำปาง
+2020,8,DF/D.H.F./DSS,แมลง,นครสวรรค์
+2020,8,Chikungunya fever,แมลง,ชัยนาท
+2020,8,DF/D.H.F./DSS,แมลง,นครสวรรค์
+2020,8,Chikungunya fever,แมลง,ลำปาง
+2020,8,Chikungunya fever,แมลง,ชัยนาท
+2020,8,Chikungunya fever,แมลง,ลพบุรี
+2020,8,Chikungunya fever,แมลง,ลพบุรี
+2020,8,Chikungunya fever,แมลง,ลพบุรี
+2020,8,Chikungunya fever,แมลง,ลพบุรี
+2020,7,DF/D.H.F./DSS,แมลง,อุบลราชธานี
+2020,8,DF/D.H.F./DSS,แมลง,อุบลราชธานี
+2020,8,Zika,แมลง,สุพรรณบุรี
+2020,8,Chikungunya fever,แมลง,ลำปาง
+2020,8,Chikungunya fever,แมลง,ลำปาง
+2020,8,Chikungunya fever,แมลง,ลำปาง
+2020,8,Chikungunya fever,แมลง,ลำปาง
+2020,8,Chikungunya fever,แมลง,ลพบุรี
+2020,8,Chikungunya fever,แมลง,ลพบุรี
+2020,8,Chikungunya fever,แมลง,ลพบุรี
+2020,8,DF/D.H.F./DSS,แมลง,ยะลา
+2020,8,DF/D.H.F./DSS,แมลง,ยะลา
+2020,8,DF/D.H.F./DSS,แมลง,สระบุรี
+2020,8,DF/D.H.F./DSS,แมลง,สระบุรี
+2020,8,Chikungunya fever,แมลง,บุรีรัมย์
+2020,8,DF/D.H.F./DSS,แมลง,อุบลราชธานี
+2020,8,Zika,แมลง,สงขลา
+2020,8,Zika,แมลง,สงขลา
+2020,8,DF/D.H.F./DSS,แมลง,อุบลราชธานี
+2020,8,Chikungunya fever,แมลง,ลำปาง
+2020,8,Chikungunya fever,แมลง,ลำปาง
+2020,8,DF/D.H.F./DSS,แมลง,อ่างทอง
+2020,8,Chikungunya fever,แมลง,ลำปาง
+2020,8,DF/D.H.F./DSS,แมลง,อ่างทอง
+2020,8,DF/D.H.F./DSS,แมลง,ยะลา
+2020,8,DF/D.H.F./DSS,แมลง,ยะลา
+2020,8,Chikungunya fever,แมลง,ลพบุรี
+2020,8,Chikungunya fever,แมลง,ลพบุรี
+2020,8,Chikungunya fever,แมลง,ลพบุรี
+2020,8,Chikungunya fever,แมลง,ลพบุรี
+2020,8,Chikungunya fever,แมลง,ลพบุรี
+2020,8,Chikungunya fever,แมลง,ลพบุรี
+2020,8,Chikungunya fever,แมลง,ลพบุรี
+2020,8,Zika,แมลง,บึงกาฬ
+2020,8,DF/D.H.F./DSS,แมลง,อุตรดิตถ์
+2020,8,DF/D.H.F./DSS,แมลง,อุตรดิตถ์
+2020,8,Chikungunya fever,แมลง,ลพบุรี
+2020,8,Chikungunya fever,แมลง,ชัยนาท
+2020,8,Chikungunya fever,แมลง,นครสวรรค์
+2020,8,Malaria,แมลง,อุทัยธานี
+2020,8,Chikungunya fever,แมลง,นครสวรรค์
+2020,8,Chikungunya fever,แมลง,ลำปาง
+2020,8,Chikungunya fever,แมลง,นครราชสีมา
+2020,8,Chikungunya fever,แมลง,ชัยนาท
+2020,8,Zika,แมลง,ตาก
+2020,8,Chikungunya fever,แมลง,ลพบุรี
+2020,8,Chikungunya fever,แมลง,นครสวรรค์
+2020,8,Chikungunya fever,แมลง,ลพบุรี
+2020,8,Chikungunya fever,แมลง,สระบุรี
+2020,8,Zika,แมลง,ตาก
+2020,8,Chikungunya fever,แมลง,สระบุรี
+2020,9,Chikungunya fever,แมลง,ระยอง
+2020,9,Chikungunya fever,แมลง,ลำปาง
+2020,9,Chikungunya fever,แมลง,ลำปาง
+2020,9,DF/D.H.F./DSS,แมลง,สิงห์บุรี
+2020,9,DF/D.H.F./DSS,แมลง,สิงห์บุรี
+2020,9,Chikungunya fever,แมลง,ลำปาง
+2020,9,Zika,แมลง,สงขลา
+2020,9,Chikungunya fever,แมลง,ลพบุรี
+2020,9,Chikungunya fever,แมลง,ลพบุรี
+2020,9,DF/D.H.F./DSS,แมลง,ตราด
+2020,9,Zika,แมลง,สุราษฎร์ธานี
+2020,9,Zika,แมลง,พังงา
+2020,9,DF/D.H.F./DSS,แมลง,ตราด
+2020,9,Chikungunya fever,แมลง,ลำปาง
+2020,9,Chikungunya fever,แมลง,ลำปาง
+2020,9,Chikungunya fever,แมลง,ลำปาง
+2020,9,Chikungunya fever,แมลง,บุรีรัมย์
+2020,9,Chikungunya fever,แมลง,ชัยภูมิ
+2020,9,Chikungunya fever,แมลง,สุรินทร์
+2020,9,Chikungunya fever,แมลง,ฉะเชิงเทรา
+2020,9,Zika,แมลง,เชียงใหม่
+2020,9,DF/D.H.F./DSS,แมลง,เชียงใหม่
+2020,9,DF/D.H.F./DSS,แมลง,เชียงใหม่
+2020,9,Zika,แมลง,ตรัง
+2020,9,Chikungunya fever,แมลง,ลพบุรี
+2020,9,Malaria,แมลง,อุทัยธานี
+2020,9,Chikungunya fever,แมลง,นครสวรรค์
+2020,9,Malaria,แมลง,อุทัยธานี
+2020,9,Chikungunya fever,แมลง,นครสวรรค์
+2020,9,DF/D.H.F./DSS,แมลง,ระยอง
+2020,9,Malaria,แมลง,สกลนคร
+2020,9,DF/D.H.F./DSS,แมลง,ระยอง
+2020,9,Malaria,แมลง,สกลนคร
+2020,9,DF/D.H.F./DSS,แมลง,นครราชสีมา
+2020,9,DF/D.H.F./DSS,แมลง,นครราชสีมา
+2020,9,Scrub Typhus,แมลง,สงขลา
+2020,9,Lymphatic filariasis,แมลง,ปทุมธานี
+2020,9,DF/D.H.F./DSS,แมลง,สิงห์บุรี
+2020,9,DF/D.H.F./DSS,แมลง,สระบุรี
+2020,9,Zika,แมลง,เชียงใหม่
+2020,9,Scrub Typhus,แมลง,สงขลา
+2020,9,DF/D.H.F./DSS,แมลง,อ่างทอง
+2020,9,Chikungunya fever,แมลง,สระบุรี
+2020,9,Chikungunya fever,แมลง,ลพบุรี
+2020,9,Zika,แมลง,อุบลราชธานี
+2020,9,Malaria,แมลง,ชุมพร
+2020,9,Malaria,แมลง,ชุมพร
+2020,9,Chikungunya fever,แมลง,ลพบุรี
+2020,9,Chikungunya fever,แมลง,นครสวรรค์
+2020,9,Chikungunya fever,แมลง,นครสวรรค์
+2020,9,Chikungunya fever,แมลง,สระบุรี
+2020,9,DF/D.H.F./DSS,แมลง,สิงห์บุรี
+2020,9,DF/D.H.F./DSS,แมลง,สิงห์บุรี
+2020,9,Chikungunya fever,แมลง,นครสวรรค์
+2020,9,Zika,แมลง,สุโขทัย
+2020,9,DF/D.H.F./DSS,แมลง,พระนครศรีอยุธยา
+2020,9,DF/D.H.F./DSS,แมลง,พระนครศรีอยุธยา
+2020,9,Zika,แมลง,เชียงใหม่
+2020,9,Zika,แมลง,เชียงใหม่
+2020,9,Zika,แมลง,เชียงใหม่
+2020,9,Chikungunya fever,แมลง,สระบุรี
+2020,9,DF/D.H.F./DSS,แมลง,สิงห์บุรี
+2020,9,DF/D.H.F./DSS,แมลง,สิงห์บุรี
+2020,9,Zika,แมลง,ลพบุรี
+2020,9,DF/D.H.F./DSS,แมลง,ชลบุรี
+2020,9,DF/D.H.F./DSS,แมลง,ชลบุรี
+2020,9,DF/D.H.F./DSS,แมลง,สมุทรปราการ
+2020,9,DF/D.H.F./DSS,แมลง,สมุทรปราการ
+2020,9,DF/D.H.F./DSS,แมลง,ลำปาง
+2020,9,DF/D.H.F./DSS,แมลง,ลำปาง
+2020,9,Zika,แมลง,พิษณุโลก
+2020,10,DF/D.H.F./DSS,แมลง,แม่ฮ่องสอน
+2020,10,Chikungunya fever,แมลง,ลำปาง
+2020,10,Zika,แมลง,เชียงใหม่
+2020,10,Chikungunya fever,แมลง,ลำปาง
+2020,10,DF/D.H.F./DSS,แมลง,สุราษฎร์ธานี
+2020,10,DF/D.H.F./DSS,แมลง,สุราษฎร์ธานี
+2020,10,Chikungunya fever,แมลง,อุบลราชธานี
+2020,10,DF/D.H.F./DSS,แมลง,ลำปาง
+2020,9,Chikungunya fever,แมลง,นครสวรรค์
+2020,10,DF/D.H.F./DSS,แมลง,นนทบุรี
+2020,10,Chikungunya fever,แมลง,นครสวรรค์
+2020,10,Chikungunya fever,แมลง,ลำปาง
+2020,10,Chikungunya fever,แมลง,ลำปาง
+2020,10,Chikungunya fever,แมลง,ลำปาง
+2020,10,Chikungunya fever,แมลง,ลำปาง
+2020,10,Chikungunya fever,แมลง,ลำปาง
+2020,10,Chikungunya fever,แมลง,ลำปาง
+2020,10,Chikungunya fever,แมลง,ลำปาง
+2020,10,Chikungunya fever,แมลง,ลำปาง
+2020,10,Chikungunya fever,แมลง,ลำปาง
+2020,10,Chikungunya fever,แมลง,ศรีสะเกษ
+2020,10,Chikungunya fever,แมลง,พระนครศรีอยุธยา
+2020,10,Chikungunya fever,แมลง,ลำปาง
+2020,10,DF/D.H.F./DSS,แมลง,เชียงราย
+2020,10,DF/D.H.F./DSS,แมลง,เชียงราย
+2020,10,Chikungunya fever,แมลง,ลำปาง
+2020,10,Chikungunya fever,แมลง,ลำปาง
+2020,10,Chikungunya fever,แมลง,ลำปาง
+2020,10,Chikungunya fever,แมลง,ลำปาง
+2020,10,DF/D.H.F./DSS,แมลง,สมุทรสาคร
+2020,10,DF/D.H.F./DSS,แมลง,สมุทรสาคร
+2020,10,DF/D.H.F./DSS,แมลง,นครราชสีมา
+2020,10,DF/D.H.F./DSS,แมลง,นครราชสีมา
+2020,10,Chikungunya fever,แมลง,ลำปาง
+2020,10,Chikungunya fever,แมลง,ลำปาง
+2020,10,Chikungunya fever,แมลง,ชลบุรี
+2020,10,DF/D.H.F./DSS,แมลง,ฉะเชิงเทรา
+2020,10,DF/D.H.F./DSS,แมลง,ฉะเชิงเทรา
+2020,10,Zika,แมลง,สุโขทัย
+2020,10,DF/D.H.F./DSS,แมลง,สระบุรี
+2020,10,Chikungunya fever,แมลง,ชัยนาท
+2020,10,Chikungunya fever,แมลง,นครสวรรค์
+2020,10,Zika,แมลง,พิษณุโลก
+2020,10,Zika,แมลง,พิษณุโลก
+2020,10,DF/D.H.F./DSS,แมลง,สระบุรี
+2020,10,Zika,แมลง,สุโขทัย
+2020,10,DF/D.H.F./DSS,แมลง,สระบุรี
+2020,10,Chikungunya fever,แมลง,ลพบุรี
+2020,10,Chikungunya fever,แมลง,สระบุรี
+2020,10,Chikungunya fever,แมลง,นครสวรรค์
+2020,10,Chikungunya fever,แมลง,นครสวรรค์
+2020,10,DF/D.H.F./DSS,แมลง,เชียงใหม่
+2020,10,Zika,แมลง,สงขลา
+2020,10,DF/D.H.F./DSS,แมลง,เชียงใหม่
+2020,11,Chikungunya fever,แมลง,สงขลา
+2020,11,DF/D.H.F./DSS,แมลง,ชุมพร
+2020,11,DF/D.H.F./DSS,แมลง,ชุมพร
+2020,10,Chikungunya fever,แมลง,ศรีสะเกษ
+2020,11,Zika,แมลง,เชียงใหม่
+2020,11,Chikungunya fever,แมลง,ปัตตานี
+2020,11,Zika,แมลง,เชียงใหม่
+2020,11,Chikungunya fever,แมลง,นราธิวาส
+2020,11,Malaria,แมลง,นครราชสีมา
+2020,11,Malaria,แมลง,นครราชสีมา
+2020,12,DF/D.H.F./DSS,แมลง,นครสวรรค์
+2020,11,Zika,แมลง,สงขลา
+2020,11,DF/D.H.F./DSS,แมลง,พระนครศรีอยุธยา
+2020,11,DF/D.H.F./DSS,แมลง,พระนครศรีอยุธยา
+2020,11,Chikungunya fever,แมลง,ปทุมธานี
+2020,11,Chikungunya fever,แมลง,ปทุมธานี
+2020,11,Zika,แมลง,อุตรดิตถ์
+2020,11,Chikungunya fever,แมลง,ลพบุรี
+2020,11,DF/D.H.F./DSS,แมลง,สุพรรณบุรี
+2020,11,DF/D.H.F./DSS,แมลง,พระนครศรีอยุธยา
+2020,11,DF/D.H.F./DSS,แมลง,พระนครศรีอยุธยา
+2020,11,DF/D.H.F./DSS,แมลง,สุพรรณบุรี
+2020,11,Malaria,แมลง,พิษณุโลก
+2020,11,Malaria,แมลง,ฉะเชิงเทรา
+2020,11,Malaria,แมลง,พิษณุโลก
+2020,11,Malaria,แมลง,ฉะเชิงเทรา
+2020,11,DF/D.H.F./DSS,แมลง,เชียงใหม่
+2020,11,Chikungunya fever,แมลง,ลำปาง
+2020,11,Chikungunya fever,แมลง,ลำปาง
+2020,11,Chikungunya fever,แมลง,ลำปาง
+2020,11,DF/D.H.F./DSS,แมลง,เชียงใหม่
+2020,12,Chikungunya fever,แมลง,นครสวรรค์
+2020,12,Chikungunya fever,แมลง,นครสวรรค์
+2020,11,Zika,แมลง,สุราษฎร์ธานี
+2020,12,Zika,แมลง,อุตรดิตถ์
+2020,12,Chikungunya fever,แมลง,ชัยนาท
+2020,12,DF/D.H.F./DSS,แมลง,พัทลุง
+2020,12,DF/D.H.F./DSS,แมลง,พัทลุง
+2020,12,Zika,แมลง,เชียงใหม่
+2020,12,Chikungunya fever,แมลง,สระบุรี
+2020,12,Chikungunya fever,แมลง,ชัยนาท
+2020,12,Chikungunya fever,แมลง,นครสวรรค์
+2020,12,Malaria,แมลง,อุทัยธานี
+2020,12,Chikungunya fever,แมลง,นครสวรรค์
+2020,12,Malaria,แมลง,อุทัยธานี
+2020,12,DF/D.H.F./DSS,แมลง,นครสวรรค์
+2020,12,Malaria,แมลง,กรุงเทพมหานคร
+2020,12,Malaria,แมลง,กรุงเทพมหานคร

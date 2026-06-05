@@ -1,0 +1,489 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_633f6c0b0a9a0ed2a14ca7d13c6fd66a {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-minimap/3.6.1/Control.MiniMap.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet-minimap/3.6.1/Control.MiniMap.css"/>
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_633f6c0b0a9a0ed2a14ca7d13c6fd66a" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_633f6c0b0a9a0ed2a14ca7d13c6fd66a = L.map(
+                "map_633f6c0b0a9a0ed2a14ca7d13c6fd66a",
+                {
+                    center: [9.13, 99.33],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 9,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_de9ce2179a6ce2b40a7fe9efe595e3b1 = L.tileLayer(
+                "https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 20,
+  "maxNativeZoom": 20,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors \u0026copy; \u003ca href=\"https://carto.com/attributions\"\u003eCARTO\u003c/a\u003e",
+  "subdomains": "abcd",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_de9ce2179a6ce2b40a7fe9efe595e3b1.addTo(map_633f6c0b0a9a0ed2a14ca7d13c6fd66a);
+        
+    
+            var circle_marker_cd8f35c06401a39df079189058f7eb10 = L.circleMarker(
+                [9.0816793, 99.5330192],
+                {"bubblingMouseEvents": true, "color": "#e74c3c", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#e74c3c", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 21.086195652173913, "stroke": true, "weight": 3}
+            ).addTo(map_633f6c0b0a9a0ed2a14ca7d13c6fd66a);
+        
+    
+        var popup_ee97fde78f239b8e1927c4f6ce030dc9 = L.popup({
+  "maxWidth": 220,
+});
+
+        
+            
+                var html_f3aa77e77c6374cefb6f244b217b44de = $(`<div id="html_f3aa77e77c6374cefb6f244b217b44de" style="width: 100.0%; height: 100.0%;">     <div style='font-family:Tahoma; width:200px; font-size:13px'>         <b>อ.กาญจนดิษฐ์</b><br>         💰 เงิน/ไร่: <b>2,408 บาท</b><br>         💰 เงิน/คน: <b>4,988 บาท</b><br>         🌾 พื้นที่: 14.5 ไร่<br>         👥 เกษตรกร: 7 ราย     </div>     </div>`)[0];
+                popup_ee97fde78f239b8e1927c4f6ce030dc9.setContent(html_f3aa77e77c6374cefb6f244b217b44de);
+            
+        
+
+        circle_marker_cd8f35c06401a39df079189058f7eb10.bindPopup(popup_ee97fde78f239b8e1927c4f6ce030dc9)
+        ;
+
+        
+    
+    
+            circle_marker_cd8f35c06401a39df079189058f7eb10.bindTooltip(
+                `<div>
+                     อ.กาญจนดิษฐ์ — 2,408 บาท/ไร่
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_e5fff64e9b4dc20ca34b2bf2ff88a72c = L.circleMarker(
+                [9.3170693, 99.6951101],
+                {"bubblingMouseEvents": true, "color": "#e74c3c", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#e74c3c", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 19.52282608695652, "stroke": true, "weight": 3}
+            ).addTo(map_633f6c0b0a9a0ed2a14ca7d13c6fd66a);
+        
+    
+        var popup_bdb229feea8fed18ee9051159c6bf5f1 = L.popup({
+  "maxWidth": 220,
+});
+
+        
+            
+                var html_63005f28fb3189af6a74426d58e1a1b8 = $(`<div id="html_63005f28fb3189af6a74426d58e1a1b8" style="width: 100.0%; height: 100.0%;">     <div style='font-family:Tahoma; width:200px; font-size:13px'>         <b>อ.ดอนสัก</b><br>         💰 เงิน/ไร่: <b>2,120 บาท</b><br>         💰 เงิน/คน: <b>10,424 บาท</b><br>         🌾 พื้นที่: 29.5 ไร่<br>         👥 เกษตรกร: 6 ราย     </div>     </div>`)[0];
+                popup_bdb229feea8fed18ee9051159c6bf5f1.setContent(html_63005f28fb3189af6a74426d58e1a1b8);
+            
+        
+
+        circle_marker_e5fff64e9b4dc20ca34b2bf2ff88a72c.bindPopup(popup_bdb229feea8fed18ee9051159c6bf5f1)
+        ;
+
+        
+    
+    
+            circle_marker_e5fff64e9b4dc20ca34b2bf2ff88a72c.bindTooltip(
+                `<div>
+                     อ.ดอนสัก — 2,120 บาท/ไร่
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_8634a64f61e4587a350cfa83900bbf38 = L.circleMarker(
+                [9.0816444, 99.3247719],
+                {"bubblingMouseEvents": true, "color": "#e74c3c", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#e74c3c", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 24.503478260869564, "stroke": true, "weight": 3}
+            ).addTo(map_633f6c0b0a9a0ed2a14ca7d13c6fd66a);
+        
+    
+        var popup_286f41a6fc9407a4d9b7ed02bbf940ef = L.popup({
+  "maxWidth": 220,
+});
+
+        
+            
+                var html_443d6b99875fb0b9d119971c0e9bee58 = $(`<div id="html_443d6b99875fb0b9d119971c0e9bee58" style="width: 100.0%; height: 100.0%;">     <div style='font-family:Tahoma; width:200px; font-size:13px'>         <b>อ.ท่าฉาง</b><br>         💰 เงิน/ไร่: <b>3,037 บาท</b><br>         💰 เงิน/คน: <b>8,667 บาท</b><br>         🌾 พื้นที่: 17.125 ไร่<br>         👥 เกษตรกร: 6 ราย     </div>     </div>`)[0];
+                popup_286f41a6fc9407a4d9b7ed02bbf940ef.setContent(html_443d6b99875fb0b9d119971c0e9bee58);
+            
+        
+
+        circle_marker_8634a64f61e4587a350cfa83900bbf38.bindPopup(popup_286f41a6fc9407a4d9b7ed02bbf940ef)
+        ;
+
+        
+    
+    
+            circle_marker_8634a64f61e4587a350cfa83900bbf38.bindTooltip(
+                `<div>
+                     อ.ท่าฉาง — 3,037 บาท/ไร่
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_8eb6206b82b49247b5803d4fa5c15b1e = L.circleMarker(
+                [8.9945188, 98.9757787],
+                {"bubblingMouseEvents": true, "color": "#27ae60", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#27ae60", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 30.0, "stroke": true, "weight": 3}
+            ).addTo(map_633f6c0b0a9a0ed2a14ca7d13c6fd66a);
+        
+    
+        var popup_fec3d559bde7c977947048afa3a2ee9c = L.popup({
+  "maxWidth": 220,
+});
+
+        
+            
+                var html_c2331fc125bea08a84077063c8e1f7e7 = $(`<div id="html_c2331fc125bea08a84077063c8e1f7e7" style="width: 100.0%; height: 100.0%;">     <div style='font-family:Tahoma; width:200px; font-size:13px'>         <b>อ.คีรีรัฐนิคม</b><br>         💰 เงิน/ไร่: <b>4,048 บาท</b><br>         💰 เงิน/คน: <b>7,084 บาท</b><br>         🌾 พื้นที่: 3.5 ไร่<br>         👥 เกษตรกร: 2 ราย     </div>     </div>`)[0];
+                popup_fec3d559bde7c977947048afa3a2ee9c.setContent(html_c2331fc125bea08a84077063c8e1f7e7);
+            
+        
+
+        circle_marker_8eb6206b82b49247b5803d4fa5c15b1e.bindPopup(popup_fec3d559bde7c977947048afa3a2ee9c)
+        ;
+
+        
+    
+    
+            circle_marker_8eb6206b82b49247b5803d4fa5c15b1e.bindTooltip(
+                `<div>
+                     อ.คีรีรัฐนิคม — 4,048 บาท/ไร่
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_a3566f5d85016da7484e06506e925fc7 = L.circleMarker(
+                [8.5706466, 99.2457732],
+                {"bubblingMouseEvents": true, "color": "#27ae60", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#27ae60", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 30.0, "stroke": true, "weight": 3}
+            ).addTo(map_633f6c0b0a9a0ed2a14ca7d13c6fd66a);
+        
+    
+        var popup_2cb5c206c4706945ac5b108ead8f961a = L.popup({
+  "maxWidth": 220,
+});
+
+        
+            
+                var html_fd87e9149f5c6f3492fbef7d15219e47 = $(`<div id="html_fd87e9149f5c6f3492fbef7d15219e47" style="width: 100.0%; height: 100.0%;">     <div style='font-family:Tahoma; width:200px; font-size:13px'>         <b>อ.พระแสง</b><br>         💰 เงิน/ไร่: <b>4,048 บาท</b><br>         💰 เงิน/คน: <b>11,436 บาท</b><br>         🌾 พื้นที่: 28.25 ไร่<br>         👥 เกษตรกร: 10 ราย     </div>     </div>`)[0];
+                popup_2cb5c206c4706945ac5b108ead8f961a.setContent(html_fd87e9149f5c6f3492fbef7d15219e47);
+            
+        
+
+        circle_marker_a3566f5d85016da7484e06506e925fc7.bindPopup(popup_2cb5c206c4706945ac5b108ead8f961a)
+        ;
+
+        
+    
+    
+            circle_marker_a3566f5d85016da7484e06506e925fc7.bindTooltip(
+                `<div>
+                     อ.พระแสง — 4,048 บาท/ไร่
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_28c46cecdc76aab8b7f0ef0648ed1d79 = L.circleMarker(
+                [9.1439044, 99.3238919],
+                {"bubblingMouseEvents": true, "color": "#27ae60", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#27ae60", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 28.987445652173914, "stroke": true, "weight": 3}
+            ).addTo(map_633f6c0b0a9a0ed2a14ca7d13c6fd66a);
+        
+    
+        var popup_a14c26f5f94a0898ca6c4a1e9ec1a9d4 = L.popup({
+  "maxWidth": 220,
+});
+
+        
+            
+                var html_9f10b81c30dec8cf75189cbd9c2da4d8 = $(`<div id="html_9f10b81c30dec8cf75189cbd9c2da4d8" style="width: 100.0%; height: 100.0%;">     <div style='font-family:Tahoma; width:200px; font-size:13px'>         <b>อ.ไชยา</b><br>         💰 เงิน/ไร่: <b>3,862 บาท</b><br>         💰 เงิน/คน: <b>3,297 บาท</b><br>         🌾 พื้นที่: 11.1 ไร่<br>         👥 เกษตรกร: 13 ราย     </div>     </div>`)[0];
+                popup_a14c26f5f94a0898ca6c4a1e9ec1a9d4.setContent(html_9f10b81c30dec8cf75189cbd9c2da4d8);
+            
+        
+
+        circle_marker_28c46cecdc76aab8b7f0ef0648ed1d79.bindPopup(popup_a14c26f5f94a0898ca6c4a1e9ec1a9d4)
+        ;
+
+        
+    
+    
+            circle_marker_28c46cecdc76aab8b7f0ef0648ed1d79.bindTooltip(
+                `<div>
+                     อ.ไชยา — 3,862 บาท/ไร่
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_05751d5e95e6d3f1bcab1b209f99f5f4 = L.circleMarker(
+                [8.8332741, 99.4244682],
+                {"bubblingMouseEvents": true, "color": "#27ae60", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#27ae60", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 30.0, "stroke": true, "weight": 3}
+            ).addTo(map_633f6c0b0a9a0ed2a14ca7d13c6fd66a);
+        
+    
+        var popup_77949cbcdd2ffe46cae6be40f9fe4e3f = L.popup({
+  "maxWidth": 220,
+});
+
+        
+            
+                var html_2b404397e6f98ce04e7b541674dcf641 = $(`<div id="html_2b404397e6f98ce04e7b541674dcf641" style="width: 100.0%; height: 100.0%;">     <div style='font-family:Tahoma; width:200px; font-size:13px'>         <b>อ.บ้านนาสาร</b><br>         💰 เงิน/ไร่: <b>4,048 บาท</b><br>         💰 เงิน/คน: <b>3,795 บาท</b><br>         🌾 พื้นที่: 1.875 ไร่<br>         👥 เกษตรกร: 2 ราย     </div>     </div>`)[0];
+                popup_77949cbcdd2ffe46cae6be40f9fe4e3f.setContent(html_2b404397e6f98ce04e7b541674dcf641);
+            
+        
+
+        circle_marker_05751d5e95e6d3f1bcab1b209f99f5f4.bindPopup(popup_77949cbcdd2ffe46cae6be40f9fe4e3f)
+        ;
+
+        
+    
+    
+            circle_marker_05751d5e95e6d3f1bcab1b209f99f5f4.bindTooltip(
+                `<div>
+                     อ.บ้านนาสาร — 4,048 บาท/ไร่
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_60e73d98480fb200ce24048fc4ad9111 = L.circleMarker(
+                [8.8960228, 99.2636107],
+                {"bubblingMouseEvents": true, "color": "#27ae60", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#27ae60", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 30.0, "stroke": true, "weight": 3}
+            ).addTo(map_633f6c0b0a9a0ed2a14ca7d13c6fd66a);
+        
+    
+        var popup_d4d0026b1eca63ebd47ef0f68b8303e6 = L.popup({
+  "maxWidth": 220,
+});
+
+        
+            
+                var html_bcaf2f918e4e1b23964e49549edaaea7 = $(`<div id="html_bcaf2f918e4e1b23964e49549edaaea7" style="width: 100.0%; height: 100.0%;">     <div style='font-family:Tahoma; width:200px; font-size:13px'>         <b>อ.บ้านนาเดิม</b><br>         💰 เงิน/ไร่: <b>4,048 บาท</b><br>         💰 เงิน/คน: <b>24,288 บาท</b><br>         🌾 พื้นที่: 60.0 ไร่<br>         👥 เกษตรกร: 10 ราย     </div>     </div>`)[0];
+                popup_d4d0026b1eca63ebd47ef0f68b8303e6.setContent(html_bcaf2f918e4e1b23964e49549edaaea7);
+            
+        
+
+        circle_marker_60e73d98480fb200ce24048fc4ad9111.bindPopup(popup_d4d0026b1eca63ebd47ef0f68b8303e6)
+        ;
+
+        
+    
+    
+            circle_marker_60e73d98480fb200ce24048fc4ad9111.bindTooltip(
+                `<div>
+                     อ.บ้านนาเดิม — 4,048 บาท/ไร่
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_e1832bbf8ef3cbaf86911b8b0388850e = L.circleMarker(
+                [8.7604494, 99.0748535],
+                {"bubblingMouseEvents": true, "color": "#27ae60", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#27ae60", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 30.0, "stroke": true, "weight": 3}
+            ).addTo(map_633f6c0b0a9a0ed2a14ca7d13c6fd66a);
+        
+    
+        var popup_3363f6c85a65bc1e1967ccb20c1e613c = L.popup({
+  "maxWidth": 220,
+});
+
+        
+            
+                var html_b5e5b66c91ca79919aef739a43c02ccd = $(`<div id="html_b5e5b66c91ca79919aef739a43c02ccd" style="width: 100.0%; height: 100.0%;">     <div style='font-family:Tahoma; width:200px; font-size:13px'>         <b>อ.เคียนซา</b><br>         💰 เงิน/ไร่: <b>4,048 บาท</b><br>         💰 เงิน/คน: <b>20,240 บาท</b><br>         🌾 พื้นที่: 20.0 ไร่<br>         👥 เกษตรกร: 4 ราย     </div>     </div>`)[0];
+                popup_3363f6c85a65bc1e1967ccb20c1e613c.setContent(html_b5e5b66c91ca79919aef739a43c02ccd);
+            
+        
+
+        circle_marker_e1832bbf8ef3cbaf86911b8b0388850e.bindPopup(popup_3363f6c85a65bc1e1967ccb20c1e613c)
+        ;
+
+        
+    
+    
+            circle_marker_e1832bbf8ef3cbaf86911b8b0388850e.bindTooltip(
+                `<div>
+                     อ.เคียนซา — 4,048 บาท/ไร่
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_4b0df73ecee9dbb5d6d14a951e1eaee9 = L.circleMarker(
+                [8.5886722, 99.3491483],
+                {"bubblingMouseEvents": true, "color": "#27ae60", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#27ae60", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 30.0, "stroke": true, "weight": 3}
+            ).addTo(map_633f6c0b0a9a0ed2a14ca7d13c6fd66a);
+        
+    
+        var popup_c11132bbf3da55539ed0f9ed78dee65a = L.popup({
+  "maxWidth": 220,
+});
+
+        
+            
+                var html_09ce93c9a067ba63034e4e4cab83c063 = $(`<div id="html_09ce93c9a067ba63034e4e4cab83c063" style="width: 100.0%; height: 100.0%;">     <div style='font-family:Tahoma; width:200px; font-size:13px'>         <b>อ.เวียงสระ</b><br>         💰 เงิน/ไร่: <b>4,048 บาท</b><br>         💰 เงิน/คน: <b>15,469 บาท</b><br>         🌾 พื้นที่: 26.75 ไร่<br>         👥 เกษตรกร: 7 ราย     </div>     </div>`)[0];
+                popup_c11132bbf3da55539ed0f9ed78dee65a.setContent(html_09ce93c9a067ba63034e4e4cab83c063);
+            
+        
+
+        circle_marker_4b0df73ecee9dbb5d6d14a951e1eaee9.bindPopup(popup_c11132bbf3da55539ed0f9ed78dee65a)
+        ;
+
+        
+    
+    
+            circle_marker_4b0df73ecee9dbb5d6d14a951e1eaee9.bindTooltip(
+                `<div>
+                     อ.เวียงสระ — 4,048 บาท/ไร่
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_b9d4400d5079cf4862cadd6703717c86 = L.circleMarker(
+                [9.0244968, 99.1817627],
+                {"bubblingMouseEvents": true, "color": "#27ae60", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#27ae60", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 30.0, "stroke": true, "weight": 3}
+            ).addTo(map_633f6c0b0a9a0ed2a14ca7d13c6fd66a);
+        
+    
+        var popup_772d2bfa42e8085bd2aabbb147b29b66 = L.popup({
+  "maxWidth": 220,
+});
+
+        
+            
+                var html_ef39d6afc813765dca57a70ddb6f5b95 = $(`<div id="html_ef39d6afc813765dca57a70ddb6f5b95" style="width: 100.0%; height: 100.0%;">     <div style='font-family:Tahoma; width:200px; font-size:13px'>         <b>อ.พุนพิน</b><br>         💰 เงิน/ไร่: <b>4,048 บาท</b><br>         💰 เงิน/คน: <b>3,205 บาท</b><br>         🌾 พื้นที่: 4.75 ไร่<br>         👥 เกษตรกร: 6 ราย     </div>     </div>`)[0];
+                popup_772d2bfa42e8085bd2aabbb147b29b66.setContent(html_ef39d6afc813765dca57a70ddb6f5b95);
+            
+        
+
+        circle_marker_b9d4400d5079cf4862cadd6703717c86.bindPopup(popup_772d2bfa42e8085bd2aabbb147b29b66)
+        ;
+
+        
+    
+    
+            circle_marker_b9d4400d5079cf4862cadd6703717c86.bindTooltip(
+                `<div>
+                     อ.พุนพิน — 4,048 บาท/ไร่
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var tile_layer_81efe4cea787a7baa52f2c58e5d02492 = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors", "detect_retina": false, "max_native_zoom": 19, "max_zoom": 19, "min_zoom": 0, "no_wrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+            var mini_map_e38bb3d336e0fe4252bbe867c6e97bac = new L.Control.MiniMap(
+                tile_layer_81efe4cea787a7baa52f2c58e5d02492,
+                {
+  "position": "bottomright",
+  "width": 150,
+  "height": 150,
+  "collapsedWidth": 25,
+  "collapsedHeight": 25,
+  "zoomLevelOffset": -5,
+  "centerFixed": false,
+  "zoomAnimation": false,
+  "toggleDisplay": true,
+  "autoToggleDisplay": false,
+  "minimized": false,
+}
+            );
+            map_633f6c0b0a9a0ed2a14ca7d13c6fd66a.addControl(mini_map_e38bb3d336e0fe4252bbe867c6e97bac);
+        
+</script>
+</html>
