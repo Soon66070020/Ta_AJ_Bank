@@ -1,0 +1,697 @@
+﻿ลำดับ (Item No.),รายการเครื่องมือวัด (Description),ช่วงการวัด (Range),ความสามารถในการวัดและสอบเทียบ (CMC / Uncertainty),ราคาค่าธรรมเนียม (Price - THB),หมายเหตุ (Remark),รหัสบริการ (Service Code)
+2519.0,Diaphragm Gas Meter,(0.06 to 10) m3/h,0.01,"5,000 / 3 points (0.06, 2, 10) m3/h / 1 meter +1250/next point",Comparison Method,10081-10103
+2520.0,Flaw Detector,"X-axis (25.25 to 170) mm
+Y-axis (10 to 100) %dB",0.5% of reading,"10,000/5 points/1 probe+1500/next probe",Direct measurement by ultrasonic system,10080-10603
+2521.0,Vickers : HV  According to ISO6507-3,"HV 5, HV 10, HV 20, HV 30, HV 50, HV 100
+Range 100 HV to 950 HV",(2.1 + 2600/d2)% of HV,"25,400/piece",,10050-20201
+2522.0,Rain Gauge,(10 - 480) mm/h,0.01,"12,500/5 points
++2,500/next point",Calibration Fluid : WaterGravimetric Method,10080-10802
+2523.0,Certified Reference Block Rockwell : HR According to ISO6508-3 : 2023,HR15N,0.50 HR15N,"17,500/piece",According to ISO6508-3 : 2023,10050-20101
+2524.0,Recalibration of Reference Block Rockwell : HR According to ISO6508-3 : 2023,HR15N,0.50 HR15N,"9,350/piece",According to ISO6508-3 : 2023,10050-10101
+2525.0,Testing the nanoindentation hardness of materials,"Test force : 0.1 to 480 mN
+Depth (Dz) : 0 to 7.2 ?m
+Loading rate : 0.1 mN/min to 10 N/min
+Testing cycle : 1 to 70 s","4.0 GPa of Indentation
+modulus; EIT","8,500/piece",Based on the ISO 14577-1:2015,10050-10601
+,Mass Standard,1 kg,"0.038 mg 
+(Class E0)","18,750/piece","
+Comparison in air",10011 - 10001
+,Mass Standard set,1 mg to 10 mg,,"22,500/set",,10011 - 10101
+,Mass Standard,1 mg to 1 kg,Class E1,"4,500/piece",Mass and Conventional mass,10011 - 10101
+,Mass Standard set,20 mg to 100 mg,,"18,000/set",,10011 - 10101
+,Mass Standard set,200 mg to 1 g,,"18,000/set",,10011 - 10101
+,Mass Standard set,200 g to 1 kg,,"18,000/set",,10011 - 10101
+,Mass Standard set,2 g to 10 g,,"18,000/set",,10011 - 10101
+,Mass Standard set,20 g to 100 g,,"18,000/set",,10011 - 10101
+,Mass Standard,2 kg,Class E1,"5,070/piece",Mass and Conventional mass,10011 - 10102
+,Mass Standard,5 kg,Class E1,"5,630/piece",Mass and Conventional mass,10011 - 10103
+,Mass Standard set,2 kg to 10 kg,,"21,710/set",,10011 - 10104
+,Mass Standard,10 kg,Class E1,"5,940/piece",Mass and Conventional mass,10011 - 10104
+,Mass Standard,20 kg,Class E1,"6,250/piece",Mass and Conventional mass,10011 - 10105
+,Mass Standard or Mass Standard set,1 mg to 1 kg,Class E2 ,"2,050/piece",Conventional mass,10011 - 10201
+,Mass Standard or Mass Standard set,2 kg,Class E2 ,"2,750/piece",Conventional mass,10011 - 10202
+,Mass Standard or Mass Standard set,5 kg,Class E2 ,"2,750/piece",Conventional mass,10011 - 10203
+,Mass Standard or Mass Standard set,10 kg,Class E2 ,"3,130/piece",Conventional mass,10011 - 10204
+,Mass Standard or Mass Standard set,20 kg,Class E2 ,"3,940/piece",Conventional mass,10011 - 10205
+,Mass Standard or Mass Standard set,50 kg,Class E2 ,"8,000/piece",Conventional mass,10011 - 10206
+,Mass Standard or Mass Standard set,1 mg to 1 kg,Class F1 and lower,"1,690/piece",Conventional mass,10011 - 10301
+,Mass Standard or Mass Standard set,2 kg,Class F1 and lower,"2,250/piece",Conventional mass,10011 - 10302
+,Mass Standard or Mass Standard set,5 kg,Class F1 and lower,"2,750/piece",Conventional mass,10011 - 10303
+,Mass Standard or Mass Standard set,10 kg,Class F1 and lower,"2,750/piece",Conventional mass,10011 - 10304
+,Mass Standard or Mass Standard set,20 kg,Class F1 and lower,"3,130/piece",Conventional mass,10011 - 10305
+,Mass Standard or Mass Standard set,50 kg,Class F1 and lower,"6,250/piece",Conventional mass,10011 - 10306
+,Mass Standard or Mass Standard set,100 kg,Class F1 and lower,"10,170/piece",Conventional mass,10011 - 10307
+,Mass Standard or Mass Standard set,200 kg,Class F1 and lower,"15,000/piece",Conventional mass,10011 - 10308
+,Mass Standard or Mass Standard set,500 kg,Class F1 and lower,"15,000/piece",Conventional mass,10011 - 10401
+,Mass Standard or Mass Standard set,1000 kg,Class F2 and lower,"16,250/piece",Conventional mass,10011 - 10402
+,Mass Standard or Mass Standard set,2000 kg,Class M1 and lower,"20,000/piece",Conventional mass,10011 - 10501
+,Volume magnetic susceptibility of weight,1 g to 20 kg,In the range of 10% to 20% of magnetic polarization,"2,820/piece",By the susceptometer method,10012 - 10101
+,"Permanent magnetization of weight 
+(including magnetic susceptibility)",0.005 µT - 2.5 µT  /2.5 µT - 120 µT,0.5 µT  / In the range of 10% to 20% of magnetic polarization,"5,000/piece","By the susceptometer method
+(Nominal weight range 1 g to 20 kg)",10012 - 10102
+,Permanent magnetization of weight ,0  µT - 250 µT,"10  µT + 0.03 µ0M
+µ0M = Permanent magnetization µT","1,250/piece","By gaussmeter
+(Nominal weight range 1 g to 20 kg)",10012 - 10103
+,"Surface roughness (Ra,Rz) of weight",Up to 50  mm,where Zm (unit nm) being measured value of weight,"7,500/piece",Nominal weight range 1 g to 1 kg,10013 - 10101
+,"Inter-laboratory comparison on mass measurement;
+'- Non Automatic Weighing Instruments (NAWI), Electonic balance""","Single range, Resolution 0.001 mg,
+Maximum capacity 21 g,
+Number of scale interval 21,000,000",NIMT.M.M-09,"5,000",,10014-10101
+,Inter-laboratory comparison on mass measurement;,1000 kg,NIMT.M.M-12,"20,250",Conventional mass,10014-10102
+,#NAME?,"200 g , 1 kg  and  20 kg ",NIMT.M.M-13,"9,830","Conventional mass
+(200 g ,1 kg- F2 Class
+and 20 kg-M1 Class)",10014-10103
+,#NAME?,"100 mg, 100 g, and 1 kg ",NIMT.M.M-F1.01/2020,"5,000"," Conventional mass
+(100 mg, 100 g, and 1 kg- F1 Class)",10014-10104
+,"Non Automatic Weighing Instruments (NAWI), Electonic balance",> 10 kg to 20 kg,0.64 mg + (1.59 X 10-7) X W,5200,Based on the EURAMET calibration guide No.18 version 4.0 (11/2015),10015-30101
+,"Non Automatic Weighing Instruments (NAWI), Electonic balance",>  5g to 100 g,0.04 mg + (4.62 X 10-7) X W,5200,Based on the EURAMET calibration guide No.18 version 4.0 (11/2015),10015-30101
+,"Non Automatic Weighing Instruments (NAWI), Electonic balance",> 100 g to 500 g,0.04 mg + (4.87 X 10-7) X W,5200,Based on the EURAMET calibration guide No.18 version 4.0 (11/2015),10015-30101
+,"Non Automatic Weighing Instruments (NAWI), Electonic balance",>  500 g to 10 kg,0.45 mg + (2.49 X 10-7) X W,5200,Based on the EURAMET calibration guide No.18 version 4.0 (11/2015),10015-30101
+,"Non Automatic Weighing Instruments (NAWI), Electonic balance",> 20 kg to 65 kg,0.86 mg + (1.32 X 10-7) X W,5200,Based on the EURAMET calibration guide No.18 version 4.0 (11/2015),10015-30101
+,"Non Automatic Weighing Instruments (NAWI), Electonic balance",Up to 5 g,0.03 mg + (7.22 X 10-10) X W,5200,Based on the EURAMET calibration guide No.18 version 4.0 (11/2015),10015-30101
+,Automatic Catchweighing Instruments (ACI),> 100.0 g   to 1000.0   g ,1.05  g,"5,200/3 test loads
+ + 1,250 next test load","1. Test loads shall be provided by client 
+2. In-house method based on the EURAMET - Publishable Summary for 14RPT02 AWICal",10015-30102
+,Automatic Catchweighing Instruments (ACI),(0.2  to 100.0)   g  ,0.78  g,"5,200/3 test loads
+ + 1,250 next test load","1. Test loads shall be provided by client 
+2. In-house method based on the EURAMET - Publishable Summary for 14RPT02 AWICal",10015-30102
+,Automatic Catchweighing Instruments (ACI),> 1000.0 g to 1500.0   g ,1.12  g,"5,200/3 test loads
+ + 1,250 next test load","1. Test loads shall be provided by client 
+2. In-house method based on the EURAMET - Publishable Summary for 14RPT02 AWICal",10015-30102
+,Density and volume of weight ( 1 g to 20 kg),1 g/2 g/5 g/10 g/20 g/50 g/100 g /200 g /500 g / 1 kg /2 kg /5 kg /10 kg /20 kg,"120 kg m-3, 0.002 cm3  /60 kg m-3, 0.002 cm3 /  20 kg m-3, 0.002 cm3 / 15 kg m-3, 0.002 cm3 / 10 kg m-3, 0.004 cm3 /5.6 kg m-3, 0.004 cm3/ 4.4 kg m-3, 0.004 cm3 /3.8 kg m-3, 0.007 cm3 /2.7 kg m-3, 0.018 cm3/ 2.6 kg m-3, 0.036 cm3 /6.8  kg m-3, 0.21 cm3 /3.3  kg m-3, 0.25 cm3/2.4  kg m-3, 0.4 cm3/2  kg m-3, 0.7 cm3","3,920/piece",Any class which no cavity by hydrostatic weighing method,10021 - 10101
+,Density and volume of solid artifact,"2700 kg m-3 to 9000 kg m-3
+ 1.25 cm3 to 110 cm3","6/V0.8 kg m-3
+(0.04123V+0.4592) mm3
+V = volume cm3","8,750/piece","Hydrostatic weighing method
+(Traceable to a solid density standard)",10021 - 10102
+,"Hydrometer
+'- Density
+'- Specific Gravity
+'- API
+'- Brix
+'- Brumé
+'- Alcoholometer",600 to 2000 kg m-3,"3.22x10-5 d + 0.0207  kg m-3 
+ËÃ×Íà·ÕÂºà·èÒã¹Ë¹èÇÂÍ×è¹
+d = density kg m-3","7,040/3 points 
+ + 1250 next point","Hydrostatic weighing method
+(Cuckow method)",10021 - 10301
+,"Hydrometer
+'- Density
+'- Specific Gravity
+'- API
+'- Brix
+'- Brumé
+'- Alcoholometer",,"0.25 kg m-3
+0.00010 sp/gr
+0.030 °API
+0.30 °Brix
+0.030 Bé
+0.10 %vol","4,230/3 points
+ + 1250 next point",,10021 - 10302
+,"Density of liquid 
+",600 to 1500 kg m-3,0.1 to 2.0 kg m-3,"6,750/piece",By hydrostatic weighing method,10021 - 10401
+,"Density of liquid 
+",700 to 1600 kg m-3,0.10 kg m-3,"1,250/piece",By oscillation-type density meter ,10021 - 10402
+,"Density Meter, 
+Benchtop & Portable Oscillation Type",1000 to 1600 kg m-3,0.030 kg m-3,"22,000/piece",By direct comparison with reference fluids in accordance with ISO 15212,10021 - 10501
+,"Density Meter, 
+Benchtop & Portable Oscillation Type",650 to 1000 kg m-3,0.020 kg m-3,"22,000/piece",By direct comparison with reference fluids in accordance with ISO 15212,10021 - 10501
+,"Inter-laboratory comparison on density measurement
+'- Artifact: Hydrometer","9 - 81 ?API  
+640 – 1320 kg m-3 ",NIMT.M.D-01/2018,"5,000",,10021 - 10601
+,"CRM - Density of Water : 20 Litres
+@ 20°C",998.20 kg m-3,1.00 kg m-3,500/piece,,10021 - 10701
+,"CRM - Density of Water : 20 ml
+@ 20°C",998.20 kg m-3,1.00 kg m-3,300/piece,,10021 - 10702
+,"Dynamic viscosity of liquid 
+",100 to 15000 mPa·s,0.1,750/sample,By rotational viscometer method,10022 - 10101
+,Force-proving instrument ,1 kN to 110* kN,"ISO 376:2011, 
+0.0020 %","16,250/direction",Calibrated by deadweight force ,10030 - 10101
+,Force-proving instrument ,0.1 kN to 1.5 kN,"ISO 376:2011, 
+0.0050 %","13,500/direction",standard machine.,10030 - 10102
+,Force-proving instrument ,0.2 kN to 5 kN,"ISO 376:2011, 
+0.0050 %","13,500/direction",Digital indicator shall be provided by,10030 - 10103
+,Force-proving instrument ,16 kN to 500 kN,"ISO 376:2011, 
+0.0080 %","23,000/direction",customer.,10030 - 10104
+,Force-proving instrument ,50 N to 500 N,"ISO 376:2011, 
+0.0040 %","8,500/direction",,10030 - 10105
+,Force-proving instrument ,10 N to 200 N,"ISO 376:2011, 
+0.0040%","8,500/direction",,10030 - 10106
+,Force-proving instrument ,1 N to 50 N,"ISO 376:2011, 
+0.010%","8,500/direction",,10030 - 10107
+,Force-proving instrument ,20 kN to 100 kN,"Accroding to ISO 376:2011 
+Class 0.5 to 2","11,000/direction",Calibrated by force-comparator,10030 - 10201
+,Force-proving instrument ,> 100 kN to 500 kN,,"15,000/direction",Digital indicator shall be provided by ,10030 - 10202
+,Strain Amplifier(Digital Measurement Amplifier),"± 2.0 mV/V
+± 5.0 mV/V","2.5 x 10-5 mV/V
+3.0 x 10-4 mV/V","4,200/range",Calibrated by Bridge Calibration Unit,10030 - 10401
+,Bridge Calibration Unit,± 2.5 mV/N,0.000070 nV/N,"5,000/range",,10030 - 10402
+,Universal Testing Machine,"5 N to 2 MN
+(Compression with increasing and decreasing force)","ISO 7500-1 : 2018, 
+0.35 %",,,10030 - 30201
+,Universal Testing Machine,"5 N to 500 kN 
+(Tension with increasing force only)","ISO 7500-1 : 2018, 
+0.17 %","11,000/force scale",Calibrated by force-measuring,10030 - 30201
+,Universal Testing Machine,"5 N to 500 kN 
+(Tension with increasing and decreasing force)","ISO 7500-1 : 2018, 
+0.24%",/mode,device and ascessories shall be ,10030 - 30201
+,Universal Testing Machine,"5 N to 2 MN
+(Compression with increasing force only)","ISO 7500-1 : 2018, 
+0.047 %",,provided by customer,10030 - 30201
+,Static Torque Measuring Devices(Torque Transducer),"0.1 N·m to 1 N·m
+1 N·m to 10 N·m
+10 N·m to 1,000 N·m
+100 N·m to 5,000 N·m","DIN 51309, 0.015%
+DIN 51309, 0.01%, 0.03%
+DIN 51309, 0.01%
+","13,100/range",,10040 - 10101
+,Static Torque Measuring Devices(Torque Transducer),,,"26,250/range",,10040 - 10102
+,Static Torque Transfer Wrenches,"1 N·m to 10 N·m
+10 N·m to 2,000 N·m","DAkkS-DKD-R 3-7, 0.04%
+DAkkS-DKD-R 3-7, 0.03%","13,100/range",,10040 - 10202
+,#NAME?,1 N·m to 10 N·m,"Based on DAkkS-DKD-R 3-8, 0.2%","6,550/range",,10040 - 10302
+,"Static Torque Calibration Devices
+'- Torque Wrench Calibration Devices","1 N·m to 2,000 N·m","DAkkS-DKD-R 3-8, 0.2%","6,550/range",,10040 - 10303
+,"Static Torque Calibration Devices
+'- Torque Wrench Calibration Devices",,¡ÁÇ. 1 - 2560 0.2%,"5,250/range",,10040 - 10304
+,#NAME?,0.1 N·m to 1 N·m,"Based on DAkkS-DKD-R 3-8, 0.3%","6,550/range",,10040 - 10305
+,"Hand Torque Tools (Type I and Type II)
+'-  Wrench
+'- Screwdriver","1 N·m to 1,000 N·m","ISO 6789, 1%","4,350/range",,10040 - 10401
+,"Hand Torque Tools (Type I and Type II)
+'-  Wrench
+'- Screwdriver","0.1 N·m to 1 N·m 
+1 N·m to 10 N·m","ISO 6789, 1.5%
+ISO 6789, 1%","4,350/range",,10040 - 10402
+,Torque multiplier,"340 N·m to 2,700 N·m","Based on ISO 6789 : 2003(E),
+1.5%","9,350/range",,10040 - 10501
+,Recalibration of Reference Block,20 HRA to 95 HRA,0.40 HRA,"6,550/piece",Reference Block shall be provided,10040 - 10601
+,Standard Torque Transducer,"? 2,000 N?m","DIN 51309
+Class 0.2, 0.1, 0.05","233,500/piece",,10040 - 20501
+,Standard Torque Transducer,? 50 N?m,"DIN 51309
+Class 0.2, 0.1, 0.05","163,000/piece",,10040 - 20502
+,Standard Torque Transducer,? 500 N?m,"DIN 51309
+Class 0.2, 0.1, 0.05","186,400/piece",,10040 - 20502
+,Standard Torque Transducer,? 200 N?m,"DIN 51309
+Class 0.2, 0.1, 0.05","174,250/piece",,10040 - 20502
+,Standard Torque Transducer,"? 1,000 N?m","DIN 51309
+Class 0.2, 0.1, 0.05","196,150/piece",,10040 - 20502
+,Standard Torque Transducer,? 20 N?m,"DIN 51309
+Class 0.2, 0.1, 0.05","158,650/piece",,10040 - 20503
+,Standard Torque Transfer Wrench,"? 2,000 N?m","DAkkS-DKD-R 3-7
+Class 0.2","249,450/piece",,10040 - 20601
+,Standard Torque Transfer Wrench,? 500 N?m,"DAkkS-DKD-R 3-7
+Class 0.2","195,600/piece",,10040 - 20602
+,Standard Torque Transfer Wrench,? 50 N?m,"DAkkS-DKD-R 3-7
+Class 0.2","168,850/piece",,10040 - 20602
+,Standard Torque Transfer Wrench,"? 1,000 N?m","DAkkS-DKD-R 3-7
+Class 0.2","206,750/piece",,10040 - 20602
+,Standard Torque Transfer Wrench,? 200 N?m,"DAkkS-DKD-R 3-7
+Class 0.2","181,750/piece",,10040 - 20602
+,Standard Torque Transfer Wrench,? 20 N?m,"DAkkS-DKD-R 3-7
+Class 0.2","163,900/piece",,10040 - 20603
+,#NAME?,1 N·m to 10 N·m,"Based on DAkkS-DKD-R 3-8, 0.2%","6,550/range",,10040 - 30302
+,"Static Torque Calibration devices
+'- Torque Wrench Calibration Devices","1 N·m to 2,000 N·m","DAkkS-DKD-R 3-8, 0.2%","6,550/range",,10040 - 30303
+,"Static Torque Calibration devices
+'- Torque Wrench Calibration Devices",,¡ÁÇ. 1 - 2560 0.2%,"5,250/range",,10040 - 30304
+,#NAME?,0.1 N·m to 1 N·m,"Based on DAkkS-DKD-R 3-8, 0.3%","6,550/range",,10040 - 30305
+,#NAME?,1 N·m to 10 N·m,"Based on DAkkS-DKD-R 3-8, 
+1.1%","6,550/range",,10040 - 30306
+,#NAME?,10 N·m to 100 N·m,"Based on DAkkS-DKD-R 3-8, 
+0.75%","6,550/range",,10040 - 30307
+,#NAME?,0 degree to 360 degree,0.55 degree,"6,550/range",,10040 - 30308
+,#NAME?,500 N·m to 5000 N·m,"Based on DIN 51309, 
+1.8 %","8,000/range",,10040 - 30309
+,#NAME?,40 N·m to 400 N·m,MT 01/2550,"12,150",,10040 - 30501
+,#NAME?,8 N·m to 40 N·m,MT 01.1/2551,"12,150",,10040 - 30502
+,#NAME?,10 N·m to 200 N·m,MT 02/2551,"12,150",,10040 - 30503
+,#NAME?,20 N·m to 330 N·m,MT 03/2553,"9,750",,10040 - 30504
+,#NAME?,400 N·m to 1000 N·m,MT 01.2/2563,"9,750",,10040 - 30505
+,#NAME?,200 N·m to 1000 N·m,MT 02.1/2564,"12,150",,10040 - 30506
+,#NAME?,0.1 N·m to 1 N·m,MT 04/2565,"9,750",,10040 - 30507
+,#NAME?,1 N·m to 10 N·m,MT 04.1/2565,"9,750",,10040 - 30508
+,#NAME?,1 N·m to 50 N·m,MT 05/2566,"12,150",,10040 - 30509
+,#NAME?,50 N·m to 200 N·m,MT 05.1/2566,"12,150",,10040 - 30510
+,#NAME?,200 N·m to 1000 N·m,MT 05.2/2566,"12,150",,10040 - 30511
+,#NAME?,10 N·m to 200 N·m,MT 06/2566,"12,150",,10040 - 30512
+,#NAME?,200 N·m to 1000 N·m,MT 06.1/2566,"12,150",,10040 - 30513
+,#NAME?,20 N·m to 330 N·m,MT 07/2566,"9,750",,10040 - 30514
+,Adjustment charge of torque device for on-site calibration,,,100% of the calibration cost of each item and each range,,10040 - 30601
+,Rolling resistance testing machine (Force method) - Run-out (Radial run-out and Lateral run-out),"Nominal section width, RN from 95 mm to 315 mm",Radial run-out = 0.02 mm ,5000,UN Regulation No. 117 and ÁÍ¡. 2721-2560,10040 - 30701
+,Rolling resistance testing machine (Force method) - Run-out (Radial run-out and Lateral run-out),,Lateral run-out = 0.02 mm ,5000,UN Regulation No. 117 and ÁÍ¡. 2721-2560,10040 - 30702
+,Rolling resistance testing machine (Force method) - Load application (Deviation angular from wheel center),"At Load index, LI = 0 to 121 (TLCC = 46 kgf to 1,450 kgf) 
+and 
+At Load index, LI = 122 to 279 (TLCC = 1,500 kgf to 136,000 kgf)",0.002° ,7500,UN Regulation No. 117 and ÁÍ¡. 2721-2560,10040 - 30703
+,Rolling resistance testing machine (Force method)- Tyre alignment (Camber angle and Slip angle),"At Load index, LI = 0 to 121 (TLCC = 46 kgf to 1,450 kgf) 
+and 
+At Load index, LI = 122 to 279 (TLCC = 1,500 kgf to 136,000 kgf)",Camber angle = 0.035°,7500,UN Regulation No. 117 and ÁÍ¡. 2721-2560,10040 - 30704
+,Rolling resistance testing machine (Force method)- Tyre alignment (Camber angle and Slip angle),"At Load index, LI = 0 to 121 (TLCC = 46 kgf to 1,450 kgf) 
+and 
+At Load index, LI = 122 to 279 (TLCC = 1,500 kgf to 136,000 kgf)",Slip angle = 0.030°,7500,UN Regulation No. 117 and ÁÍ¡. 2721-2560,10040 - 30705
+,Rolling resistance testing machine (Force method) - Tyre load,"At Load index, LI = 0 to 121 (TLCC = 46 kgf to 1,450 kgf) 
+and 
+At Load index, LI = 122 to 279 (TLCC = 1,500 kgf to 136,000 kgf)","0.037% for increasing only
+0.11% for increasing and decreasing",10000,UN Regulation No. 117 and ÁÍ¡. 2721-2560,10040 - 30706
+,Rolling resistance testing machine (Force method) - Spindle force,"At Load index, LI = 0 to 121 (TLCC = 46 kgf to 1,450 kgf) 
+and 
+At Load index, LI = 122 to 279 (TLCC = 1,500 kgf to 136,000 kgf)","0.037% for increasing only
+0.11% for increasing and decreasing","10,000.00 / Direction",UN Regulation No. 117 and ÁÍ¡. 2721-2560,10040 - 30707
+,Rolling resistance testing machine (Force method)- Surface speed,0 km/h to 300 km/h,0.20 km/h,"5,000.00 / Direction",UN Regulation No. 117 and ÁÍ¡. 2721-2560,10040 - 30708
+,Rolling resistance testing machine (Force method) - Drum diameter,"1,700 mm and 2,000 mm",0.15 mm,7500,UN Regulation No. 117 and ÁÍ¡. 2721-2560,10040 - 30709
+,Rolling resistance testing machine (Torque method) - Run-out (Radial run-out and Lateral run-out),"Nominal section width, RN from 95 mm to 315 mm",Radial run-out = 0.02 mm ,5000,UN Regulation No. 117 and ÁÍ¡. 2721-2560,10040 - 30801
+,Rolling resistance testing machine (Torque method) - Run-out (Radial run-out and Lateral run-out),,Lateral run-out = 0.02 mm ,5000,UN Regulation No. 117 and ÁÍ¡. 2721-2560,10040 - 30802
+,Rolling resistance testing machine (Torque method)  - Load application (Deviation angular from wheel center),"At Load index, LI = 0 to 121 (TLCC = 46 kgf to 1,450 kgf) 
+and 
+At Load index, LI = 122 to 279 (TLCC = 1,500 kgf to 136,000 kgf)",0.001° ,7500,UN Regulation No. 117 and ÁÍ¡. 2721-2560,10040 - 30803
+,Rolling resistance testing machine (Torque method)- Tyre alignment (Camber angle and Slip angle),,Camber angle = 0.035°,7500,UN Regulation No. 117 and ÁÍ¡. 2721-2560,10040 - 30804
+,Rolling resistance testing machine (Torque method)- Tyre alignment (Camber angle and Slip angle),,Slip angle = 0.030°,7500,UN Regulation No. 117 and ÁÍ¡. 2721-2560,10040 - 30805
+,Rolling resistance testing machine (Torque method)   - Tyre load,,"0.037% for increasing only
+0.11% for increasing and decreasing",10000,UN Regulation No. 117 and ÁÍ¡. 2721-2560,10040 - 30806
+,Rolling resistance testing machine (Torque method) - Torque input,0.1 Nžm to 5 kNžm,0.015% (0.1 Nžm to 1 Nžm) 0.010% (1 Nžm to 5 kNžm),"20,000.00 / Range",UN Regulation No. 117 and ÁÍ¡. 2721-2560,10040 - 30807
+,Rolling resistance testing machine (Torque method) - Surface speed,0 km/h to 300 km/h,0.20 km/h,"5,000.00 / Direction",UN Regulation No. 117 and ÁÍ¡. 2721-2560,10040 - 30808
+,Rolling resistance testing machine (Torque method) - Drum diameter,"1,700 mm and 2,000 mm",0.15 mm,7500,UN Regulation No. 117 and ÁÍ¡. 2721-2560,10040 - 30809
+,Dynamic growth of tyre testing machine  - Run-out (Radial run-out and Lateral run-out),"Nominal rim diameter, d from 102 mm to 584 mm",Radial run-out = 0.02 mm ,6250,UN Regulation No. 117 and ÁÍ¡. 2721-2560,10040 - 30901
+,,,Lateral run-out = 0.02 mm ,6250,UN Regulation No. 117 and ÁÍ¡. 2721-2560,10040 - 30902
+,Dynamic growth of tyre testing machine  - Tyre speed,0 km/h to 300 km/h,0.20 km/h,"6,250 / Direction",UN Regulation No. 117 and ÁÍ¡. 2721-2560,10040 - 30903
+,Dynamic growth of tyre testing machine - Centrifugal radius,127 mm to 434 mm (254 mm to 868 mm diameter),0.11 mm,9350,UN Regulation No. 117 and ÁÍ¡. 2721-2560,10040 - 30904
+,"Static Torque Calibration Devices
+'- Torque Wrench Calibration Devices","1 N·m to 1,000 N·m,
+Sensor and Connection profile rotatable, target uncertainty <0.5%","DKD-R 10-8, 0.2%","18,750/range",,10040-10310
+,"Static Torque Calibration Devices
+'- Torque Wrench Calibration Devices","1 N?m to 1,000 N?m,
+Sensor and Connection profile rotatable, target uncertainty ?0.5%","DKD-R 10-8, 0.2%","12,650/range",,10040-10311
+,"Static Torque Calibration Devices
+'- Torque Wrench Calibration Devices","1 N·m to 1,000 N·m,
+Sensor rotatable and Connection profile fixed, target uncertainty <0.5%","DKD-R 10-8, 0.2%","12,650/range",,10040-10312
+,"Static Torque Calibration Devices
+'- Torque Wrench Calibration Devices","1 N?m to 1,000 N?m,
+Sensor rotatable and Connection profile fixed, target uncertainty ?0.5%","DKD-R 10-8, 0.2%","6,550/range",,10040-10313
+,"Static Torque Calibration Devices
+'- Torque Wrench Calibration Devices","1 N·m to 1,000 N·m,
+Sensor fixed and Connection profile rotatable, target uncertainty <0.5%","DKD-R 10-8, 0.2%","18,750/range",,10040-10314
+,"Static Torque Calibration Devices
+'- Torque Wrench Calibration Devices","1 N?m to 1,000 N?m,
+Sensor fixed and Connection profile rotatable, target uncertainty ?0.5%","DKD-R 10-8, 0.2%","12,650/range",,10040-10315
+,"Static Torque Calibration Devices
+'- Torque Wrench Calibration Devices","1 N·m to 1,000 N·m,
+Sensor and Connection profile fixed, target uncertainty <0.5%","DKD-R 10-8, 0.2%","12,650/range",,10040-10316
+,"Static Torque Calibration Devices
+'- Torque Wrench Calibration Devices","1 N?m to 1,000 N?m,
+Sensor and Connection profile fixed, target uncertainty ?0.5%","DKD-R 10-8, 0.2%","6,550/range",,10040-10317
+,#NAME?,"1 N·m to 1,000 N·m,
+Sensor and Connection profile rotatable, target uncertainty < 0.5 %,
+For torque with cross force application","DKD-R 10-8, 0.40 %","18,750/range",,10040-10318
+,#NAME?,"1 N?m to 1,000 N?m,
+Sensor and Connection profile rotatable, target uncertainty ? 0.5 %,
+For torque with cross force application","DKD-R 10-8, 0.40 %","12,650/range",,10040-10319
+,#NAME?,"1 N·m to 1,000 N·m,
+Sensor rotatable and Connection profile fixed, target uncertainty < 0.5 %,
+For torque with cross force application","DKD-R 10-8, 0.40 %","12,650/range",,10040-10320
+,#NAME?,"1 N?m to 1,000 N?m,
+Sensor rotatable and Connection profile fixed, target uncertainty ? 0.5 %,
+For torque with cross force application","DKD-R 10-8, 0.40 %","6,550/range",,10040-10321
+,#NAME?,"1 N·m to 10 N·m,
+For pure torque application","Base on DIN 51309, 1.0 %","6,550/range",,10040-10322
+,#NAME?,"(0-360) degree,
+For angle ",0.40 degree,"6,550/range",,10040-10323
+,Standard Torque Transfer Wrench Model: TW-MCS01,? 20 N?m,"DAkkS-DKD-R 3-7
+Class 0.2","174,400/piece","1. Temperature compensation on zero signal
+2. Temperature compensation on span signal
+3. Zero balance
+4. Measurement and check signals",10040-20604
+,Standard Torque Transfer Wrench Model: TW-MCS01,? 50 N?m,"DAkkS-DKD-R 3-7
+Class 0.2","180,600/piece","1. Temperature compensation on zero signal
+2. Temperature compensation on span signal
+3. Zero balance
+4. Measurement and check signals",10040-20604
+,Standard Torque Transfer Wrench Model: TW-MCS01,? 200 N?m,"DAkkS-DKD-R 3-7
+Class 0.2","196,750/piece","1. Temperature compensation on zero signal
+2. Temperature compensation on span signal
+3. Zero balance
+4. Measurement and check signals",10040-20604
+,Standard Torque Transfer Wrench Model: TW-MCS01,? 500 N?m,"DAkkS-DKD-R 3-7
+Class 0.2","214,050/piece","1. Temperature compensation on zero signal
+2. Temperature compensation on span signal
+3. Zero balance
+4. Measurement and check signals",10040-20604
+,Standard Torque Transfer Wrench Model: TW-MCS01,"? 2,000 N?m","DAkkS-DKD-R 3-7
+Class 0.2","281,350/piece",Standard Option,10040-20604
+,Standard Torque Transfer Wrench Model: TW-MCS01,"? 1,000 N?m","DAkkS-DKD-R 3-7
+Class 0.2","228,000/piece","1. Temperature compensation on zero signal
+2. Temperature compensation on span signal
+3. Zero balance
+4. Measurement and check signals",10040-20604
+,"Static Torque Calibration devices
+'- Torque Wrench Calibration Devices","1 N·m to 1,000 N·m,
+Sensor and Connection profile rotatable, target uncertainty <0.5%","DKD-R 10-8, 0.2%","18,750/range",,10040-30310
+,"Static Torque Calibration devices
+'- Torque Wrench Calibration Devices","1 N?m to 1,000 N?m,
+Sensor and Connection profile rotatable, target uncertainty ?0.5%","DKD-R 10-8, 0.2%","12,650/range",,10040-30311
+,"Static Torque Calibration devices
+'- Torque Wrench Calibration Devices","1 N·m to 1,000 N·m,
+Sensor rotatable and Connection profile fixed, target uncertainty <0.5%","DKD-R 10-8, 0.2%","12,650/range",,10040-30312
+,"Static Torque Calibration devices
+'- Torque Wrench Calibration Devices","1 N?m to 1,000 N?m,
+Sensor rotatable and Connection profile fixed, target uncertainty ?0.5%","DKD-R 10-8, 0.2%","6,550/range",,10040-30313
+,"Static Torque Calibration devices
+'- Torque Wrench Calibration Devices","1 N·m to 1,000 N·m,
+Sensor fixed and Connection profile rotatable, target uncertainty <0.5%","DKD-R 10-8, 0.2%","18,750/range",,10040-30314
+,"Static Torque Calibration devices
+'- Torque Wrench Calibration Devices","1 N?m to 1,000 N?m,
+Sensor fixed and Connection profile rotatable, target uncertainty ?0.5%","DKD-R 10-8, 0.2%","12,650/range",,10040-30315
+,"Static Torque Calibration devices
+'- Torque Wrench Calibration Devices","1 N·m to 1,000 N·m,
+Sensor and Connection profile fixed, target uncertainty <0.5%","DKD-R 10-8, 0.2%","12,650/range",,10040-30316
+,"Static Torque Calibration devices
+'- Torque Wrench Calibration Devices","1 N?m to 1,000 N?m,
+Sensor and Connection profile fixed, target uncertainty ?0.5%","DKD-R 10-8, 0.2%","6,550/range",,10040-30317
+,Endurance testing mchaine - Tyre load,"At Load index, LI = 0 to 121 (TLCC = 46 kgf to 1,450 kgf) and At Load index, LI = 122 to 279 (TLCC = 1,500 kgf to 136,000 kgf)","0.047 % for increasing force only
+0.35 % for increasing and decreasing force","
+
+12,500/range/direction","UN Regulation No. 30,
+UN Regulation No. 54, 
+UN Regulation No. 75 
+and 
+ÁÍ¡. 2718-2560, 
+ÁÍ¡. 2719-2560, 
+ÁÍ¡. 2720-2560",10040-30905
+,Endurance testing mchaine  - Surface speed,0 km/h to 300 km/h,0.20 km/h,"6,250 / Direction","UN Regulation No. 30,
+UN Regulation No. 54, 
+UN Regulation No. 75 
+and 
+ÁÍ¡. 2718-2560, 
+ÁÍ¡. 2719-2560, 
+ÁÍ¡. 2720-2560",10040-30906
+,Endurance testing mchaine  - Drum diameter,"1,700 mm and 2,000 mm",0.15 mm,9350,"UN Regulation No. 30,
+UN Regulation No. 54, 
+UN Regulation No. 75 
+and 
+ÁÍ¡. 2718-2560, 
+ÁÍ¡. 2719-2560, 
+ÁÍ¡. 2720-2560",10040-30907
+,Wheel deviation measurement system  - Run-out (vertical run-out and horizontal run-out),0 mm to ± 2.5 mm,"Vertical run-out = 0.50 mm 
+Horizontal run-out = 0.50 mm ",5000,ÁÍ¡. 2207-2562,10040-31001
+,"Rockwell Scale : HRA, HRB, HRC","10 HRBW  to 100 HRBW
+20 HRC to 70 HRC","0.40 HRBW
+0.40 HRC",,by client.,10050 - 10101
+,Rockwell Scale : HR30TW,29 HR30TW to 82 HR30TW,0.40 HR30TW,"9,350/piece",,10050 - 10101
+,Vickers : HV according to ISO 6508-3,"HV 5, HV 10, HV 20, HV 30, HV 50, HV 100",,"7,250/piece",,10050 - 10201
+,Elastomer Hardness Testing Machine,Durometer Type C,ASTM D2240,"8,550/machine",,10050 - 10302
+,Elastomer Hardness Testing Machine,Durometer Type AO,"According to ISO48-9, ASTM D2240, JIS K6253, JIS K7215, JIS K6301, DIN 53505","8,550/machine",,10050 - 10302
+,Elastomer Hardness Testing Machine,Durometer Type D,"According to ISO48-9, ASTM D2240, JIS K6253, JIS K7215, JIS K6301, DIN 53505","8,550/machine",,10050 - 10302
+,Elastomer Hardness Testing Machine,Durometer Type A,"According to ISO48-9, ASTM D2240, JIS K6253, JIS K7215, JIS K6301, DIN 53505","8,550/machine",,10050 - 10302
+,Elastomer Hardness Testing Machine,IRHD-M,"According to ISO48-9, ASTM D2240, JIS K6253, JIS K7215, JIS K6301, DIN 53505","8,550/machine",,10050 - 10302
+,Elastomer Hardness Testing Machine,IRHD Pocket,"According to ISO48-9, ASTM D2240, JIS K6253, JIS K7215, JIS K6301, DIN 53505","8,550/machine",,10050 - 10302
+,Elastomer Hardness Testing Machine,IRHD-N,"According to ISO48-9, ASTM D2240, JIS K6253, JIS K7215, JIS K6301, DIN 53505","8,550/machine",,10050 - 10302
+,Brinell Scale: HB,HBW 5/750,"1.2% of HBW 
+for Force 7.355 kN (750 kgf)","6,250/piece",,10050 - 10401
+,Brinell Scale: HB,HBW 10/500,"1.2% of HBW 
+for Force 4.903 kN (500 kgf)","7,800/piece",,10050 - 10401
+,Brinell Scale: HB,HBW 10/3000,"0.6% of HBW 
+for Force 29.42 kN (3,000 kgf)","7,800/piece",,10050 - 10401
+,Vickers : HV according to ISO 6508-3,HV 0.1,,"7,250/piece",,10050 - 10501
+,"Certified Reference Block Rockwell Scale : HRA, HRB, HRC",20 HRA to 95 HRA,0.40 HRA,"13,670/piece",,10050 - 20101
+,"Certified Reference Block Rockwell Scale : HRA, HRB, HRC",20 HRC to 65 HRC,0.40 HRC,"13,670/piece",,10050 - 20101
+,Rockwell Scale : HR30TW,29 HR30TW to 82 HR30TW,0.40 HR30TW,"17,500/piece",,10050 - 20101
+,"Certified Reference Block Rockwell Scale : HRA, HRB, HRC",10 HRBW  to 100 HRBW,0.40 HRBW,"13,670/piece",,10050 - 20101
+,Vickers : HV ,"HV 5, HV 10, HV 20, HV 30, HV 50, HV 100",,"25,400/piece",,10050 - 20201
+,V-notch Charpy Impact CRM,30 J ± 10 J,According to ISO148-3,"18,530/set",,10050 - 20301
+,V-notch Charpy Impact CRM,100 J ± 10 J,According to ISO148-3,"18,530/set",,10050 - 20302
+,Callibration of metellic -charpy pendulum Testing Machine,Low(<40J) and high (?40J)energy ,According to ISO148-2,81250,,10050 - 20303
+,Brinell Scale: HB,HBW 10/3000,"0.6% of HBW 
+for Force 29.42 kN (3,000 kgf)","21,100/piece",,10050 - 20401
+,Brinell Scale: HB,HBW 10/500,"1.2% of HBW 
+for Force 4.903 kN (500 kgf)","21,100/piece",,10050 - 20401
+,Brinell Scale: HB,HBW 5/750,"1.2% of HBW 
+for Force 7.355 kN (750 kgf)","18,750/piece",,10050 - 20401
+,Vickers : HV,HV 0.1,,"32,800/piece",,10050 - 20501
+,Extensometer,Gauge length up to 200 mm,According to  ISO 9513,"3,910",/scale  ,10050 - 30001
+,"Callibration of Testing Machine
+Rockwell Hardness Testing Machine
+ - direct and indirect verification
+ - indirect verification
+ - diamond indenter verification
+ -  ball indenter verification",70 HR15N to 94 HR15N,According to ISO 6508-2,6100,/machine/scale /scale,10050 - 30102
+,"Callibration of Testing Machine
+Rockwell Hardness Testing Machine
+ - direct and indirect verification
+ - indirect verification
+ - diamond indenter verification
+ -  ball indenter verification",42 HR30N to 86 HR30N,According to ISO 6508-2,1250,/machine/scale /scale,10050 - 30102
+,"Callibration of Testing Machine
+Rockwell Hardness Testing Machine
+ - direct and indirect verification
+ - indirect verification
+ - diamond indenter verification
+ -  ball indenter verification",67 HR15TW to 93 HR15TW,According to ISO 6508-2,1250,/machine/scale /scale,10050 - 30102
+,"Callibration of Testing Machine
+Rockwell Hardness Testing Machine
+ - direct and indirect verification
+ - indirect verification
+ - diamond indenter verification
+ -  ball indenter verification",29 HR30TW to 82 HR30TW,According to ISO 6508-2,1250,/machine/scale /scale,10050 - 30102
+,"Callibration of Testing Machine
+Rockwell Hardness Testing Machine
+ - direct and indirect verification
+ - indirect verification
+ - diamond indenter verification
+ -  ball indenter verification",70 HREW to 100 HREW,According to ISO 6508-2,1250,/machine/scale /scale,10050 - 30102
+,"Callibration of Testing Machine
+Rockwell Hardness Testing Machine
+ - direct and indirect verification
+ - indirect verification
+ - diamond indenter verification
+ -  ball indenter verification",20 HRA to 95 HRA,According to ISO 6508-2,10550,/machine/scale /scale,10050 - 30102
+,"Callibration of Testing Machine
+Rockwell Hardness Testing Machine
+ - direct and indirect verification
+ - indirect verification
+ - diamond indenter verification
+ -  ball indenter verification",10 HRBW to 100 HRBW,According to ISO 6508-2,10550,/machine/scale /scale,10050 - 30102
+,"Callibration of Testing Machine
+Rockwell Hardness Testing Machine
+ - direct and indirect verification
+ - indirect verification
+ - diamond indenter verification
+ -  ball indenter verification",20 HRC to 70 HRC,According to ISO 6508-2,4370,/machine/scale /scale,10050 - 30102
+,#NAME?,Scale B,MH01.1,"12,150",,10050 - 30103
+,#NAME?,"Tip angle 0°,90°, 136°
+Line of conjunction 0 to 5 µm","± 0.15°
+  ± 0.2 µm",12500,,10050 - 30202
+,"Calibration of Testing Machine
+Vickers Hardness Testing Machine","
+HV 0.2, HV 0.3, HV 0.5, HV 1, HV 5, HV 10, HV 20, HV 30, HV 50","
+According to ISO 6507-2",10550,,10050 - 30202
+,#NAME?,"
+HV 0.2, HV 0.3, HV 0.5, HV 1, HV 5, HV 10, HV 20, HV 30, HV 50","
+According to ISO 6507-2",10550,/machine/scale /scale,10050 - 30202
+,#NAME?,"
+HV 0.2, HV 0.3, HV 0.5, HV 1, HV 5, HV 10, HV 20, HV 30, HV 50","
+According to ISO 6507-2",4370,,10050 - 30202
+,#NAME?,Scale C,MH01.2,"12,150",,10050 - 30203
+,#NAME?,"Rockwell Scale A, B and C",MH03,"12,150",,10050 - 30303
+,#NAME?,"HBW 2.5/62.5, HBW 2.5/31.25, HBW 2.5/15.625",According to ISO 6506-2,4370,/machine/scale /scale,10050 - 30402
+,#NAME?,"HBW 5/750, HBW 5/125, HBW 5/62.5",According to ISO 6506-2,10550,/machine/scale /scale,10050 - 30402
+,"Callibration of Testing Machine
+Brinell Hardness testing machine","HBW 10/3000, HBW 10/500, HBW 10/100",According to ISO 6506-2,10550,/machine/scale /scale,10050 - 30402
+,#NAME?,HBW 1/30,According to ISO 6506-2,1250,/machine/scale /scale,10050 - 30402
+,#NAME?,HV 5,MH02.1,"10,300",,10050 - 30403
+,Mooney Viscometer,All range,According to  ISO 289,"25,000",/machine,10050 - 30602
+,#NAME?,Scale R,MH01.3,"12,250",Plastic artifacts shall be provided by client,10050 - 30803
+,Speed for material testing machines,"Speed 0.05 mm/Min to 2,500 mm/Min.",According to ,"6,250",/speed,10050 - 30902
+,#NAME?,Brinell HBW 10/3000,MH05.1,"6,850",,10050 - 30903
+,#NAME?,Vickers HV 10,MH04.4,"6,850",,10050 - 31103
+,#NAME?,Vickers HV 0.3,MH04.1,"6,850",,10050 - 31203
+,#NAME?,HV 10,MH02.2,"10,300",,10050 - 31403
+,#NAME?,HV 30,MH02.3,"10,300",,10050 - 31503
+,#NAME?,Vickers HV 1,MH04.2,"6,850",,10050 - 31603
+,#NAME?,Vickers HV 5,MH04.3,"6,850",,10050 - 31703
+,#NAME?,Scale A,MH01.4,"34,000",,10050 - 31803
+,#NAME?,Scale 30N,MH01.5,"34,000",,10050 - 31903
+,#NAME?,Scale 30TW,MH01.6,"34,000",,10050 - 32003
+,#NAME?,Rockwell Scale 15N,MH03.4,"10,950",,10050 - 32103
+,#NAME?,Rockwell Scale 30N,MH03.5,"10,950",,10050 - 32203
+,#NAME?,Rockwell Scale A,MH03.1,"6,850",,10050 - 32303
+,#NAME?,Rockwell Scale B,MH03.2,"6,850",,10050 - 32403
+,#NAME?,Rockwell Scale C,MH03.3,"6,850",,10050 - 32503
+,#NAME?,Rockwell Scale 15TW,MH03.6,"10,950",,10050 - 32603
+,#NAME?,Rockwell Scale 30TW,MH03.7,"10,950",,10050 - 32703
+,#NAME?,Vickers HV 0.1,MH04.5,"16,700",,10050 - 32803
+,#NAME?,Vickers HV 0.2,MH04.6,"16,700",,10050 - 32903
+,#NAME?,Vickers HV 0.5,MH04.7,"16,700",,10050 - 33003
+,Vickers : HV **According to ASTM E92,"HV10, HV 20",,"17,500/piece",,10050-10206
+,Vickers : HV  According to ASTM E92,"HV10, HV 20",,"26,250/piece",,10050-20206
+,Calibration of Rockwell standard machine.,"Scale A, B, C, E, 30N, 30T, 15N, 15T",According to  ISO6508-3,"32,000",/machine/scale,10050-30105
+,Calibration of Rockwell standard machine.,"Scale A, B, C, E, 30N, 30T, 15N, 15T",,"5,620",/additional scale,10050-30105
+,Calibration of Vickers standard machine.,"scale HV 5, HV 10, HV 20, HV 30 and HV 50","According to ISO6507-3
+0.08 % for test force
+0.1 s for testing cycle 
+0.4 ?m for measuring system","32,000",/machine/scale,10050-30205
+,Calibration of Vickers standard machine.,,,"6,250",/additional scale,10050-30205
+,Calibration of Brinell standard machine.,,,"5,750",/additional scale,10050-30305
+,Calibration of Brinell standard machine.,"HBW 10/3000, HBW 10/1500, HBW 10/1000, HBW 10/500, HBW 10/250, HBW 10/100, HBW 5/750, HBW 5/250, HBW 5/125, HBW 5/62.5, HBW 5/25, HBW 2.5/187.5, HBW 2.5/62.5, HBW 2.5/31.25, HBW 2.5/15.625, HBW 2.5/6.25, HBW 1/30, HBW 1/10, HBW1/5, HBW 1/2.5, HBW 1/1","According to 
+ISO6506-3","33,000",/machine/scale,10050-30305
+,Calibration of Vickers standard machine.,"scale HV 0.2, HV 0.3,  HV 0.5 and HV 1","According to ISO6507-3
+0.08 % for test force
+0.1 s for testing cycle 
+0.4 ?m for measuring system","32,000",/machine/scale,10050-30505
+,Calibration of Vickers standard machine.,,,"7,100",/additional scale,10050-30505
+,Melt flow index tester (Extrusion plastometer),All range,According to ASTM D1238,"15,000",/machine,10050-30702
+,"Displacement Measuring Systems and
+Devices Used in Material Testing Machines","Displacement length up to 2,000 mm.",According to  ASTM E2309/E2309M-16,"6,250",/machine,10050-30802
+,Gas Pressure Balances,Up to 7 MPa,> 5x10-4 x Pe to 1x10-4 x Pe,50000,1. Price per 1 piston & ,10060 - 10101
+,Gas Pressure Balances,Up to 7 MPa,< 1x10-4 x Pe,50000,cylinder assembly,10060 - 10102
+,Gas Pressure Balances,>7 MPa to 40 MPa,> 5x10-4 x Pe,55000,2. Calibration of weight ,10060 - 10103
+,Gas Pressure Balances,,5x10-4 x Pe to 1x10-4 x Pe,55000,set is included.   ,10060 - 10104
+,Gas Pressure Balances,,< 1x10-4 x Pe,55000,,10060 - 10105
+,Hydraulic Pressure Balances,Up to 200 MPa ,> 5x10-4 x Pe to 1x10-4 x Pe,50000,1. Price per 1 piston & ,10060 - 10201
+,Hydraulic Pressure Balances,,< 1x10-4 x Pe,50000,cylinder assembly,10060 - 10202
+,Hydraulic Pressure Balances,> 200 MPa to 500 MPa,> 5x10-4 x Pe to 2x10-4 x Pe,60000,2. Calibration of weight ,10060 - 10203
+,Hydraulic Pressure Balances,,< 2x10-4 x Pe,60000,set is included.   ,10060 - 10204
+,"Gas Pressure Measuring Instruments (gauge pressure, Pe)                                 ",- 1 kPa to 0 kPa,> 6 x 10-3 x Pe,"3,750/range",,10060 - 10301
+,"Gas Pressure Measuring Instruments (gauge pressure, Pe)                                 ",,6x10-3 x Pe to 1x10-3 x Pe,"5,000/range",,10060 - 10302
+,"Gas Pressure Measuring Instruments (gauge pressure, Pe)                                 ",,"< 1x10-3 x Pe, but not smaller than 0,003 mbar ","6,250/range",,10060 - 10303
+,"Gas Pressure Measuring Instruments (gauge pressure, Pe)                                 ",0 kPa to 3 kPa,> 6x10-3 x Pe,"3,750/range",,10060 - 10304
+,"Gas Pressure Measuring Instruments (gauge pressure, Pe)                                 ",,6x10-3 x Pe to 1x10-3 x Pe,"5,000/range",,10060 - 10305
+,"Gas Pressure Measuring Instruments (gauge pressure, Pe)                                 ",,"< 1x10-3 x Pe, but not smaller than 0.003 mbar","6,300/range",,10060 - 10306
+,"Gas Pressure Measuring Instruments (gauge pressure, Pe)                                 ",10 kPa to 7 MPa,> 6x10-3 x Pe,"4,070/range",,10060 - 10307
+,"Gas Pressure Measuring Instruments (gauge pressure, Pe)                                 ","1,5 kPa to 7 MPa",6x10-3 x Pe to 1x10-3 x Pe,"6,250/range",,10060 - 10308
+,"Gas Pressure Measuring Instruments (gauge pressure, Pe)                                 ",,< 1x10-3 x Pe,"7,500/range",,10060 - 10309
+,"Gas Pressure Measuring Instruments (gauge pressure, Pe)                                 ",> 7 MPa to 100 MPa,> 6x10-3 x Pe,"7,040/range",,10060 - 10310
+,"Gas Pressure Measuring Instruments (gauge pressure, Pe)                                 ",,6x10-3 x Pe to 1x10-3 x Pe,"9,850/range",,10060 - 10311
+,"Gas Pressure Measuring Instruments (gauge pressure, Pe)                                 ",,< 1x10-3 x Pe,"12,670/range",,10060 - 10312
+,"Gas Pressure Measuring Instruments (gauge pressure, Pe)                                 ",0 kPa to –100 kPa,Not smaller than 0.2 mbar,"8,750/range",,10060 - 10313
+,"Gas Pressure Measuring Instruments (gauge pressure, Pe)                                 ",,Not smaller than 1 mbar,"4,070/range",,10060 - 10314
+,"Gas Pressure Measuring Instruments (gauge pressure, Pe)                                 ",0 kPa to -15 kPa,> 1x10-3 x Pe,"8,750/range",,10060 - 10315
+,"Gas Pressure Measuring Instruments (gauge pressure, Pe)                                 ",,< 1x10-3 x Pe,"11,250/range",,10060 - 10316
+,"Gas Pressure Measuring Instruments (gauge pressure, Pe)                                 ",0 kPa to 15 kPa,> 1x10-3 x Pe,"8,750/range",,10060 - 10317
+,"Gas Pressure Measuring Instruments (gauge pressure, Pe)                                 ",,< 1x10-3 x Pe,"11,250/range",,10060 - 10318
+,"Gas Pressure Measuring Instruments (gauge pressure, Pe)                                 ",- 4 kPa to 4 kPa,> 6x10-3 x Pe,"3,750/range",,10060 - 10323
+,"Gas Pressure Measuring Instruments (gauge pressure, Pe)                                 ",,6x10-3 x Pe to 1x10-3 x Pe,"5,000/range",,10060 - 10324
+,"Gas Pressure Measuring Instruments (gauge pressure, Pe)                                 ",,"< 1x10-3 x Pe, but not smaller than 0.003 mbar","6,300/range",,10060 - 10325
+,"Gas Pressure Measuring Instruments (absolute pressure, Pabs)                                 ",80 kPa to 115 kPa,< 1x10-3 x Pabs,"8,750/range",,10060 - 10401
+,"Gas Pressure Measuring Instruments (absolute pressure, Pabs)                                 ",,Not smaller than 0.35 mbar,"4,230/range",,10060 - 10402
+,"Gas Pressure Measuring Instruments (absolute pressure, Pabs)                                 ",2 kPa to 7 MPa,Not smaller than 0.35 mbar,"4,230/range",,10060 - 10403
+,"Gas Pressure Measuring Instruments (absolute pressure, Pabs)                                 ","1,5 kPa to 40 MPa",> 1x10-4 x Pabs,"8,750/range",,10060 - 10404
+,"Gas Pressure Measuring Instruments (absolute pressure, Pabs)                                 ",0 kPa to 15 kPa,> 1x10-3 x Pabs,"10,000/range",,10060 - 10405
+,"Gas Pressure Measuring Instruments (absolute pressure, Pabs)                                 ",,< 1x10-3 x Pabs,"12,500/range",,10060 - 10406
+,Mercury Barometers,85 kPa to 105 kPa,Not smaller than 0.35 mbar,"6,250/range",Cistern type,10060 - 10501
+,Mercury Barometers,85 kPa to 105 kPa,Not smaller than 0.35 mbar,"7,500/range",Fortin type,10060 - 10502
+,"Hydraulic Pressure Measuring Instruments (gauge pressure, Pe)",up to 200 MPa,> 6x10-3 x Pe,"5,000/range",,10060 - 10601
+,"Hydraulic Pressure Measuring Instruments (gauge pressure, Pe)",,6x10-3 x Pe to 1x10-3 x Pe,"7,500/range",,10060 - 10602
+,"Hydraulic Pressure Measuring Instruments (gauge pressure, Pe)",,< 1 x 10-3 x Pe,"10,000/range",,10060 - 10603
+,"Hydraulic Pressure Measuring Instruments (gauge pressure, Pe)",> 200 MPa to 500 MPa,> 1 x 10-3 x Pe,"8,750/range",,10060 - 10604
+,"Hydraulic Pressure Measuring Instruments (gauge pressure, Pe)",,< 1 x 10-3 x Pe,"11,250/range",,10060 - 10605
+,"Gas Differential Pressure at High Static Line ressure 
+(not higher than 40 MPa), DP",350 kPa maximum differential pressure,"3.5 x 10-5 x DP, but not less than 2.9 Pa","16,250/sensor head",Price per 1 range of differential pressure and  1 range of high static line pressure,10060 - 10701
+,"Hydraulic Pressure Measuring Instruments (absolute pressure, Pabs)","0,1 MPa to 200 MPa",> 6x10-3 x Pabs,"6,250/range",,10060 - 10801
+,"Hydraulic Pressure Measuring Instruments (absolute pressure, Pabs)",,6x10-3 x Pabs to 1x10-3 x Pabs,"8,750/range",,10060 - 10802
+,"Hydraulic Pressure Measuring Instruments (absolute pressure, Pabs)",,< 1 x 10-3 x Pabs,"11,250/range",,10060 - 10803
+,"Hydraulic Pressure Measuring Instruments (absolute pressure, Pabs)",> 200 MPa to 500 MPa,> 1 x 10-3 x Pabs,"10,000/range",,10060 - 10804
+,"Hydraulic Pressure Measuring Instruments (absolute pressure, Pabs)",,< 1x10-3 x Pabs,"12,500/range",,10060 - 10805
+,"Blood Pressure (Static Mode)(gauge pressure, Pe)",(0 kPa to 40 kPa)(0 mm Hg to 300 mm Hg),Not smaller than 0.13 kPa  ( 1 mm Hg)   ,"1,875/range",To include leak check,10060 - 10902
+,Absolute Gravity,,,120000,for each additional location,10060 - 30101
+,Absolute Gravity,9.75 m/s2 to 9.85 m/s2 ,"Not smaller than 10 µGal
+(0.01 ppm)",240000,for the first measurement location,10060 - 30101
+,Local Gravity,9.75 m/s2 to 9.85 m/s2 ,"Not smaller than 180 µGal
+(0.18 ppm)",40000,Using relative method,10060 - 30102
+,"Gas Pressure Measuring Instruments (on-site)        -  (differential gauge pressure,Pe)",0.1 kPa to 130 kPa ,2.6E-4Pe but  not less than 0.03 kPa,"6,250 baht/range",Differential against ambient pressure,10060 - 30103
+,"Gas Pressure Measuring Instruments (on-site)       -  (absolute pressure, Pabs)",10 kPa to 700 kPa ,2.0E-4Pabs but  not less than 0.03 kPa,"6,250 baht/range",,10060 - 30103
+,Pressure Measuring Device,0 to 3500 kPa," 0.01%rdg but  not less than 0.1 kPa
+","6,500/range
+
+",Media: Water,"10060-10901
+
+"
+,"Gas Pressure Measuring Instruments (gauge pressure, Pe)                                 ",,Smaller than 0.2 mbar,"11,250/range",,10061 - 10319
+,"Vacuum Gauges (absolute pressure : pirani gauge, thermal conductivity gauge)",105 Pa to 10-1 Pa,0.3% rdg to 1% rdg,"7,040/sensor head",Calibration 10 points minimum,10070 - 10101
+,Vacuum Gauges (absolute pressure : capacitance diaphragm gauge),105 Pa to 10-1 Pa,0.2% rdg to 0.45% rdg,"12,670/sensor head","Calibration 3 decades for the head range (1000, 100,10, 1) torr Calibration 2 decades for the head range 0.1 torr",10070 - 10201
+,"Vacuum Gauges (absolute pressure : hot cathode ion gauge, cold cathode ion gauge)",10-1 Pa to 10-5 Pa,0.5% rdg to 6% rdg,"11,090/for first decade 
++2,250 for next decade",,10070 - 10301
+,Vacuum Gauge (absolute pressure : spinning rotor gauge),10 Pa to 10-3 Pa,0.6% rdg to 4.5% rdg,to be determined,,10070 - 10401
+,Additional cost for electrical calibration (which the accuracy is not better than +/-0.01% rdg),,,"2,250/item",,10070 - 10501
+,Adjustment charge of pressure and vacuum devices for permanent laboratory calibration,,,50% of the calibration cost of each range,,10070 - 10502
+,Measurement audit report,,,"1,000 Baht/report
++ 1,000 Bath/only for artifact provided
++ Calibration fee",,10070 - 10503
+,"Vacuum Gauges by Static Expansion Method (absolute pressure : capacitance diaphragm gauge, spinning rotor gauge)",0.13 Pa to 1.3 kPa,0.50% rdg to 0.25% rdg,"26,400/sensor head",,10070 - 10601
+,Liquid Flowmeter (Turbine Flowmeter),0.19 L/min to 150* L/min,0.075%**,"13,750/ 5 points",Calibration Fluid : Water,10080 - 10101
+,Liquid Flowmeter  (with indicator),0.19 L/min to 150* L/min,0.02,"7,880/ 5 points",Calibration Fluid : Water,10080 - 10102
+,Coriolis Flowmeter (Volumetric method),0.2 L/min to 150 L/min,0.00075,"13,750/5 points",Calibration Fluid : Water,10080 - 10103
+,"Inter-laboratory comparison on liquid volume flow rate measurement;
+Artifact : Coriolis flow meter",25 L/min to 120 L/min,NIMT.MW-L1/2017,"20,333/range 
+(N = 3)",Calibration Fluid : Water,10080 - 10105
+,"Inter-laboratory comparison on liquid volume flow rate measurement;
+Artifact : Coriolis flow meter",25 L/min to 120 L/min,NIMT.MW-L1/2019,"15,750/range
+(N = 2)",Calibration Fluid : Water,10080 - 10106
+,Inter-laboratory comparison on water flow meter and pressure of infusion pump analyzer,"(20 - 200) mL/h
+((0 - 1200) mmHg","0.35%
+0.35 mbar","12,552.50/range",Infusion device analyzer,10080 - 10107
+,Liquid Flowmeter (Turbine Flowmeter),20 L/min to 1300 L/min,0.00075,"13,750",Calibration Fluid : Water,10080 - 10108
+,Ultrasonic flow meter (Clamp-on),20 L/min to 1300 L/min,0.01,"8,750",Calibration Fluid : Water,10080 - 10109
+,Gas Flowmeter,0.043 (mg/s) to 500 (mg/s),0.0023,"17,250/range",Calibration Fluid :  Nitrogen,10080 - 10201
+,Gas Flowmeter with display in standard flow (molbloc-L),100 cm3/min to 24000 cm3/min,0.0025,"30,000/range","Calibration Gas: Dry Air 
+Reference Conditions @ 0°C, 101.325 kPa",10080 - 10202
+,(Mass gas flow rate),0.043 (mg/s) to 21545 (mg/s),0.0023,"17,250/range",Calibration Fluid : Dry Air,10080 - 10202
+,"Gas Flow rate 
+(Gas meter with impluse output)",1 m3/h to 100 m3/h,0.002,"30,000/piece 
+(5 points)",Comparison Method,10080 - 10203
+,Gas Flowmeter with display in standard flow (molbloc-S),1 m3/h to 65 m3/h,0.0023,"30,000/range","Calibration Gas: Dry Air 
+Reference Conditions @ 0°C, 101.325 kPa",10080 - 10204
+,Sonic Nozzle at ambient pressure,1 m3/h to 100 m3/h,0.0022,"25,000/range",Calibration Gas: Ambient Air ,10080 - 10205
+,"Orifice flow device
+(Volumetric method)",(1 to 100) m3/h,0.01,"7,500/piece
+(5-7 points)
+",Comparison Method,10080 - 10208
+,Small Water Flow Meter (Mass Mode),"10 g/h to 50 g/h
+ 50 g/h to 1000 g/h","0.35%
+0.24%","16,875/range","Calibration Fluid : Water
+Gravimetric Method",10080 - 10301
+,Medium Liquid Flow Meter (Gravimetric Method),0.036 kg/min to 0.32 kg/min,0.003,"12,500/5 points","Calibration Fluid : Water
+Gravimetric Method",10080 - 10302
+,"Gas Flow rate 
+(Gas meter with flow rate output)",1.2 kg/h to 117 kg/h,0.002,"30,000/piece 
+(5 points)",Comparison Method,10080 - 10403
+,"Liquid Volume 
+(Proving tank: Neck scale type, Weir neck type)",1 L to 10 L,0.02% to 0.03%,"6,250/piece",Gravimetric Method,10080 - 10501
+,"Liquid Volume 
+(Proving tank: Neck scale type, Weir neck type)",<10 L to 20 L,0.02% to 0.03%,"10,000/piece",Gravimetric Method,10080 - 10502
+,"Liquid Volume 
+(Proving tank: Neck scale type, Weir neck type)",> 2 L to 50 L,0.0009,"8,750 / piece",Gravimetric Method,10080 - 10503
+,"Liquid Volume 
+(Proving tank: Neck scale type, Weir neck type)",> 50 L to 200 L,0.0009,"13,750/piece",Gravimetric Method,10080 - 10504
+,Flow speed device,(0.1-40) m/s,0.005,"12,500/5 points+2,500/next point","Wind tunnel 
+Calibration Fluid : Air",10080 - 10701
+,Small Water Flow Meter (Volumetric Mode),"10 mL/h to 50 mL/h
+ 50 mL/h to 1000 mL/h","0.35%
+0.24%","16,875/range","Calibration Fluid : Water
+Gravimetric Method",10080-10104
+,Volume of Liquid ,(1 to 20) L,0.15%,"6,250",/ piece / range,10080-10505
+,Volume of Liquid ,(>20 to 50) L,0.15%,"10,000",/ piece / range,10080-10506
+,Volume of Liquid ,(>50 to 100) L,0.15%,"5,000",/ piece / range,10080-10507
+,Volume of Liquid ,(>100 to 500) L,0.15%,"6,875",/ piece / range,10080-10508
+,Volume of Liquid ,(>500 to 1000) L,0.15%,"10,000",/ piece / range,10080-10509
+,Volume of Liquid ,(>1000 to 2000) L,0.15%,"13,750",/ piece / range,10080-10510
+,Volume of Liquid ,(>2000 to 3000) L,0.15%,"16,250",/ piece / range,10080-10511
+,Volume of Liquid ,(>3000 to 4000) L,0.15%,21250,/ piece / range,10080-10512
+,"Ultrasonic Thickness Measurement 
+(Thickness calibration block)",(2.54 - 12.70) mm and 100 mm,0.3% of reading,"2,500/5 points
++500/next point",Direct measurement by ultrasonic thickness system,10080-10601
+,Laser Doppler Anemometer,2 m/s to 20 m/s,0.004,"30,000/piece","Wind tunnel 
+Calibration Fluid : Air",10080-10702
+,Wind direction,0° to 360°,0.9°,"12,500/5 points
++2,500/next point","Wind tunnel 
+Calibration Fluid : Air",10080-10703
+,"Air speed anemometers
+(Cup and Vane anemometer)",(1-30) m/s,1% of reading,"12,500/15 points
++2,500/next point","Wind tunnel 
+Calibration Fluid : Air",10080-10704
+,Air speed anemometers,(0.1-40) m/s,0.008,"10,000/5 points","Wind tunnel 
+Calibration Fluid : Air",10080-10705
+,Gas Flowmeter(Volume gas flow rate),2 (cm3/min) to 24000 (cm3/min),0.0023,"17,250/range","0 degree C, 101.325 kPa",10081 - 10101
+,Gas Flowmeter(Volume gas flow rate),2 (cm3/min) to 24000 (cm3/min),0.0023,"17,250/range",Reference Conditions @,10081 - 10101
+,Gas Flowmeter(Volume gas flow rate),2 (cm3/min) to 24000 (cm3/min),0.0023,"17,250/range",Calibration Fluid :  Nitrogen,10081 - 10101
+,Gas Flowmeter(Volume gas flow rate),2 (cm3/min) to 1 (m3/min),0.0023,"17,250/range","0 degree C, 101.325 kPa",10081 - 10102
+,Gas Flowmeter(Volume gas flow rate),2 (cm3/min) to 1 (m3/min),0.0023,"17,250/range",Reference Conditions @,10081 - 10102
+,Gas Flowmeter(Volume gas flow rate),2 (cm3/min) to 1 (m3/min),0.0023,"17,250/range",Calibration Fluid : Dry Air,10081 - 10102

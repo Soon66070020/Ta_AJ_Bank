@@ -1,0 +1,36 @@
+# ── Git LFS ───────────────────────────────────────────────────────────────────
+# CSV ทะเบียนผู้เสียภาษี VAT ของกรมสรรพากร มีขนาดเกินขีดจำกัดปกติของ GitHub
+#   VAT_TaxpayerAddress_02.csv = 243.75 MB  (เกินขีดจำกัดแข็ง 100 MB)
+#   vat_taxpayeraddress_01.csv =  60.28 MB  (เกินระดับเตือน 50 MB)
+# ต้องติดตั้ง git-lfs ก่อน clone: https://git-lfs.com
+DGA_2/Revenue_Department/gdpublish-vat-taxpayeraddress/VAT_TaxpayerAddress_02.csv filter=lfs diff=lfs merge=lfs -text
+DGA_2/Revenue_Department/gdpublish-vat-taxpayeraddress/vat_taxpayeraddress_01.csv filter=lfs diff=lfs merge=lfs -text
+
+# ── Line endings ──────────────────────────────────────────────────────────────
+# ไม่ตั้ง `* text=auto` โดยตั้งใจ — จะทำให้ git normalize CRLF/LF ของไฟล์ CSV
+# ข้อมูลดิบที่ commit ไว้แล้ว และแสดงเป็น modified ทั้งที่เนื้อหาไม่ได้เปลี่ยน
+*.md    text
+*.py    text
+
+# ── Jupyter notebooks ─────────────────────────────────────────────────────────
+# ป้องกัน git พยายาม merge JSON ของ notebook แบบบรรทัดต่อบรรทัด
+*.ipynb -merge
+
+# ── Binary ────────────────────────────────────────────────────────────────────
+# core.autocrlf=true เคยทำให้ไฟล์ .xlsx ที่ commit ไว้เสียหาย (5168 → 5184 bytes)
+# เพราะ git มองเป็น text แล้วแปลง LF → CRLF — กฎด้านล่างกันไม่ให้เกิดซ้ำ
+*.xlsx  binary
+*.xls   binary
+*.ttf   binary
+*.rar   binary
+*.zip   binary
+*.pdf   binary
+*.geojson -text
+
+# ── Data files ────────────────────────────────────────────────────────────────
+# ไม่แปลง EOL ในไฟล์ข้อมูลของ DGA_2 / DGA_3 เพื่อให้ byte ตรงกับที่ pipeline เขียนออกมา
+# (CSV ภาษาไทยเขียนด้วย utf-8-sig — การแปลง CRLF ทำให้ขนาดไฟล์และ checksum เปลี่ยน)
+# จำกัดขอบเขตไว้แค่โฟลเดอร์ใหม่ เพื่อไม่ให้ไฟล์เดิมที่ commit ไปแล้วขึ้นเป็น modified
+DGA_2/**/*.csv  -text
+DGA_3/**/*.csv  -text
+DGA_3/**/*.json -text

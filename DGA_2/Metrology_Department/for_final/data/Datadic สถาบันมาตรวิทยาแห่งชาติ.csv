@@ -1,0 +1,11 @@
+﻿ชื่อ  Filed, คำบรรยายชื่อ  Field,Datatype,ขนาด
+ORGEDESC,ชื่อฝ่าย,Varchar2,20
+IN_OUT,ประเภทการสอบเทียบ In  คือ ภาย ใน สอบเทียบ กันเองภายในสถาบัน Out  คือ สอบเทียบภานนอก คือ สอบเทียบ ให้ลูกค้า,Varchar2,5
+DESCRIPTION,ชื่อเครื่องมือ,Varchar2,70
+CODEX,รหัส ราคา ของการ สอบ เทียบ อุปกรณ์ชิ้นนั้น,Varchar2,15
+TOTALFEE,ราคาสอบเทียบ ครั้งนั้น,float,"10,2"
+RECEIVEDDATE,วันที่ได้รับเครื่องมือจากลูกค้า,date,
+DUEDATE,วันที่กำหนดเสร็จ,date,
+DATECLOSE,วันเสร็จจริง,date,
+PERIODDAY,จำนานวันที่ใช้ในการสอบเทียบ,int,4
+SERVICE,ประเภทบริการ,Varchar2,20

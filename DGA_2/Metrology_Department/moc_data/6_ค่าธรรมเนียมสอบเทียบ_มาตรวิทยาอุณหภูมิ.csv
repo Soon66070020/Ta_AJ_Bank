@@ -1,0 +1,450 @@
+﻿ลำดับ (Item No.),รายการเครื่องมือวัด (Description),ช่วงการวัด (Range),ความสามารถในการวัดและสอบเทียบ (CMC / Uncertainty),ราคาค่าธรรมเนียม (Price - THB),หมายเหตุ (Remark),รหัสบริการ (Service Code)
+1.0,Luminous intensity of a tungsten lamp,"10 cd ? I? ? 3 000 cd
+2 000 K ? CCT ? 3 400 K",0.98%,15000,Detector-based method against a set of reference photometer ,13011-11011
+2.0,Luminous intensity of an incandescent lamp,"10 cd ? I? ? 3 000 cd
+2 000 K ? CCT ? 3 400 K",0.66%,"18,750 for the first lamp + 
+8,500 for any additional lamp of the same type ",Substitution method against two national reference standard lamps,13015-11011
+3.0,Luminous intensity of an incandescent lamp,"10 cd ? I? ? 3 000 cd
+2 000 K ? CCT ? 3 400 K",0.83%,"12,500 for the first lamp + 
+6,250 for any additional lamp of the same type",Substitution method against two working standard lamps,13016-11011
+4.0,Illuminance responsivity of a photo-detector head,"12 lx ? E? ? 300 lx
+2 000 K ? CCT ? 3 400 K",0.70%,6250,Source-based measurements using national reference standard lamps applying the inverse-square law.,13015-11021
+5.0,Illuminance responsivity of a photo-detector head,"12 lx ? E? ? 300 lx
+2 000 K ? CCT ? 3 400 K",0.80%,3130,Source-based measurements using working standard lamps applying the inverse-square law.,13016-11021
+6.0,Illuminance responsivity of an illuminance meter or a lux meter,"2  lx ? E? ? 70 lx  (range 1)
+70  lx ? E? ? 1 400 lx  (range 2)
+1 200  lx ? E? ? 10 000 lx  (range 3)
+10 000  lx < E? ? 30 000 lx  (range 4)
+
+2 000 K ? CCT ? 3 400 K","0.91% (range 1, 2, 3)
+1.2% (range 4, 5)
+ varied with illuminance level","5,000 for the first range + 2,500 for any additional range 2, 3, 4
+(5 calibration points per range)",Detector-based comparison against reference photometers,13011-11021
+7.0,Luminous flux of a tungsten lamp,5 lm to 9 000 lm,0.0089,18000,"Gonio-photometer
+(CCT: 2 000 K to 3 400 K)",13010-11031
+8.0,Luminous flux of an LED,5 lm to 9 000 lm,0.012,18000,"Gonio-photometer
+(Geometric measurement conditions: full, peak wavelength: white)",13010-11032
+9.0,Luminous flux of a tungsten lamp,5 lm to 9 000 lm,1.10%,"13,000 for the first lamp +
+7,000 for any additional lamp of the same type","Integrating sphere
+(CCT: 2 000 K to 3 400 K)",13015-11031
+10.0,Luminous flux of an LED,5 lm to 9 000 lm,1.30%,"13,000 for the first lamp +
+7,000 for any additional lamp of the same type","Integrating sphere
+(Geometric measurement conditions: full, peak wavelength: white)",13015-11032
+11.0,Luminous flux of a single-packaged LED,0.1 lm to 100 lm,"2.1% to 2.6% 
+varied with LED color","12,500 for the first LED + 6,250 for any additional LED of the same type","Integrating sphere
+(Geometric measurement conditions: full)",13045-11032
+12.0,Luminous flux of a linear fluorescent lamp,800 lm to 4 000 lm,1.20%,"13,000 for the first lamp +
+7,000 for any additional lamp of the same type","Integrating sphere
+(CCT: 2 600 K to 6 200 K)",13015-11033
+13.0,Luminance of a luminance source,"0.100 0 cd/m2 ? L? ? 199 900 cd/m2
+2 000 K ? CCT ? 6 500 K",0.011,"10,000 for the first calibration point + 8,000 for any additional point","Direct measurement by NIMT’s reference
+luminance meter",13012-11051
+14.0,Luminance responsivity of a luminance meter,"0.100 0 cd/m2 ? L? ? 43 000 cd/m2
+2 000 K ? CCT ? 3 400 K",0.0091,"30,000 for a set of 30 calibration points covering 5 decades",Detector-based comparison against a set of two reference photometers with precision aperture,13011-11060
+15.0,Luminance responsivity of a luminance meter,"1 cd/m2 ? L? ? 49 000 cd/m2
+3 000 K ? CCT ? 6 000 K",0.017,"4,000 for the first calibration point + 1,500 for any additional point within the same range and approximately same CCT (± 50 K)",Comparison method against the reference luminance meter under the solar spectrum uniform source system,13012-11060
+16.0,Averaged luminous intensity of a single-packaged LED,0.1 cd to 50 cd,"2.4% to 3.3%
+varied with LED color  ","15,000 for the first LED (CIE condition A and B) + 7,500 for any additional LED of the same type","Photometric bench, spectroradiometer and reference lamps",13045-11012
+17.0,Correlated color temperature of a general source,"2 600 K to 3 200 K (tungsten lamp)
+2 600 K to 7 500 K (discharge lamp, LED)","19 K (tungsten lamp)
+23 K to 79 K (discharge lamp, LED)",6500,Spectroradiometer and integrating sphere,13015-15021
+18.0,"Regular spectral transmittance of a transmitting filter or film.  
+Measured transmittance values will be reported at 10 nm interval from 200 nm to 900 nm and 50 nm interval from 900 nm to 2 500 nm.","31.6% < %T ? 97.7% 
+(0.01 ? OD < 0.5)",200 nm to 2000 nm: Greater than or equal to 0.48% ,"6,250/sample for full range 
+(UV-VIS-NIR)
+3,750/sample for half range
+(UV-VIS or VIS-NIR)
+3,750/sample","By comparison against a reference  ND filters using the reference spectrophotometer.
+Measurement uncertainties shown are percent relative of transmittance values and they are varied by wavelengths and dependent of UCC.",13025-14011
+19.0,Diffuse spectral transmittance of a diffusely transmitting material,380 nm to 780 nm,"For 20% haze plate, typical uncertainties in diffuse spectral transmittance are 0.13% to 0.18% throughout the spectrum ","4,000/sample",Direct measurement by single-beam reference spectrophtometer ,13025-14021
+20.0,"Specular excluded spectral diffuse reflectance of a glossy color sample (8o:de)  
+Measured diffused reflectance values will be reported at 5 nm interval from 380 nm to 780 nm.",0% < %R ? 10%,0.0003,"6,250 for the first piece
++ 3,750 for any additional piece
+Fee will be scaled down for selected partial wavelength range.","By comparison against a reference glossy ceramic color standard using the reference spectrophotometer with integrating sphere accessory.
+Measurement uncertainties shown are percent relative of reflectance values and they are varied by wavelengths and dependent of UCC.",13025-14051
+21.0,"Specular excluded spectral diffuse reflectance of a matte color sample (8o:de)
+Measured diffused reflectance values will be reported at 5 nm interval from 380 nm to 780 nm.",0% < %R ? 10%,0.0003,"6,250 for the first piece
++ 3,750 for any additional piece
+Fee will be scaled down for selected partial wavelength range.","By comparison against a reference matte ceramic color standard using the reference spectrophotometer with integrating sphere accessory.
+Measurement uncertainties shown are percent relative of reflectance values and they are varied by wavelengths and dependent of UCC.",13026-14051
+22.0,"Specular included spectral diffuse reflectance of a glossy color sample (8o:di) 
+Measured diffused reflectance values will be reported at 5 nm interval from 380 nm to 780 nm.",0% < %R ? 10%,0.0030 to 0.0022,"6,250 for the first piece
++ 3,750 for any additional piece
+Fee will be scaled down for selected partial wavelength range.","By comparison against a reference glossy ceramic color standard using the reference spectrophotometer with integrating sphere accessory.
+Measurement uncertainties shown are percent relative of reflectance values and they are varied by wavelengths and dependent of UCC.",13025-14071
+23.0,"Specular included spectral diffuse reflectance of a matte color sample (8o:di)
+Measured diffused reflectance values will be reported at 5 nm interval from 380 nm to 780 nm.",0% < %R ? 10%,0.0030 to 0.0022,"6,250 for the first piece
++ 3,750 for any additional piece
+Fee will be scaled down for selected partial wavelength range.","By comparison against a reference matte ceramic color standard using the reference spectrophotometer with integrating sphere accessory.
+Measurement uncertainties shown are percent relative of reflectance values and they are varied by wavelengths and dependent of UCC.",13026-14071
+24.0,Regular spectral reflectance,"5 ? %R ? 100% 
+200 nm ? l ? 2 500 nm at 5 nm interval","0.32% to 0.42% for the wavelength range from 200 nm to 885 nm
+1.0% to 1.4% for the wavelength range from 890 nm to 2 500 nm
+*Typical values for a high reflective aluminum mirror.  Uncertainties for other materials are likely higher.","11,250 for full-range.
+Price for partial-range will be scaled down accordingly.",Absolute method by a double-subtractive double-beam spectrophotometer (Perkin-Elmer Lambda 1050) equipped with a variable-angle reflectance accessory (URA),13025-14061
+25.0,"Wavelength calibration of a transmitted wavelength standard (holmium oxide solution, holmium oxide filter, dydimium oxide filter etc.)",200 nm to 2 500 nm,200 nm to 700 nm: 0.19 nm,"2,500 for first peak identification + 1,250 for any additional peak ",Measurement by reference spectrometer,13025-14150
+26.0,Wavelength calibration of a reflectance wavelength standard (holmium oxide doped ceramic tile etc.),200 nm to 2 500 nm,200 nm to 700 nm: 0.19 nm,"3,750 for first peak identification + 1,250 for any additional peak ",Measurement by reference spectrometer with integrating sphere accessory,13025-14151
+27.0,Regular transmittance responsivity of transmission meter and tint meter,0% < %T ? 100% ,2%,6250,"By comparison against working standard ND filters at the nominal optical density values of 0.1, 0.3, 0.5 and 1.0.",13026-14011
+28.0,Absolute spectral irradiance responsivity of a spectroradiometer with irradiance probe,200 nm to 1 700 nm," Greater than or equal to  
+2.6%","11,250 for scanning type and 6,250 for diode-array type",Direct measurement against a set of two FEL working standard lamps ,13038-12023
+29.0,Relative spectral radiance responsivity of a spectroradiometer with radiance probe,250 nm to 2 500 nm," Greater than or equal to  
+2.5%","11,250 for scanning type and 6,250 for diode-array type",Direct measurement against a set of two FEL working standard lamps ,13039-12030
+30.0,Absolute spectral radiance responsivity,"Radiance: 0.000 5 W.sr-1. m-2.nm-1
+Type of source: Tungsten-based integrating sphere source",2.8% to 7.6%,"7,500 for diode array type spectrometer
+10,000 for scanning type spectrometer",Direct measurement on reference radiance gauge ,13038-12030
+31.0,Power responsivity of a trap detector,Power level: < 1 mW,"0.026% (power responsivity)
+0.087% (spectral responsivity)","35,000 per wavelength point
++ 10,000 for spectral responsivity","- The power responsivity is calibrated against a cryogenic radiometer at laser wavelengths (406.7 nm, 413.1 nm, 476.2 nm, 530.9 nm, 568.2 nm, 632.8 nm, 647.1 nm, 799.3 nm)
+- Spectral responsivity scale is  interpolated between the laser wavelengths based ",13030-12040
+32.0,Solar irradiance responsivity of a Si-pyranometer,"Wavelength: 400 nm to 1 100 nm
+Power Level: 50 W.m-2 to 380 W.m-2
+",0.02,6250,Comparison against a working standard spectroradiometer applying 300 W Xe arc lamp with 1.5 global  airmassfilter,13034-12716
+33.0,Solar irradiance responsivity of a thermopile-detector pyranometer,"280 nm to 2 500 nm
+(160 W.m2 to 520 W.m2)",2.1% to 3.4%,9000,Soruce based calibration against a working standard spectroradiometer applying a solar simulator system,13034-12717
+34.0,Intregrated irradiance responsivity of broadband radiometer,"315 nm to 400 nm
+(UVA )",4.40%,"6,250 per probe for the first irradiance level point
++ 3,130 for any additional irradiance level point",Source based calibration against a reference spectroradiometer using filtered 500 W Hg(Xe) as light source,13034-12090
+35.0,Intregrated irradiance responsivity of broadband radiometer,"280 nm to 315 nm
+(UVB)",6.30%,"6,250 per probe for the first irradiance level point
++ 3,130 for any additional irradiance level point",Source based calibration against a reference spectroradiometer using filtered 500 W Hg(Xe) as light source,13034-12091
+36.0,Intregrated irradiance responsivity of broadband radiometer,"280 nm to 400 nm
+(UVA+UVB)",6.00%,"6,250 per probe for the first irradiance level point
++ 3,130 for any additional irradiance level point",Source based calibration against a reference spectroradiometer using filtered 500 W Hg(Xe) as light source,13034-12092
+37.0,Intregrated irradiance responsivity of broadband radiometer,Arbitary range within 280 nm to 1 020 nm,Varied by selected range,"6,250 per probe for the first irradiance level point
++ 3,130 for any additional irradiance level point",Source based calibration against a reference spectroradiometer using filtered 500 W Hg(Xe) as light source,13034-12099
+38.0,Intregrated irradiance responsivity of narrowband radiometer,365 nm ± 10 nm,0.044,"6,250 per probe for the first irradiance level point
++ 3,130 for any additional irradiance level point",Source based calibration against a reference spectroradiometer using filtered 500 W Hg(Xe) as light source,13034-12110
+39.0,Intregrated irradiance responsivity of narrowband radiometer,254 nm ± 10 nm,10%,,,13034-12113
+40.0,Intregrated irradiance responsivity of narrowband radiometer,Arbitary range within 280 nm to 1 020 nm,Varied by selected range,,,13034-12119
+41.0,UVC irradiance responsivity of an UVC radiometers,"Wavelength: 240 nm to 270 nm
+Irradiance level: 2 mW?cm-2 to 20 W?m-2
+(Standard points: 2, 40, 160, 225, 350, 450, and 500 mW?cm-2)","3.1%, varied by DUT and irradiance level","8,750 THB / fisrt point + 2,500 THB / for additional standard point(s) + 4,375 THB / for additional point(s)","Source based calibration against a
+reference spectroradiometer using low
+pressure Hg lamps as calibration source with ND filters",13034-12093
+42.0,Erythemally Weighted Effective Global Solar UV Irradiance Responsivity of a UVE Radiometer/UV Index Meter,"0.012 W?m-2 ? Eer ? 0.500 W?m-2
+250 nm ? l ? 400 nm","8.8 % to 9.3 %
+ varied with effective irradiance level and DUT","6,250 for the first point + 3,750 for any additional point
+",Source based comparison against working standard spectroradiometer by using a properly filtered Xe discharge lamp as the calibration light source,13034-12095
+43.0,Integrated Radiant Exposure Responsivity of a UV Radiometer ,"315 nm ? ? ? 400 nm
+2 W?m-2 ? Ee ? 40 W?m-2
+30 s ? t ? 120 s","5.0 % to 6.3 %
+ varied with exposure time, irradiance level and DUT","8,500 for the first point + 4,200 for any additional point",Comparison agiants a working standard spectroradiometer with a calibrated stopwatch applying the filtered 500W Hg(Xe) arc lamp,13034-12100
+44.0,Integrated Radiant Exposure Responsivity of a UV Radiometer ,"280 nm ? ? ? 400 nm
+5 W?m-2 ? Ee ? 40 W?m-2
+30 s ? t ? 180 s","5.5 % to 6.8 %
+ varied with exposure time, irradiance level and DUT","8,125 for the first point + 3,750 for any additional point",Comparison agiants a working standard spectroradiometer with a calibrated stopwatch applying the 300W Ultra-Vitalux® UV lamp,13034-12101
+45.0,Responsivity of PAR radiometer,400 nm to 700 nm,2.00%,"6,250 per probe for the first irradiance level point + 3,130 for any additional irradiance level point
+
+",Direct measurement against a set of two FEL working standard lamps ,13038-12120
+46.0,Measurement of linearity response of a photo-detector," At discrete wavelengths from 200 nm to 2 500 nm
+Beam size ranges from 25 micron to 5 mm","200 nm to 400 nm: 
+± 0.1%
+400 nm to 2 500 nm: ± 0.05% ","4,375 for one combination of wavelength and beam size of one photo-detector",Flux superposition method,13032-12900
+47.0,Measurement of uniformity of response of a photo-detector," At discrete wavelengths from 200 nm to 2 500 nm
+Beam size ranges from 25 micron to 5 mm","200 nm to 400 nm: 
+± 0.2%
+400 nm to 2 500 nm: ± 0.1% ","6,250 for  one combination of wavelength and beam size of one photo-detector",x-y linear scan,13032-12910
+48.0,Spectral irradiance responsivity of low-sense UV and blue-wavelength spectroradiometer,"Wavelength: 200 nm ? ? ?  500 nm
+Power level: 0.002 W?m-2?nm-1 to 1 W?m-2?nm-1","³ 4.7%, varied by DUT, wavelength, bandwdith and power level","10,000 / Irradiance level",Comparison against reference spectroradiometer using 300 W Xe lamp,13038-12024
+49.0,Spectral irradiance of a duterium lamp,200 nm to 400 nm,5.3% to 12%,"13,750 for the first lamp
++ 5,630 for any additional lamp",By scanning measurements against a spectral irradiance reference national standard lamp using a double subtractive monochromator,13037-13012
+50.0,Measurement of absolute / relative spectral irradance of a light source,250 nm to 1 020 nm," Greater than or equal to  
+2.4%","6,250 for the first lamp
++ 3,130 for any additional lamp of the same type",Measurement by a working standard diode array spectroradiometer ,13034-13013
+51.0,Measurement of integrated absolute irradance of a light source,"320 nm to 400 nm
+(UVA)",0.042,"6,250 for the first lamp 
+(per range)
++ 3,130 for any additional lamp of the same type
+(per range)",Measurement by a working standard radiometer,13035-15090
+52.0,Measurement of integrated absolute irradance of a light source,"260 nm to 320 nm
+(UVB)",0.064,"6,250 for the first lamp 
+(per range)
++ 3,130 for any additional lamp of the same type
+(per range)",Measurement by a working standard radiometer,13035-15091
+53.0,Measurement of integrated absolute irradance of a light source,400 nm to 500 nm,0.0357,"6,250 for the first lamp 
+(per range)
++ 3,130 for any additional lamp of the same type
+(per range)",Measurement by a working standard radiometer,13035-15098
+54.0,Spectral radiance of radiance source,"Wavelength range: 320 nm to 1 100 nm
+Bandwidth: 4.0 nm
+Correlated color temperature (CCT)
+2 000 K ? CCT ? 6 500 K",2.6% to 7.0%,"20,000 for the first calibration point + 5,000 for any additional point",Comparison method for relative spectral measurement and direct measurement for absolute luminance by a reference luminance meter.,13037-13021
+55.0,Spectral radiant flux of a tungsten lamp,0.001 W/nm to 0.07 W/nm,"3.4% to 2.8%
+(360 nm to 395 nm)
+2.8% to 3.6%
+(395 nm to 830 nm)","20,000
+(+ 500 for total radiant flux)","Gonio-spectroradiometer and integrating sphere
+(Geometric measurement conditions: full)",13010-13051
+56.0,Total radiant flux of a tungsten lamp,5 W to 20 W,0.016,20000,"Gonio-spectroradiometer and integrating sphere
+(Geometric measurement conditions: full, wavelength range: 360 nm to 830 nm)",13010-15080
+57.0,"Surface color of general reflecting material, x, y, Y, u', v', L*, a*, b*",-,"Varied by parameter of interest  and color of UUC, please contact a laboratory staff for full details.","For general material: 7,500 THB for the first piece and 4,000 THB for an additional piece. 
+For a set of color standards:
+7,500 THB for the first piece and 2,000 THB for an additional piece.",Spectral diffuse reflectance measurement by single-beam substitution method against a reference color standard,13025-16010
+58.0,"Surface Color Responsivity of Colorimeter, x, y, Y, u', v', L*, a*, b*",380 nm to 780 nm,Varied by parameter of interest  and color of standard.,6250,Direct measurement by using the basic color checked standard,13026-16010
+59.0,Transmitted color of a transmitting material,360 nm to 860 nm,Values and uncertainties vary depending on sample's color. ,"3,500/sample",Direct measurement by single-beam reference spectrophtometer ,13025-16030
+60.0,Haze and luminous transmittance of a diffusely transmitting material,380 nm to 780 nm,"For 20% haze plate, typical uncertainty in transmission haze is 0.16%.","5,000/sample",Based on ASTM D1003 standard method,13025-16070
+61.0,Whiteness and Tint,"380 nm to 780 nm
+W greater than 40 and less than 5Y-280",1.5,"6,500/sample",Spectral diffuse reflectance measurement by single-beam substitution method against a reference white diffuse reflectance standard,13025-16120
+62.0,Correlated color temperature of a general source,"2 600 K to 3 200 K (tungsten lamp)
+2 600 K to 7 500 K (discharge lamp, LED)","13 K (tungsten lamp)
+14 K to 33 K (discharge lamp, LED)","6,500
+(+ 500 for chromaticity coordinate)",Spectroradiometer and photometric bench,13041-15021
+63.0,Emitted color of a general source,-,"0.001 (tungsten lamp)
+0.002 (discharge lamp, LED)","6,500
+(+ 500 for correlated color temperature)",Spectroradiometer and photometric bench,13041-15040
+64.0,Correlated color temperature response of a color temperature meter,"2 600 K to 3 200 K (tungsten source)
+2 600 K to 10 000 K (spectrally tunable LED source)","13 K (tungsten source)
+25 K to 133 K (spectrally tunable LED source)","6,500 for the first calibration point + 1,000 for any additional point",Spectroradiometer,13041-15030
+65.0,Chromaticity response of a colorimeter,-,"0.001 (tungsten source)
+0.002 (spectrally tunable LED source)","6,500 for the first calibration point + 1,000 for any additional point",Spectroradiometer,13041-15050
+66.0,Spectral diffuse/hemispherical reflectance of a spectrally-neutral material,30 % to 100 %,"2.2 % to 1.4 %
+(diffuse: 400 nm to 470 nm
+hemispherical: 400 nm to 430 nm)
+
+1.4 % to 1.3 %
+(diffuse: 470 nm to 700 nm
+hemispherical: 430 nm to 700 nm)","10,000",Spectrophotometer,13015-34051
+67.0,Measurement of absolute / relative spectral irradance of a light source,250 nm to 1020 nm,3.4% to 9.8%,"6,250",Measurement by a working standard diode array spectroradiometer,13034-33013
+68.0,Measurement of integrated absolute irradance of a light source,"320 nm to 400 nm
+(UVA)",0.042,"6,130 
+(per range)",Measurement by a working standard radiometer,13035-35090
+69.0,Measurement of integrated absolute irradance of a light source,"260 nm to 320 nm
+(UVB)",0.064,,,13035-35091
+70.0,Measurement of integrated absolute irradance of a light source,400 nm to 500 nm,0.0357,,,13035-35098
+71.0,Solar simulator performance testing according to IEC 60904-9,"400 nm to 1,100 nm (300 nm to 1 200 nm) for spectral match evaluation",0.001,"For 400 nm to 1 100 nm, 7,500/irradiance level For 300 nm to 1 200 nm, 9,000/irradiance level","Measurements based on IEC 60904-9
+Edition 3.0 2020-09",13034-33014
+72.0,UVC Intregrated irradiance of customer's source,220 nm to 280 nm,0.054,"6,400 per probe for the first irradiance level point
++ 2,900 for any additional irradiance level point",Measurement by reference UVC meter,13035-32093
+73.0,Sensitivity of a pyranometer,(600 to 1000) W/m2,0.03,10000,Comparison to a reference pyranometer in accordance with ISO 9847:2023 Type B1,13050-31001
+74.0,"ND Filter (OD0.1, OD0.4, OD1.0)",380 nm to 780 nm,"Spectral regular transmittance
+0.74% to 0.86% for OD0.1
+0.86% to 1.2% for OD0.4
+T<10%, Uabs = 0.29% and T³10%, Urel = 3.1% for OD1.0","10,000/sample",Comparison using the reference spectrophotometer.,13025-34011
+75.0,Holmium oxide glass filter,240 nm to 640 nm,Uabs = 0.20 nm,"17,500 for 4 peaks  identification + 1,250 for any additional peak",Comparison using the reference spectrophotometer.,13025-34150
+76.0,Fixed point cells,0.01 °C,0.12 mK,"25,000/point 
+",Direct realization,11010 - 11111
+77.0,Standard Platinum Resistance Thermometer (SPRT),-189.3442 oC ,1 mK,"10,000 / point","By ITS-90 Fixed Point Cells, Sheath for temperature above Zn. Minimum sheath length 450 mm",11010 - 11321
+78.0,Semi-Standard Platinum Resistance Thermometer or Platinum Resistance Thermometer,-189.3442 oC ,1 mK,"10,000 / point","By ITS-90 Fixed Point Cells, Sheath for temperature above Zn. Minimum sheath length 450 mm",11010 - 11322
+79.0,Standard Platinum Resistance Thermometer (SPRT),-189.3442 oC to 0.01 oC,1.0 mK,"10,000 / point","By ITS-90 Fixed Point Cells, Sheath for temperature above Zn. Minimum sheath length 450 mm",11010 - 11323
+80.0,Semi-Standard Platinum Resistance Thermometer or Platinum Resistance Thermometer,-189.3442 oC to 0.01 oC,1.0 mK,"10,000 / point","By ITS-90 Fixed Point Cells, Sheath for temperature above Zn. Minimum sheath length 450 mm",11010 - 11324
+81.0,"Fixed-point Blackbody
+(Primary and Secondary Fixed-point Black body)",1084.62 oC (ITS-90),0.14 K,"24,000 / point",Comparison to Standard Fixed-point Blackbody using 0.65 µm standard radiation thermometer (ITS-90 or thermodynamic temperature),11030 - 11121
+82.0,"Fixed-point Blackbody
+(Primary and Secondary Fixed-point Black body)",1 084.62 oC (ITS-90),0.14 K,"24,000 / point",Comparison to Standard Fixed-point Blackbody using 0.9 µm standard radiation thermometer (ITS-90 or thermodynamic temperature),11030 - 11122
+83.0,"Fixed-point Blackbody
+(Primary and Secondary Fixed-point Black body)",1 084.62 oC,0.19 K,"24,000 / point",Comparison to Standard Fixed-point Blackbody using 1.6 µm standard radiation thermometer,11030 - 11123
+84.0,Optical Pyrometer/Standard radiation thermometer,156.5985 °C to 1084.60 °C,0.14 K to 0.40 K,"12,000/point",By Comparison with fixed pont blackbodies (ITS-90),11030 - 11411
+85.0,0.9  µm radiation thermometer,960 °C to 2000 °C,0.2 K to 1.1 K,"48,000/point",Direct realisation by measurement of,11030 - 11412
+86.0,0.65  µm radiation thermometer,960 °C to 2500 °C,0.2 K to 1.4 K,"48,000/point",Direct realisation by measurement of,11030 - 11413
+87.0,650 nm / 900 nm Standard radiation thermometer ,1084.6721 °C,0.16 K to 0.22 K,"12,000",By Comparison with Cu fixed point blackbody (Thermodynamic temperature),11030 - 17121
+88.0,650 nm radiation thermometer,960 °C to 2500 °C,0.20 K to 1.45 K,"48,000",Direct realisation by measurement of spectral responsivity (Thermodynamic temperature),11030 - 17122
+89.0,Variable Temperature Blackbody Radiation Sources,0 ºC to < 15 ºC,0.4 K,"7,500 /point",Comparison with reference blackbodies through infrared thermometer spectral wavelength 8 mm to 13 mm,11030-12521 
+90.0,Variable Temperature Blackbody Radiation Sources,15 ºC to 500 ºC,0.4 K to 2.1 K,"8,500 first point + 3,750/next point",,11030-12525
+91.0,Variable Temperature Blackbody Radiation Sources,-40 ºC to < 15 ºC,0.5 K to 0.2 K,"7,500 /point",Comparison with reference blackbodies through infrared thermometer spectral wavelength 8 mm to 14 mm,11030-12526
+92.0,Variable Temperature Blackbody Radiation Sources,15 ºC to 300 ºC,0.2 K to 0.46 K,"8,500 first point + 3,750/next point",Comparison with reference blackbodies through infrared thermometer spectral wavelength 8 mm to 14 mm,11030-12527
+93.0,Variable Temperature Blackbody Radiation Sources,300 ºC to 600 ºC,0.46 K to 0.80 K,"8,500 first point + 6,250/next point",Comparison with reference blackbodies through infrared thermometer spectral wavelength 8 mm to 14 mm,11030-12520
+94.0,Variable Temperature Blackbody Radiation Sources,150 ºC to 1 100 ºC,0.7 K to 1.6 K,"8,500 first point + 3,750/next point",Comparison with 1.6 mm standard radiation thermometer ,11030-12522
+95.0,Variable Temperature Blackbody Radiation Sources,1 000 ºC to 2 500 ºC,1.6 K to 2.8 K,"8,500 first point + 3,750/next point",Comparison with 650 nm standard radiation thermometer ,11030-12523
+96.0,Variable Temperature Blackbody Radiation Sources,420 ºC to 1 600 ºC,0.8 K to 2.0 K,"8,500 first point + 3,750/next point",Comparison with 900 nm standard radiation thermometer ,11030-12528
+97.0,Variable Temperature Blackbody Radiation Sources,400 ºC to 1 000 ºC,1.2 K to 2.0 K,"8,500 first point + 3,750/next point",Comparison with  8 mm to 14 mm standard radiation thermometer ,11030-12529
+98.0,Variable temperature blackbody sources for infrared ear/forehead thermometers ,22 º C to 42 ºC,44 mK,"7,500 first point + 2,500/next point",Comparison with standard liquid bath blackbodies through infrared ear thermometers,11030 - 12524
+99.0,Effective emissivity for variable temperature blackbody cavity (temperature range 22 °C to 42 °C),0 to 1,0.037 to 0.0025,"2,500",Comparison with standard blackbody cavity by measurement of temperature difference ,11030 - 16311
+100.0,Radiation Thermometer/Infrared Thermometer/Thermal imaging Camera,-40 °C to 15 °C,0.15 K to 0.30 K,"5,000 /point*",By Comparison with PRT or Transfer Standard Radiation Thermometer,11030 - 12541
+101.0,Radiation Thermometer/Infrared Thermometer/Thermal imaging Camera,>15 °C to < 1100 °C,0.15 K to 3.0 K,"7,500 first point+2,000/next point",By Comparison with Transfer Standard Radiation Thermometer or PRT,11030 - 12542
+102.0,Radiation Thermometer/Infrared Thermometer/Thermal imaging Camera,300 °C to 600 °C,0.45 K to 0.80 K,"7,500 first point+4,500/next point",By Comparison with PRT or Transfer Standard Radiation Thermometer,11030 - 12546
+103.0,Radiation Thermometer/Infrared Thermometer/Thermal imaging Camera,1100 °C to 2500 °C,2 K to 5 K,"8,500 first point+ 3,000/next point",By Comparison with Transfer Standard Radiation Thermometer,11030 - 12543
+104.0,"Infrared ear thermometers 
+(Resolution ³ 0.1 K)",35 ºC to 42 ºC,0.2 K,"3,750 first point + 1,000/next point",Comparison with PRT in liquid bath blackbody ,11030 - 12544
+105.0,"Infrared ear thermometer 
+(Resolution < 0.1 K)",35 ºC to 42 ºC,0.10 K,"3,750 first point + 1,000/next point",Comparison with PRT in liquid bath blackbody ,11030 - 12545
+106.0,"Spectral emittance (emissivity)
+(non-IR transparent material)","0 < E < 1
+ 1 500 nm to 2 500 nm ",6 % to 9.5 %,"3,750 /sample",Comparison with gold-coated reference standard,11050-16311
+107.0,"Spectral emittance (emissivity)
+(non-IR transparent material)","0.9 ? E < 1
+ 5 mm to 20 mm",6%,"5,000 /sample",Comparison with gold-coated reference standard,11050-16312
+108.0,Thermal conductivity of solid insulation materials,"(0 to 2) W/m·K 
+temperature 25 °C",2%,"35,000 /point",Measurement by Guarded Hot Plate (GHP) Method,11050-16111
+109.0,Standard Platinum Resistance Thermometer (SPRTs),-196oC,16 mK,"6,500 first point
+ +  1,500/next point
+At least 6 points",By Comparison with SPRTs in stirred liquid bath Minimum sheath length 300 mm,11020 - 12221
+110.0,Industrial Platinum Resistance Thermometers (IPRTs),-196oC,16 mK,"6,500 first point
+ +  1,500/next point
+At least 6 points",By Comparison with SPRTs in stirred liquid bath Minimum sheath length 300 mm,11020 - 12222
+111.0,Thermistors,-80 º C to 100  º C,10 mK,"3,000 first point + 1,500/next point",Comparison with SPRTs in stirred liquid baths,11020-12231 
+112.0,"Noble-metal Thermocouples
+(Type S, Type R, Type B)",231.928 °C,0.1 K,7500 bath/point,"By ITS-90 Fixed Point Cells
+",11020 - 12311
+113.0,Pure-metal thermocouples ,231.928 °C,0.05 K,"8,000 bath/point  for Sn, Zn, Al  and
+10,000 bath for
+Ag, Cu, Co-C",By ITS-90 Fixed Point Cells / Co-C fixed point cell  (At least 3 points),11020 - 12331
+114.0,"Noble-metal Thermocouples
+(Type S, Type R, Type B, Au/Pt)",-40 °C to 0 °C,0.2 K,"4,000 first point  +  1,200/next point",By comparison with standard TC  or SPRT in comparison furnace  Minimum sheath length 450 mm,11020 - 12312
+115.0,Base-metal Thermocouples ,-196  °C,0.3 K,"4,000 first point",By comparison with standard TC,11020 - 12321
+116.0,"Fabrication of Standard Thermocouples Type R, Type S, Type B  with fixed point calibration  (wires not included)
+",0 °C to 1100 °C,0.3 K,"36,500",Electrical Annealing and re-fabrication thermocouple with calibration certificate by ITS-90 Fixed Point Cells.,11020 - 22314
+117.0,Liquid-in-glass Thermometer,-40 °C to 90 °C,15 mK,"4,000 first point+ 1,000/next point",By Comparison with  SPRTs in stirred liquid bath,11020 - 12411
+118.0,"Digital Thermometer with resistance probe
+",- 196 oC,15 mK,"5,000 first point","By Comparison with  SPRTs 
+in stirred liquid bath/ Furnace/ LN2 comparator",11020 - 12711
+119.0,Digital Thermometer with thermocouple probe,- 196 oC,0.4 K,"5,000 first point+ 1,500/next point","By Comparison with  SPRTs /TC 
+in stirred liquid bath /Furnace",11020 - 12714
+120.0,Temperature Bath,-80oC to 25oC ,20 mK,"4,000 first point +
+1,000/next point",By Comparison with SPRTs ,11020 - 12861
+121.0,Temperature block calibrator and Furnace,-40 °C to 660 °C,0.1 K,"5,000 first point + 3,500/next point",By Comparison with two SPRTs/TCs in measurement zone of temperature block calibrator,11020 - 12862
+122.0,Surface Thermomter ,35 º C to 200  º C,0.5 K,"5,000 first point + 1,500/next point",Comparison with its reading with the temperature of reference surface heat source.,11020 - 12713
+123.0,Surface calibrator,35 º C to 200  º C,0.4 K,"5,000 first point + 2,000/next point",Comparison with reference  standard temperature ,11020 - 12863
+124.0,Calibration of Gallium cell:  model A ,29.7646 °C,5 mK,"12,500 /point",Direct measurement with SPRT,11020 - 12111
+125.0,Calibration of Gallium cell:  model B,29.76 °C,20 mK,"6,500 /point",Direct measurement with PRT,11020 - 12112
+126.0,Dew Point Hygrometer,-90 oC to  -75 oC,0.4 K,"8,000/point",Comparison with two ,11040 - 13116
+127.0,Dew Point Hygrometer,- 75 °C to -25 °C,0.3 K,"8,000/point",Comparison with two ,11040 - 13111
+128.0,Dew Point Hygrometer,- 25 °C to -10 °C,0.2 K,"8,000/point",Comparison with two ,11040 - 13112
+129.0,Dew Point Hygrometer,-10 °C to 1 °C,0.07 K,"7,000/point",Comparison with two pressure ,11040 - 13113
+130.0,Dew Point Hygrometer,1 °C to 30 °C,0.06 K,"7,000/point",Comparison with two pressure ,11040 - 13114
+131.0,Dew Point Hygrometer,30 oC to 60 oC,0.07 K,"8,000/point",Comparison with two pressure humidity generator,11040 - 13115
+132.0,Dew Point Hygrometer,10 °C to 95 °C,0.03 K,"10,000/point",Comparison with NIMT single temperature humidity generator,11040 - 13116
+133.0,"Relative Hygrometer(At chamber temperature : 
+15 oC to 60 oC )",15 % to 50 %,0.40%,"8,000/point",Comparison with two temperature two pressure Humidity Generator ,11040 - 13311
+134.0,"Relative Hygrometer(At chamber temperature : 
+15 oC to 60 oC )",50 % to 80 %,0.70%,"7,000/point",Comparison with two temperature two pressure Humidity Generator ,11040 - 13312
+135.0,"Relative Hygrometer(At chamber temperature : 
+15 oC to 60 oC )",80 % to 98 %,0.90%,"7,000/point",Comparison with two temperature two pressure Humidity Generator ,11040 - 13313
+136.0,Thermo-Hygrometer,Humidity (35 to 95)%RH,(1.5 to 3) %RH,"3,130 first point
++ 500/next point",Comparison with PRT and Chilled Mirror Hygrometer in Controlled Chamber,11040 - 13411
+137.0,Data Logger (Air Type),Temperature 15 °C to 50 °C,(0.5  to 1) °C,"3,130 first point+ 500/next point",Comparison with PRT and Chilled Mirror Hygrometer in Controlled Chamber,11040 - 13412
+138.0,Air temperature sensor and Relative Humidity Sensor,-70 oC to 60 oC,0.1 oC,"5,000/First point 
++2,500 Next point",Comparison to a reference thermometer in an air circulated chamber immersed in liquid bath,11040 - 12611
+139.0,Dew-Point Generator,(-10 oC to 50 oC) dew-point,0.07 oC to 0.1 oC ,"17,500/First point 
++4,000 Next point",Comparison with dew-point hygrometer ,11040 - 14411
+140.0,Relative humidity generator,"12 % to 92 % 
+(at the air temperature 
+from 10 °C to 40 °C)",0.1 % to 0.6 %,"17,500/First point 
++4,000 Next point",Comparison to dew-point hygrometer and reference thermometer,11040-14421
+141.0,"Moisture meter in rice and paddy (Capacitance, Resistance and NIR type)
+",10 %MC to 30 %MC,0.5 %MC,"1,500/point ",Comparison with CRM moisture Content in paddy,11040-15111
+142.0,Reference temperature source for testing / calibration of clinical thermometers,"35.0 °C to 42.0 °C
+(up to 150 °C)","40 mK
+(uniformity and stability)",81400,Model: NIMT-TM-B-01 ,11030-32861
+143.0,"Reference temperature source for testing / calibration of clinical thermometers
+","35.0 °C to 42.0 °C
+(up to 150 °C)","40 mK
+(uniformity and stability)",55700,Model: NIMT-TM-B-02 ,11030-32862
+144.0,Reference temperature source for testing / calibration of clinical thermometers ,"30.0 °C to 40.0 °C
+(up to 150 °C)","30 mK
+(uniformity and stability)",105000,"Model: NIMT-TM-B43L-03 
+(volume 43 Liters)",11030-32863
+145.0,Blackbody cavity (En-type),35.0 °C to 42.0 °C,Emissivity : 0.9995 ± 0.0005,26000,Model: NIMT-TM-BC-01En,11030-32521
+146.0,Blackbody cavity ,30.0 °C to 40.0 °C,Emissivity : 0.999 ± 0.001,45000,"Model: NIMT-TM-BC-02FHT
+(aperture 50 mm suitable for infrared/forehead thermometers) ",11030-32522
+147.0,Reference thermometer (1 probe),-50 °C to 70 °C,20 mK,10300,Model: NIMT-TM-DTM-01,11030-32711
+148.0,Reference thermometer (2 probes),-50 °C to 70 °C,20 mK,12700,Model: NIMT-TM-DTM-02,11030-32712
+149.0,Supply of Thermocouple Type S  with fixed point calibration ,0 °C to 1100 °C,0.3 K,"99,000",Supply of thermocouple with calibration certificate by ITS-90 Fixed Point Cells.,11020-22311
+150.0,Supply of Thermocouple Type S  with fixed point calibration ,0 °C to 1100 °C,0.3 K,"102,500",Supply of thermocouple with calibration certificate by ITS-90 Fixed Point Cells.,11020-22311
+151.0,Supply of Thermocouple Type B  with fixed point calibration ,0 °C to 1100 °C,0.3 K,"102,500",Supply of thermocouple with calibration certificate by ITS-90 Fixed Point Cells.,11020-22313
+152.0,Supply of Gallium Cell model A with Calibration ,29.7646 °C,5 mK,"32,000","Ga cell suitable for IPRT, DTM calibration & verification",11020-22111
+153.0,Supply of Gallium Cell model B with Calibration ,29.76 °C,20 mK,"12,000","Ga cell suitable for DTM, IOT sensors calibration & verification",11020-22112
+154.0,CRM for Moisture Content in Rice or Paddy,10 %MC to 20 %MC,0.15 %MC to 0.2 %MC,"2,500 Bath/100 g/ %MC",The assigned value was obtained from  loss on drying method.,11040 - 25111
+155.0,CRM for Moisture Content in Rice Powder,5% %MC to 20 %MC,0.15 %MC to 0.3 %MC,"2,500 Bath/100 g/ %MC",The assigned value was obtained from  loss on drying method.,11040 - 25112
+156.0,CRM for Saturated Salt Solution for relative Humidity Unit,"Humidity (33 to 75)%RH at 
+Air Temperature (15 °C to 25 °C)",(2.0 to 3.0) %RH,"2,500 Bath/1 Bottle/ %RH",The assigned value was obtained from  a thermo-hygrometer in the relative humidity (RH) fixed points method.,11040 - 25113
+157.0,Temperature Measurement Platform,-30 oC to 100 oC,30 mK,"2,500 Bath/Hr.",Comparison with temperature sensor standard in liquid calibration bath.,11040 - 25114
+158.0,Humidity Measurement Platform,33%RH to 75%RH,(1.5 to 2.5)%RH,"2,500 Bath/Hr.",Comparison with Humidity sensor Standard and humidity ambient by Saturated salt solutions,11040 - 25115
+159.0,Standard Platinum Resistance Thermometer (SPRTs),-196oC,25 mK,"5,000 first point
+ +  1,500/next point
+At least 6 points",By Comparison with SPRTs in stirred liquid bath Minimum sheath length 300 mm,11020 - 12221
+160.0,Industrial Platinum Resistance Thermometers (IPRTs),-196oC,25 mK,"5,000 first point
+ +  1,500/next point
+At least 6 points",By Comparison with SPRTs in stirred liquid bath Minimum sheath length 300 mm,11020 - 12222
+161.0,"Digital Thermometer (with resistance probe)
+    ",- 196 oC,40 mK,"4,000 first point
++ 1,500 / next point","By Comparison with  SPRTs 
+in stirred liquid bath/ Furnace/ LN2 comparator",11020 - 12712
+162.0,Digital Thermometer with thermocouple probe,- 196 °C,0.6 K,"4,000 first point+ 1,500/next point","By Comparison with  SPRTs /TC 
+in stirred liquid bath /Furnace",11020 - 12714
+163.0,Dew Point Hygrometer,-10 °C to 1 °C,0.1 K,"5,630/point",Comparison with two pressure ,11041 - 13113
+164.0,Dew Point Hygrometer,1 °C to 30 °C,0.1 K,"5,630/point",Comparison with two pressure ,11041 - 13114
+165.0,Dew Point Hygrometer,30 oC to 60 oC,0.1 K,"6,300/point",Comparison with two pressure humidity generator,11041 - 13115
+166.0,"Relative Hygrometer(At chamber temperature : 
+15 oC to 60 oC )",15 % to 50 %,0.60%,"6,300/point",Comparison with two temperature two pressure Humidity Generator ,11040 - 13311
+167.0,"Relative Hygrometer(At chamber temperature : 
+15 oC to 60 oC )",50 % to 80 %,1.00%,"5,630/point",Comparison with two temperature two pressure Humidity Generator ,11040 - 13312
+168.0,"Relative Hygrometer(At chamber temperature : 
+15 oC to 60 oC )",80 % to 98 %,1.20%,"5,630/point",Comparison with two temperature two pressure Humidity Generator ,11040 - 13313
+2511.0,Spectral responsivity of a PV device ,"Wavelength: 300 nm ? ? ?  1200 nm
+Power level: 0.2 mW to 4 mW","2.0%, varied by DUT, wavelength and power level","10,000 for the first bias light level + 5,000 for additional bias light level",IEC 60904-8 Clause 7,13050-12001
+2512.0,Spectral responsivity of a broadband detector,Wavelength: 400 nm ? l ? 800 nmPower level: 4.8 nW to 2.6 mW,0.25% to 0.22%,"20,000 for 10 nm step, 
+30,000 for 5 nm step",Comparison agianst two reference trap-detectors under monochromatic radiation,13031-12011
+2513.0,Illuminance responsivity of an illuminance meter or a lux meter (LED source),1 000 lx < Eu <120 000 lx5 780 K < CCT < 5 930 K,1.2% (1000 lx ? Eu? 10000 lx)1.6% (10000 lx < Eu ? 120000 lx)varied with illuminance level,"15,000 (15 calibration points)",Detector-based comparison against reference photometers using LED source,13011-11022
+2514.0,650 nm standard radiation thermometer (thermodynamic temperature),2474 ?C,1.7 K,"48,000/point",By Comparison with Metal-Carbon fixed point blackbody cells (Thermodynamic temperature),11030-17123
+2515.0,Temperature transmitter,-50 oC to 200 oC,1.5 K,"5,000 first point
++ 1,500/next point",y Comparison with SPRTs in stirred liquid bath,11020-12621
+2516.0,"Fixed-point Blackbody
+(thermodynamic temperature)",Zn (419.5408 oC),0.14 K,"24,000 / point",Comparison to Standard Fixed-point Blackbody using 0.9 ?m standard radiation thermometer (thermodynamic temperature),11030-17112
+2517.0,Fixed point cells,419.527 oC,0.6 mK,"25,000/point",Direct realization,11010-1111
+2518.0,"Metal-Carbon Fixed point cells
+(thermodynamic temperature)",Re-C (2474 oC),1.6 K,"60,000/point",Comparison with Ag/Cu fixed point using a 650-nm radiation thermometers (thermodynamic temperature),11030-17113
+,"Integrated Irradiance Responsivity of a Bilirubin Phototherapy Radiometer 
+
+
+","""1.0 mW?cm-2?nm-2 ? Eb (l) ? 20.0 
+mW?cm-2?nm-2
+425 nm ? l ? 475 nm
+(Based on AAP CPG)""
+","""2.2 %
+ varied with mean spectral irradiance level and DUT""
+","6,250 for the first level 
+point + 3,750 for any additional 
+level poin","""Source based calibration against a working standard spectroradiometer 
+by using a 445 nm blue LED panel 
+light source as the calibration light source""
+
+
+",13034-12096
+,"Integrated Irradiance Responsivity of a Bilirubin Phototherapy Radiometer 
+
+
+","""50.0 mW?cm-2 ? Eb ? 750.0 mW?cm-2
+400 nm ? l ? 500 nm
+(Other CPGs)""
+","""2.1 %
+ varied with irradiance level and DUT""
+","6,250 for the first level 
+point + 3,750 for any additional 
+level poin","""Source based calibration against a working standard spectroradiometer 
+by using a 445 nm blue LED panel 
+light source as the calibration light source""
+
+
+",13034-12096
+,"Integrated Irradiance Responsivity of a Bilirubin Phototherapy Radiometer 
+
+
+","""50.0 mW?cm-2 ? Eb ? 1 000.0 mW?cm-2
+400 nm ? l ? 550 nm
+(Based on IEC 60601-2-50)""
+","""2.2 %
+ varied with irradiance level and DUT""
+","6,250 for the first level 
+point + 3,750 for any additional 
+level poin","""Source based calibration against a working standard spectroradiometer 
+by using a 445 nm blue LED panel 
+light source as the calibration light source""
+
+
+",13034-12096
+,Solar simulator performance testing according to IEC 60904-9,"Data sampling time of DUT ? 100 ms for instability evaluation
+","0.05%
+","7,500 for LTI and STI 3,500 for LTI only ",,13034-33014
+,Solar simulator performance testing according to IEC 60904-9,"80% of active area for non-uniformity evaluation
+","0.01%
+","12,000 for 98 test positions + 500/additional test position",,13034-33014
+,Spectral irradiance of a tungsten- 1 halogen lamp (FEL and Ushio type),"250 nm ??? 430 nm
+430 nm <?? 1 100 nm
+ 100 nm <?? 1 800 nm
+ 1 800 nm <?? 2 400 nm","3.6% to 2.2%
+2.2% to 1.7%
+2.1% to 3.2%
+3.2% to 6.8%","11,250 for the first range of the first lamp
++ 5,630 for the first range of any additional lamp of the same type + 3,750 for any additional range",By scanning measurements against a set of two spectral irradiance  standard lamps using a double subtractive monochromator,13037-13011
+,Spectral responsivity of a PV device,"Wavelength: 300 nm ? ? ?  1200 nm
+Power level: 0.2 mW to 4 mW","2.0%, varied by DUT, wavelength and power level","10,000 for the first bias light level + 5,000 for additional bias light level",IEC 60904-8 Clause 7,13050-12001

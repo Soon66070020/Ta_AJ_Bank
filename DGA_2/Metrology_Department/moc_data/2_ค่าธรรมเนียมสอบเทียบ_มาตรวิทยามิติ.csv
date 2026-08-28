@@ -1,0 +1,410 @@
+﻿ลำดับ (Item No.),รายการเครื่องมือวัด (Description),ช่วงการวัด (Range),ความสามารถในการวัดและสอบเทียบ (CMC / Uncertainty),ราคาค่าธรรมเนียม (Price - THB),หมายเหตุ (Remark),รหัสบริการ (Service Code)
+1.0,Iodine Stabilized He-Ne laser,633 nm,5.00E-11,"36,000/piece",Beat measurement mehod with Iodine stabilized He-Ne laser,08011 - 10101
+2.0,Stabilized He-Ne laser,633 nm,1.00E-09,"22,530/piece",Beat measurement mehod with Iodine stabilized He-Ne laser,08011 - 10201
+3.0,Stabilized He-Ne laser,500 - 1000 nm and 1560 nm,1.00E-12,"45,000/piece",Beat measurement mehod with optical comb,08011 - 10202
+4.0,Stabilized He-Ne laser,532 nm,4.00E-08,"22,530/piece",Beat measurement mehod with Iodine stabilized Nd:YAG laser,08011 - 10203
+5.0,Dual frequency stabilized He-Ne laser,633 nm,1.00E-09,"25,000",Beat measurement mehod with Iodine stabilized  He-Ne laser,08011 - 10204
+6.0,Nonstabilized Laser,633 nm,1.00E-07,"22,530/piece",Beat measurement mehod with Iodine stabilized He-Ne laser,08011 - 10301
+6.0,"Distance
+",40 m,5 ppm,"35,000/distance 
+(for up to 10 points) 
+ + 1,000/additional point",Comparison with the readings from the standard 40-m Rail System,08101-10002
+7.0,Nonstabilized Laser,350 - 1100 nm,1.70E-07,"21,280/piece",Direct measurment method by wavelength meter,08011 - 10401
+7.0,Electronic Distance Meter (EDM),"4 Distances: 
+10m., 20m., 30m. and 40m.",-,"40,000/piece",Verification of EDM using 40-m Rail System,08101-10003
+8.0,Wavelength meter,532 - 1064 nm,4.00E-08,"25,000/piece",Direct measurment method by stabilized light source,08011 - 10503
+9.0,"Rectangular Gauge Block, 
+Material : Steel",0.5 mm to 125 mm,"Q[26 nm, 0.35E-6 L]","2,000/piece            ","Optical Interferometry method, 
+Deviation from central length Measuring faces inspection without lapping. Both side wringing",08021 - 10101
+10.0,"Rectangular Gauge Block,
+Material : Ceramic",0.5 mm to 125 mm,"Q[26 nm, 0.29E-6 L]
+","2,000/piece            ","Optical Interferometry method, 
+Deviation from central length Measuring faces inspection without lapping. Both side wringing",08021 - 10101
+11.0,"Rectangular Gauge Block,
+Material : Tungsten Carbide",0.5 mm to 125 mm,"Q[26 nm, 0.18E-6 L]
+","2,000/piece            ","Optical Interferometry method, 
+Deviation from central length Measuring faces inspection without lapping. Both side wringing",08021 - 10101
+12.0,"Rectangular Gauge Block,
+Material : Chromium Carbide",0.5 mm to 125 mm,"Q[26 nm, 0.27E-6 L]","2,000/piece            ","Optical Interferometry method, 
+Deviation from central length Measuring faces inspection without lapping. Both side wringing",08021 - 10101
+13.0,"Rectangular Gauge Block,
+Material : Steel",< 0.5 mm,"Q[26 nm, 0.35E-6 L]","3,000/piece","Optical Interferometry method, 
+Deviation from central length Measuring faces inspection without lapping. Both side wringing",08021 - 10102
+14.0,"Rectangular Gauge Block,
+Material : Ceramic",< 0.5 mm,"Q[26 nm, 0.29E-6 L]
+","3,000/piece","Optical Interferometry method, 
+Deviation from central length Measuring faces inspection without lapping. Both side wringing",08021 - 10102
+15.0,"Rectangular Gauge Block,
+Material : Tungsten Carbide",< 0.5 mm,"Q[26 nm, 0.18E-6 L]
+","3,000/piece","Optical Interferometry method, 
+Deviation from central length Measuring faces inspection without lapping. Both side wringing",08021 - 10102
+16.0,"Rectangular Gauge Block,
+Material : Chromium Carbide",< 0.5 mm,"Q[26 nm, 0.27E-6 L]","3,000/piece","Optical Interferometry method, 
+Deviation from central length Measuring faces inspection without lapping. Both side wringing",08021 - 10102
+17.0,"Rectangular Gauge Block,          
+Material : Steel, Ceramic, Tungsten Carbide, Chromium Carbide
+- Variation in length",0.5 mm to 125 mm,0.020 um,"2,200/piece                   ","Optical Interferometry method, 
+Variation (fo, fu) in length measurement. Measuring faces inspection without lapping. ",08021 - 10103
+18.0,"Rectangular Gauge Block,          
+Material : Steel, Ceramic, Tungsten Carbide, Chromium Carbide
+- Flatness ",0.5 mm to 125 mm,35 nm ,"2,200/piece                   ","Optical Interferometry method, 
+Flatness measurement",08021 - 10104
+19.0,"Rectangular Gauge Block, according to  
+Euramet cg-2/v.02 (03/2011) ",0.5 mm to 100 mm,26 nm,"2,500/piece         ","Optical Interferometry method, 
+Deviation from central length Measuring faces inspection without lapping.  Both side wringing",08021 - 10201
+20.0,"Rectangular and Square Gauge Block (Metric),               
+Material : Steel, Tungsten Carbide, Chromium Carbide   
+- Deviation from central length",0.5 mm to 100 mm,"Q[50 nm, 0.50E-06 L]",750/piece                   ,"Comparison method, Dlc, Deviation from central length , Variation (fo, fu) Measuring faces inspection without lapping ",08021 - 10301
+21.0,"Rectangular and Square Gauge Block (Metric),               
+Material : Steel, Tungsten Carbide, Chromium Carbide   
+- Deviation from central length",>100 mm to 125 mm,"Q[50 nm, 0.50E-06 L]","3,030/piece","Comparison method, Dlc, Deviation from central length , Variation (fo, fu) Measuring faces inspection without lapping ",08021 - 10302
+22.0,"Rectangular and Square Gauge Block (Metric),               
+Material : Ceramic   
+- Deviation from central length",0.5 mm to 100 mm,"Q[70 nm, 0.50E-06 L]",750/piece                   ,"Comparison method, Dlc, Deviation from central length , Variation (fo, fu) Measuring faces inspection without lapping ",08021 - 10301
+23.0,"Rectangular and Square Gauge Block (Metric),               
+Material : Ceramic   
+- Deviation from central length",>100 mm to 125 mm,"Q[70 nm, 0.50E-06 L]","3,030/piece","Comparison method, Dlc, Deviation from central length , Variation (fo, fu) Measuring faces inspection without lapping ",08021 - 10302
+24.0,"Rectangular and Square Gauge Block (Metric),               
+Material : Steel, Ceramic, Tungsten Carbide, Chromium Carbide   
+- Difference in central length",0.01 - 25 mm,47 nm,"1,905/pair","Direct Measurement by gauge block comparator, Difference in central length, variation in length and measuring face inspection without lapping.",08021 - 10303
+25.0,"Rectangular and Square Gauge Block (inch),  
+- Deviation from central length        
+Material : Steel, Tungsten Carbide, Chromium Carbide                                      ",0.005  inch to 4 inch,"Q[50 nm, 0.50E-06 L]",750/piece                   ,"Comparison method, Dlc,  Deviation from central length , Variation (fo, fu) Measuring faces inspection without lapping    ",08021 - 10501
+26.0,"Rectangular and Square Gauge Block (inch),  
+- Deviation from central length 
+Material : Ceramic     ",0.005  inch to 4 inch,"Q[70 nm, 0.50E-06 L]",750/piece                   ,"Comparison method, Dlc,  Deviation from central length , Variation (fo, fu) Measuring faces inspection without lapping    ",08021 - 10501
+27.0,"Long Gauge Block (Metric Rectangular, Square)
+Material : Steel",125 mm to 500 mm,"Q[50 nm, 0.80E-6 L]","3,380/piece","Comparison Method, Dlc, Deviation from central length, Variation (fo, fu) Measuring faces inspection without lapping.",08021 - 10601
+28.0,"Long Gauge Block (Metric Rectangular, Square)
+Material : Steel",600 mm to 1000 mm,"Q[50 nm, 0.80E-6 L]","6,750/piece","Comparison Method, Dlc, Deviation from central length, Variation (fo, fu) Measuring faces inspection without lapping.",08021 - 10603
+29.0,Length Bar,Up to 800 mm,"Q[50 nm, 0.80E-6 L]","3,380/piece","Comparison Method, Dlc, Deviation from central length, Variation (fo, fu) Measuring faces inspection.",08021 - 10701
+30.0,Ball Bar / Nest Bar,up to 800 mm,1.2 ?m,"3,780/piece",Direct measurement by ULM and laser interferometer,08021 - 10703
+31.0,"Long Gauge Block (Metric Rectangular)
+Material : Steel",>150 mm to 500 mm,"Q[20 nm, 0.44E-6 L]","10,000/piece","Optical Interferometry method, Deviation from central length Measuring faces inspection and lapping. Both side wringing",08021 - 10801
+32.0,"Long Gauge Block (Metric Rectangular)
+Material : Steel",600 mm to 1000 mm,"Q[20 nm, 0.44E-6 L]","15,000/piece","Optical Interferometry method, Deviation from central length Measuring faces inspection and lapping.  Both side wringing",08021 - 10802
+33.0,"Square Gauge Block
+Material : Steel                  ",0.5 mm to 125 mm,"Q[28 nm, 0.35E-6 L]","1,730/piece","Optical Interferometry method, 
+Deviation from central length Measuring faces inspection without lapping. Both side wringing",08021 - 11001
+34.0,Step Master ; Material : Steel  ,Up to 300 mm,0.028 mm,12500,"Optical Interferometry method, Length difference",08021 - 11101
+35.0,Step Master ; Material : Ceramic,Up to 300 mm,0.030 mm,12500,"Optical Interferometry method, Length difference",08021 - 11102
+36.0,"Autocollimator (Analog, Digital)","± 1000""","0.2""","25,000/piece",Calibration by standard autocollimator,08031 - 10101
+37.0,"Autocollimator (Analog, Digital)","± 1500""","0.15""","25,000/piece",Calibration by Self calibration angle system,08031 - 10103
+38.0,Rotary Encoder,0 - 360 degree,"0.06""","25,000/piece",Calibration by self calibration angle system (SCMS-127),08031 - 10201
+39.0,Rotary Encoder,0 - 360 degree,"0.11""","25,000/piece",Calibration by self calibration angle system (SCMS-107),08031 - 10202
+40.0,Rotary Encoder,0 - 360 degree,"7""","25,000/piece",Calibration by self calibration angle system,08031 - 10203
+41.0,Polygon,3 to 72 faces,"0.2""","1,000/face",Calibration by one autocollimator ,08031 - 10301
+42.0,Polygon,3 to 72 faces,"0.25""",750/face,Calibration by  two autocollimator ,08031 - 10305
+43.0,Polygon,3 to 72 faces,"0.2""","1,000/face",Calibration by self calibration rotray encoder system,08031 - 10309
+44.0,Angle Gauge Block,up to 90o,"0.33""","1,500/piece",Calibration by autocalimator,08031 - 10401
+45.0,Indexing Table,0o to 360o,"0.2""","1,000/position",Calibration by  one autocollimator ,08031 - 10501
+46.0,Electronic Inclinometer,"±1000"" ","0.35""","15,000/range",Calibration by autocollimator,08031 - 10901
+47.0,Electronic Level,±60o,0.002o,"5,000",Calibration by rotary encorder,08031 - 10902
+48.0,Cylindrical Square,Up to 400 mm,2.3 ?m,"5,000/side",Calibration by Master Square,08031 - 11101
+49.0,Standard Square ,Up to 400 mm,2.3 µm,"5,000/side",Calibration by Master Square and Measuring Probe,08031 - 11201
+50.0,Squareness Tester,Up to 400 mm,2.0 µm,"5,000",Calibration by Master Square,08031 - 11301
+51.0,Precision Square ,Up to 400 mm,2.5 ?m,"5,000",Calibration by Master Square & Gauge Blocks,08031 - 11401
+52.0,Square and Squareness Tester,Up to 1000 mm,0.4 µm,"10,000 (For up to 10 points) + 1,000/point",Calibration by using reversal method,08031 - 11501
+53.0,Small Angle Generator,"?5,000 ?m/m",2 ?m/m,15000,Calibration by autocollimator,08031 - 11901
+54.0,Sine Bar,up to 45o,0.0021o,5000,Calibration by Gauge Blocks and Angle Gauge Blocks,08031 - 12001
+55.0,Straightedge,up to 1000 mm,1.0 ?m,"5,000",Calibration straighness measuring machine,08031 - 12201
+56.0,Straightness Measuring Machine,"up to 2,500 mm",(1.6E-3 L) ?m,"5,000",Calibration by standard autocollimator,08031 - 12202
+57.0,Straightness Measuring Machine and Straightedge,up to 3000 mm,0.7 ?m,"10,000/m",Calibration by using reversal method,08031 - 12203
+58.0,Plain Ring Gauge,0.1 to 100 mm,"Q[0.37 µm, 1.3E-06 D]","2,410/piece",Calibration by Small Internal Diameter Measurement (IDM),08041 - 10101
+59.0,Plain Ring Gauge,0.5 mm to 300 mm,"Q[0.25 µm, 1.8E-06 D]","4,410/piece",Compare measurement method with setting plain ring gauge,08041 - 10102
+60.0,Plain Ring Gauge (Hole),2.5 mm - 160 mm,1.5 ?m,"5,000/piece",Contact scanning with measuring probe ,08041 - 10103
+61.0,Go - No Go Plain Ring Gauge ,0.1 to 100 mm,"Q[0.37 µm, 1.3E-06 D]","2,410/side",Calibration by Small Internal Diameter Measurement (IDM),08041 - 10201
+62.0,Taper Plain Ring Gauge,Pitch 0.45 mm to 8 mm,2.0 µm,"2,410/piece",Cal. by Universal length measuring Machine,08041 - 10301
+63.0,Go - No Go Taper Plain Ring Gauge,Pitch 0.45 mm to 8 mm,2.0 µm,"2,410/side",Cal. by Universal length measuring Machine,08041 - 10401
+64.0,Plain Plug Gauge ,0.1 to 300 mm,"Q[0.20 µm, 1.0E-06 D] ","2,410/piece",Cal. by Universal length measuring Machine ,08041 - 10501
+65.0,Plain Plug Gauge (Shaft),1 mm - 150 mm,1.5 ?m,"5,000/piece",Contact scanning with measuring probe ,08041 - 10502
+66.0,Go-No Go Plain Plug Gauge,0.1 to 300 mm,"Q[0.20 µm, 1.0E-06 D] ","2,410/side",Cal. by Universal length measuring Machine ,08041 - 10601
+67.0,Sphere,dia. Up to 300 mm,"Q[0.20 µm, 1.0E-06 D]","2,410/piece",Cal. by Universal length measuring Machine,08041 - 10801
+68.0,3-Wire Unit,All sizes,"Q[0.20 µm, 1.0E-06 D] ","2,820/set",Cal. by Universal length measuring Machine,08041 - 10901
+69.0,Taper Plain Plug Gauge,from pitch 0.45 - 8 mm,2.0 µm,"3,500/piece",Cal. by Universal length measuring Machine and T-Ball Sttylus,08041 - 11501
+70.0,Parallel Thread Ring Gauge,from pitch 0.45 - 8 mm,1.5 µm,"3,500/piece",Cal. by Universal length measuring Machine and T-Ball Sttylus,08041 - 11701
+71.0,Parallel Thread Ring Gauge,2.5 mm - 160 mm,2.5 ?m,"5,000/piece",Contact scanning with measuring probe ,08041 - 11702
+72.0,Go - No Go Parallel Thread Ring Gague,from pitch 0.45 - 8 mm,1.5 µm,"3,500/piece",Cal. by Universal length measuring Machine and T-Ball Sttylus,08041 - 11801
+73.0,Taper Thread Ring Gauge,from pitch 0.45 - 8 mm,2.0 µm,"3,500/piece",Cal. by Universal length measuring Machine and T-Ball Sttylus,08041 - 11901
+74.0,Parallel Thread Plug Gauge,from pitch 0.2 - 6 mm,1.5 µm,"3,500/piece",Cal. by Universal length measuring Machine and 3-Wires,08041 - 12101
+75.0,Parallel Thread Plug Gauge,1 mm - 150 mm,2.5 ?m,"5,000/piece",Contact scanning with measuring probe ,08041 - 12102
+76.0,Go - No Go Parallel Thread Plug Gauge,from pitch 0.2 - 6 mm,1.5 µm,"3,500/piece",Cal. by Universal length measuring Machine and 3-Wires,08041 - 12201
+77.0,Taper Thread Plug Gauge,from pitch 0.45 - 8 mm,2.0 µm,"3,500/piece",Cal. by Universal length measuring Machine and T-Ball Sttylus,08041 - 12301
+78.0,Taper Thread Plug Gauge,1 mm - 150 mm,2.5 ?m,"5,000/piece",Contact scanning with measuring probe ,08041 - 12302
+79.0,Taper Thread Ring Gauge,2.5 mm - 160 mm,2.5 µm,"5,000/piece",Contact scanning with measuring probe ,08041 - 12303
+80.0,Pitch,0.1 mm - 20 mm,1 µm,"5,000/piece",Contact scanning with measuring probe ,08041 - 12304
+81.0,Thread Angle,7° - 180°,0.12°,"5,000/piece",Contact scanning with measuring probe ,08041 - 12305
+82.0,Taper,0 - 0.5,0.0024,"5,000/piece",Contact scanning with measuring probe ,08041 - 12306
+83.0,Pitch of thread gauge,0 mm to 120 mm,2.3 µm,"2,030/piece",Cal. By Contour Measuring Machine,08041 - 12501
+84.0,X-Axis Contour Measuring Machine,0 mm to 120 mm,1.3 µm,"10,030/piece",Compare with standard glass scale,08041 - 12502
+85.0,Included angle of thread gauge,0-90 degree,0.06 degree,"2,030/piece",Cal. By Contour Measuring Machine,08041 - 12601
+86.0,"Contour specimen
+- x-axis (pitch)",up to 200 mm,2.3 µm,"5,000/5 points + 1,000/point",Direct measurement by using Contour Measuring Machine,08041 - 12701
+87.0,"Contour specimen
+- z-axis (step, height)",up to 20 mm,1.6 µm,"5,000/5 points + 1,000/point",Direct measurement by using Contour Measuring Machine,08041 - 12702
+88.0,Check Master/ Step Gauge,0 to 300 mm,"Q[0.20 µm, 7.7E-06 L]","10,660/piece",Cal. By Laser Interferometer,08051 - 10201
+89.0,Check Master/ Step Gauge,0 to 600 mm,"Q[0.20 µm, 7.7E-06 L]","13,160/piece",Cal. By Laser Interferometer,08051 - 10202
+90.0,Check Master/ Step Gauge,0 to 1020 mm,"Q[0.20 µm, 7.7E-06 L]","15,660/piece",Cal. By Laser Interferometer,08051 - 10203
+91.0,Gear standard  Spur gear  :  Profile slope deviation,25 to 400 mm,1.0 to 3.0 µm,"7,880/piece",Cal. by Coordinate Measuring Machine,08051 - 10301
+92.0,Gear standard  Spur gear  :   Profile slope deviation,up to 45o,1.0 to 2.0 µm,"7,880/piece",Cal. by Coordinate Measuring Machine,08051 - 10401
+93.0,Spur gear : Pitch,up to 400 mm,2.0 µm,"7,880/piece",Cal. by Coordinate Measuring Machine,08051 - 10501
+94.0,Bevel Gear : form deviation,up to 300 mm,2.0 µm,"7,880/piece",Cal. by Coordinate Measuring Machine,08051 - 10601
+95.0,Ball Plate,up to 1000 mm,"Q[0.26 µm, 1.9E-06 L]","36,000/piece",Cal. by Coordinate Measuring Machine with Laser Interferometer,08051 - 10701
+96.0,2-D Coordinate (Hole Plate),Up to 1000 mm,"Q[0.25 µm, 0.42E-6L]","106,250/piece",Swing-round method and laser interferometer integrated with CMM,08051 - 10702
+97.0,Depth Micro-Checker,0 to 150 mm,"Q[0.68 µm, 1.1E-06 L]","9,000/piece",Cal. by Coordinate Measuring Machine,08051 - 10801
+98.0,Depth Micro-Checker,0 to 300 mm,"Q[0.68 µm, 1.1E-06 L]","11,250/piece",Cal. by Coordinate Measuring Machine,08051 - 10802
+99.0,Depth Micro-Checker,0 to 150 mm,"Q[0.48 µm, 0.67E-06 L]","10,625/piece",Cal. by substitution method using CMM,08051 - 10803
+100.0,Inside Micro-Checker,0 to 300 mm,"Q[0.20 µm, 7.7E-07 L]","10,660/piece",Cal. by Laser Interferometer,08051 - 10901
+101.0,Inside Micro-Checker,0 to 600 mm,"Q[0.20 µm, 7.7E-07 L]","13,160/piece",Cal. by Laser Interferometer,08051 - 10902
+102.0,Inside Micro-Checker,0 to 1020 mm,"Q[0.20 µm, 7.7E-07 L]","15,660/piece",Cal. by Laser Interferometer,08051 - 10903
+103.0,Caliper Checker/ Vernier Checker,0 to 300 mm,"Q[0.20 µm, 7.7E-06 L]","10,660/piece",Cal. by Laser Interferometer,08051 - 11001
+104.0,Caliper Checker/ Vernier Checker,0 to 600 mm,"Q[0.20 µm, 7.7E-06 L]","13,160/piece",Cal. by Laser Interferometer,08051 - 11002
+105.0,Caliper Checker/ Vernier Checker,0 to 1020 mm,"Q[0.20 µm, 7.7E-06 L]","15,660/piece",Cal. by Laser Interferometer,08051 - 11003
+106.0,3-D Artifacts,"Up to X×Y×Z
+(1200×1000×700) mm","Q[0.70 µm, 2.30E-6 L]","2,500 + 900/parameter or depend on drawing",Direct measurement by CMM,08051 - 11011
+107.0,Optical Flat,max. dia. 60 mm,20 nm,"2,500/piece",Cal. by Flatness Interferometer,08061 - 10201
+108.0,Optical Flat,max. dia. 300 mm,"Q[37 nm, 2E-09 F]","7,500/piece",Cal. by Non-contact measurement using Flatness Interferometer,08061 - 10202
+109.0,Transmission Flat/Reference Flat,max. dia. 300 mm,"Q[25 nm, 2.0E-06 F]","11,500/piece",Absolute Flatness calibration by 3-Flat Test method,08061 - 10203
+110.0,"Glass Hemisphere
+Roundness specimen (High precision)",dia. Up to 355 mm,"Q[8.0 nm, 8.0E-03 R]","11,500/piece","Error seperation technique by multistep method (Stylus-on-spindle)
+where R representing roundness value
+Soft file of measurement result charge +2500 baht/file",08061 - 10301
+111.0,Roundness of specimen/workpiece,dia. Up to 355 mm,"Q[11.1 nm, 1.1E-02 R]","7,530/piece","Soft file of measurement result charge +2500 baht/file
+where R representing measured value of roundness",08061 - 10401
+112.0,"Cylinder/Cylindrical standard
+- Cylindricity","Height up to 500 mm 
+Diameter up to 300 mm 
+Maximum runout: 2.06 mm","Q[0.16 µm, 1.17E-06 H]","7,530","Direct measurement by Roundness Measuring Instrument
+where H representing measured height of the cylinder",08061 - 10402
+113.0,"Cylinder/Cylindrical standard
+- Straightness","Height up to 500 mm 
+Diameter up to 300 mm 
+Maximum runout: 2.06 mm","Q[77 nm, 0.10E-06 L]","7,530","Direct measurement by Roundness Measuring Instrument based on Reversal method
+where L representing travel length",08061 - 10403
+114.0,"Cylinder/Cylindrical standard
+- Parallelism","Height up to 500 mm 
+Diameter up to 300 mm 
+Maximum runout: 2.06 mm","Q[0.16 µm, 1.2E-06 H]","7,530","Direct measurement by Roundness Measuring Instrument
+where H representing measured height of the cylinder",08061 - 10404
+115.0,"Cylinder/Cylindrical standard
+- Squareness","Height up to 500 mm 
+Diameter up to 300 mm 
+Maximum runout: 2.06 mm","Q[0.40 µm, 1.2E-06 H]","7,530","Direct measurement by Roundness Measuring Instrument
+where H representing measured height of the cylindrical square",08061 - 10405
+116.0,Harmonic Standard,"Up to 80 mm
+(Diameter up to 300 mm, Height up to 500 mm)","Q[53 nm, 8.0E-3 R]","7,530/range",Direct measurement by roundness measuring instrument (TR595H machine),08061 - 10406
+117.0,"Roughness Specimen (Type A), Step Height",25 nm to 32 um,"Q[6.7 nm, 5.6E-03 Zm]","5,030/step","Contact measurement by Roughness (stylus) Measuring Instrument
+where d representing depth",08061 - 10501
+118.0,"Roughness Specimen (Type A), Step Height",10 nm  to 0.1 um,"Q[6.0 nm, 0.20 Zm]","6,280/step","Non-contact measurement using Interference Microscope
+where d representing depth ",08061 - 10502
+119.0,"Roughness Specimen (Type C or Type D), Roughness Specimen",25 nm to 32 um,"Ra: Q[9 nm, 5.6E-03 Zm]","7,530/range","Contact measurement by Roughness (stylus) Measuring Instrument
+where Ra, Rz and Sm representing roughness value",08061 - 10601
+120.0,"Roughness Specimen (Type C or Type D), Roughness Specimen",25 nm to 32 um,"Rz: Q[21 nm, 8.8 E-03 Zm]","7,530/range","Contact measurement by Roughness (stylus) Measuring Instrument
+where Ra, Rz and Sm representing roughness value",08061 - 10602
+121.0,"Roughness Specimen (Type C or Type D), Roughness Specimen",25 nm to 32 um,"Rsm: Q[0.58 um, 20E-03 Sm]","7,530/range","Contact measurement by Roughness (stylus) Measuring Instrument
+where Ra, Rz and Sm representing roughness value",08061 - 10603
+122.0,"Roughness Specimen (Type C or Type D), Roughness Specimen",25 nm to 32 um,"Rq: Q[11 nm, 4.2E-03 Zm]","7,530/range","Contact measurement by Roughness (stylus) Measuring Instrument
+where Zm representing measured value",08061-10604
+123.0,Roughness specimen (Areal parameter),0.01 um to 3 um,"Sa: Q[30 nm, 7.3E-03 Zm]","7,530/range","Non-contact measurement using Interference Microscope
+where Zm representing measured value",08061 - 10611
+124.0,Roughness specimen (Areal parameter),0.01 um to 3 um,"Sq: Q[31 nm, 7.3E-03 Zm]","7,530/range","Non-contact measurement using Interference Microscope
+where Zm representing measured value",08061 - 10612
+125.0,Roughness specimen (Areal parameter),0.01 um to 7 um,"Sa: Q[52 nm, 7.3E-3 Zm]","7,530/range","Non-contact and Direct measurement using 3D Measuring Laser Microscope
+where Zm representing measured value",08061 - 10621
+126.0,Roughness specimen (Areal parameter),0.01 um to 7 um,"Sz: Q[166 nm, 1.1E-2 Zm]","7,530/range","Non-contact measurement using 3D Measuring Laser Microscope
+where Zm representing measured value",08061 - 10622
+127.0,Step height / depth standard ,1 nm to 100 nm,"Q[0.73 nm, 1.8E-06 Zm]","11,500/piece",Measurement by Metrological Nanomeasuring and Nanopositioning Machine ,08061 - 10901
+128.0,Pitch standard ,0.1 um to 100 um,"Q[3.4 nm, 2.9E-3 Pm]","11,500/piece",Measurement by Metrological Nanomeasuring and Nanopositioning Machine ,08061 - 11001
+129.0,Radius of curvature,up to 600 mm,"Q[0.75 um, 2.2E-05 L]","2,530","Non-contact measurement using Fizeau interferometer
+where L representing measured radius of curvature",08061 - 11101
+130.0,Sphericity and form error of spherical part,F/#: 10.7,23 nm,"7,530/piece",Non-contact measurement using Fizeau interferometer,08061 - 11102
+131.0,Lens : Sag,Aperture: 100 mm,1 um,"2,530/piece",Non-contact measurement using Fizeau interferometer,08061 - 11103
+132.0,Lens : Focal length,"Concave radius: up to 600 mm
+Convex radius: up to 600 mm",(7.87 + 0.47E-03 F) um,"3,780/piece","Non-contact measurement using Fizeau Interferometer
+where F representing calculated focal length
+Reflective Index (n) of a lens is required",08061 - 11201
+133.0,Lens : Opthalmic power,"Concave radius: up to 600 mm
+Convex radius: up to 600 mm",(0.0006 + 0.0005 D) m-1,"3,780/piece","Non-contact measurement using Fizeau Interferometer
+where D representing calculated ophthalmic power
+Reflective Index (n) of a lens is required",08061 - 11202
+134.0,Lens : Prism Diopter,up to 0.3,"Q[0.008, 6.6E-04 ?]","5,000/piece","Prism diopter calibration using Mechanical-Bearing Rotary Stage
+Reflective Index (n) of a lens is required",08061 - 11203
+135.0,Lens |Back focal length|,"33 mm to 250 mm
+(Diameter up to 100mm)","Q[0.032 mm, 2.5E-6 F2]","2,530/piece",Non contact method by Fizeau inteferometer with a sliding ,08061 - 11204
+136.0,Lens |Lens power|,"4 m-1 to 30 m-1
+(Diameter up to 100mm)","Q[0.003 m-1, 2.7E-5 P2]","2,530/piece",Non contact method by Fizeau inteferometer with a sliding ,08061 - 11205
+137.0,Angular deviation of a centerline of cylindrical lens,Up to 30¢,1.8¢,"2,530/piece",Direct measurement with a calibrated CCD camera using a standard glass scale,08061 - 11206
+138.0,Setting Zero Rod,Up to 1000 mm,(0.22 + 2.3 L2 ) um,"2,030/piece",Cal. by ULM,08071 - 10601
+139.0,"Dial  Gauge Tester (Scale, Digital)",0 mm to 25 mm,"Q[0.13 um, 8.0E-6 L] ","6,750/piece",Cal. by Standard linear gauge,08071 - 10901
+140.0,"Dial  Gauge Tester (Scale, Digital)",0 mm to 60 mm,"Q[0.13 um, 8.0E-6 L] ","8,780/piece",Cal. by Standard linear gauge,08071 - 10902
+141.0,"Dial  Gauge Tester (Scale, Digital)",0 mm to 100 mm,"Q[0.20 um, 8.0E-6 L] ","10,030/piece",Cal. by Standard linear gauge,08071 - 10903
+142.0,Calibration Tester,Up to 5 mm,"Q[0.13 um, 4.8E-6 L] ","7,880/piece",Cal. by Laser interferometer,08071 - 10801
+143.0,Indicator Checker,up to 100 mm,"Q[0.050 ?m, 1.7E-6 L] ","15,000/piece",Cal. by Laser interferometer,08071 - 10802
+144.0,"Electronic Comparator (Mu-Checker / Millitron)
+(Include: Probe and display unit) Analog M-Checker                ",0 mm to 5 mm ,0.2 um,"4,500/piece",Comparison with Laser Hologauge,08071 - 11201
+145.0,Electronic comparator: Error of indication,up to 1 mm,"Q[0.17 ?m, 1.8E-4 L] ","4,500/piece",Direct measurement by I-checker,08071 - 11202
+146.0,Calibration Gauge for Seam Metal,0 to 5 mm,0.30 um ,"2,530/piece",Cal. By NIMT Line scale interferometer system,08071 - 11301
+147.0,Laser Hologauge / Linear gauge ,0 to 10 mm,"Q[0.05 um, 1.7E-6L] ","11,250/piece",Cal. by Gauge Block,08071 - 11401
+148.0,Laser Hologauge / Linear gauge ,0 to 50 mm,"Q[0.05 um, 1.7E-6L] ","15,750/piece",Cal. by Gauge Block,08071 - 11402
+149.0,Linear Gauge: Error of indication,up to 100 mm,"Q[0.20 ?m, 8.0E-6 L] ","5,625/piece",Direct measurement by I-checker,08071 - 11403
+150.0,Thickness of specimen/ feeler gauge,up to 10 mm,"Q[0.5 um, 9.1E-6 L]",750/point,Cal. by length gauge,08071 - 11801
+151.0,"Laser Scan Micrometer
+(Display Unit, Measuring Unit) ",Up to 100 mm,0.5 mm,"11,250/piece",Cal. by Standard plug gauge,08071 - 11901
+152.0,Magnification calibrator / Magnification Checker,0 mm to 0.4 mm,0.2 um,"5,630/piece",Direct measurement by linear gauge,08071 - 12401
+153.0,Calibration block,V1,0.01 mm,"4,500/piece","Cal. by QV
+*Depend on the quality of artifact",08071 - 12601
+154.0,Calibration block,V2,0.01 mm,"3,380/piece","Cal. by QV
+*Depend on the quality of artifact",08071 - 12602
+155.0,Calibration block,LSW,0.01 mm,"3,380/piece","Cal. by QV
+*Depend on the quality of artifact",08071 - 12603
+156.0,Scale lupe : Line spacing,0 - 30 mm,"Q[0.0003 mm, 1.7E-6 L]","2,820/piece + 500 / nex function",Cal. by NIMT Line Scale interferometer system,08071 - 12701
+157.0,Scale lupe : Diameter/Ellipse,upto 20 mm,"Q[0.0005 mm, 3.21E-6 L]","2,820/piece + 500 / nex function",Cal. By QV,08071 - 12702
+158.0,Scale lupe : Angle,0 to 360 degree,1 minute,"2,820/piece + 500 / nex function",Cal. By QV,08071 - 12703
+159.0,Objective/Stage micrometer : Line spacing,0 - 10 mm,"Q[0.0003 mm, 1.7E-6 L]","2,820/piece + 500 / nex function",Cal. by NIMT Line Scale interferometer system,08071 - 12711
+160.0,Objective/Stage micrometer : Angle,0 to 360 degree,1 minute,"2,820/piece + 500 / nex function",Cal. By QV,08071 - 12712
+161.0,Objective/Stage micrometer : Diameter/Ellipse,upto 5 mm,"Q[0.0005 mm, 3.21E-6 L]","2,820/piece + 500 / nex function",Cal. By QV,08071 - 12713
+162.0,Specimens : Line spacing,0 - 300 mm,"Q[0.0003 mm, 1.7E-6 L]","3,000 /piece + 500 / nex function",Cal. by NIMT Line Scale interferometer system,08071 - 12721
+163.0,Specimens : Angle,0 to 360 degree,1 minute,"3,000 /piece + 500 / nex function",Cal. By QV,08071 - 12722
+164.0,Specimens : Diameter/Ellipse,upto 300 mm,"Q[0.0005 mm, 3.21E-6 L]","3,000 /piece + 500 / nex function",Cal. By QV,08071 - 12723
+165.0,Test sieve,0.020 - 125 mm,0.012 - 0.025 mm,"5,000/piece",Cal. By QV,08071 - 12901
+166.0,Standard Glass Scale,0 mm to 300 mm,"Q[41 nm, 0.1E-6 L] ","15,750/piece",Cal. by Line Scale Interferometer,08081 - 10103
+167.0,Standard Glass Scale,>300 mm to 500 mm,"Q[41 nm, 0.1E-6 L] ","18,000/piece",Cal. by Line Scale Interferometer,08081 - 10104
+168.0,Standard Metal Scale,0 mm to 1000 mm,8 mm + 2.3E-6L,"4,500/piece",Cal. By NIMT QV,08081 - 10201
+169.0,Glass scale,0 mm to 200 mm,Q[0.0006 mm + 1.7E-6 L],"3,380/piece","Cal. By NIMT Line scale interferometer (Price per 10 measuring points)
+*Depend on the quality of glass scale",08081 - 10301
+170.0,Glass scale,0 mm to 400 mm,Q[0.0006 mm + 1.7E-6 L],"5,630/piece","Cal. By NIMT Line scale interferometer (Price per 10 measuring points)
+*Depend on the quality of glass scale",08081 - 10302
+171.0,Glass scale,0 mm to 500 mm,"Q[0.0003 mm, 1.0E-6 L]","6,750/piece",Cal. By QV,08081 - 10303
+172.0,Glass scale,0 mm to 1000 mm,"Q[0.0005 mm, 1.0E-6 L]","7,880/piece             ",Cal. By QV,08081 - 10304
+173.0,Standard Glass Scale/ Working Standard Scale/Glass scale,0 mm to 200 mm,"Q[0.11 um, 2.9E-6 L] ","6,650/piece","Cal. by Line Scale Interferometer
+",08081 - 10305
+174.0,Standard Glass Scale/ Working Standard Scale/Glass scale,>200 mm to 500 mm,"Q[0.11 um, 2.9E-6 L] ","10,140/piece             ","Cal. by Line Scale Interferometer
+",08081 - 10306
+175.0,Calibration Grid,100x100 mm,0.0003 mm,"4,500/piece","Cal. by QV
+*Depend on the quality of artifact",08081 - 10501
+176.0,Calibration Grid,200x200 mm,0.0003 mm,"5,400/piece","Cal. by QV
+*Depend on the quality of artifact",08081 - 10502
+177.0,Calibration Grid,300x300 mm,0.0005 mm,"6,300/piece","Cal. by QV
+*Depend on the quality of artifact",08081 - 10503
+178.0,Calibration Grid,> 300 mm,0.0007 mm,"10,800/piece","Cal. by QV
+*Depend on the quality of artifact",08081 - 10504
+179.0,Linear Scale,Up to 1000 mm,7 mm ,"5,630/piece",Cal. by laser interferometer,08081 - 10801
+180.0,3D non-contact,"x- and y-axis 
+up to 500 mm","Q[0.00015 mm, 0.16E-6 L]
+","14,500/piece","Cal by glass scale, angle gauge, standard square and gauge blocks",08081 - 30803
+181.0,3D non-contact,"z-axis 
+up to 100 mm","Q[0.0012 mm, 4.5E-6 L]
+","14,500/piece","Cal by glass scale, angle gauge, standard square and gauge blocks",08081 - 30803
+182.0,Measuring Microscope,Up to 500 mm,1 um ,"6,750/piece",Cal. by standard glass scale,08081 - 10901
+183.0,Laser Distance Meter,"Up to 20,000 mm",1 mm ,"1,800/piece",Cal by laser interferomter,08101 - 10001
+184.0,Universal Length Measuring Machine (ULM),Up to 500 mm,"Q[0.050 um, 0.80E-6 L]","30,000/piece (10 points) + 1,000/point",Direct measurement with gauge block ,08021 - 30901
+185.0,Universal Length Measuring Machine (ULM),>500 mm to 1000 mm,"Q[0.060 um, 0.80E-6 L]","30,000/piece (10 points) + 1,000/point",Direct measurement with gauge block ,08021 - 30901
+186.0,Universal Length Measuring Machine (ULM),Up to 2000 mm,"Q[0.040 um, 0.40E-6 L]","40,000/piece (10 points) + 1,000/point",Direct measurement with Laser Interferometer ,08021 - 30902
+187.0,Rotary encoder,0-360 degree,"5""","30,000",Comparative measurement using reference encoder,08031 - 30201
+188.0,Profile projector,Up to 500 mm,"Q[0.0015 mm, 0.15E-3 L]","12,530/piece","Cal by Glass Scale, Angle Gauge Block.",08071 - 30601
+189.0,3D non-contact ,"x- and y-axis 
+up to 500 mm","Q[0.00015 mm, 0.16E-6 L]
+","14,500/piece","Cal by glass scale, angle gauge, standard square and gauge blocks",08081 - 30803
+190.0,3D non-contact ,"z-axis 
+up to 100 mm","Q[0.0012 mm, 4.5E-6 L]
+","14,500/piece","Cal by glass scale, angle gauge, standard square and gauge blocks",08081 - 30803
+191.0,Measuring Microscope,Up to 500 mm,1 um ,"6,750/piece",Cal by standard glass scale,08081 - 30901
+192.0,Scale Calibrator,Up to 1000 mm ,"Q[0.006 mm, 15E-06 L]","5,630/piece","Cal by glass scale
+*Depend on the quality of artifact",08081 - 30911
+193.0,Scale Calibrator,>1000 to 2000 mm ,"Q[0.0085 mm, 21E-06 L]","8,445/piece","Cal by glass scale
+*Depend on the quality of artifact",08081 - 30912
+194.0,Gauge Block Comparator,0.5 mm to 100 mm,37 nm,"25,000/piece","Cal. by 11 Gauge Blocks 0.5 to 100 mm
+Euramet cg-2/v.02 (03/2011)                                       ",08021 - 30801
+195.0,Precision Level,Full range,5.4 mm/m,"5,630/piece",Calibration by autocollimator,08031 - 11001
+196.0,Bevel protractor,0° to 360°,1.3',5000,Cal. By angle gauge block,08031 - 11501
+197.0,Surface plate,"250x160 mm to 2,500x1,600 mm",0.5 to 5.5 um,"15,000",Cal by Inclinometer,08031 - 12301
+198.0,Pin Gauge,0.1 to 1 mm,"Q[0.20 µm, 1.0E-06 D] ","2,410/piece",Cal. by Universal length measuring Machine ,08041 - 10701
+199.0,Pin Gauge,1 to 100 mm,"Q[0.20 µm, 1.0E-06 D] ","2,410/piece",Cal. by Universal length measuring Machine ,08041 - 10702
+200.0,Pin Gauge,100 to 300 mm,"Q[0.20 µm, 1.0E-06 D] ","2,410/piece",Cal. by Universal length measuring Machine ,08041 - 10703
+201.0,Height Master (analog/digital),0 to 300 mm,0.3 mm + 3E-6 L,"13,500/piece",Cal. by Gauge block or Length Bar,08051 - 10101
+202.0,Height Master (analog/digital),0 to 600 mm,0.3 mm + 3E-6 L,"22,500/piece",Cal. by Gauge block or Length Bar,08051 - 10102
+203.0,Optical Parallel : Flatness,max. dia. 60 mm,0.02 um,"1,600/piece","Cal. by Flatness Interferometer, 
+Universal Length Measuring Machine (ULM) and/or  
+Gauge Block Comparator (GBC)",08061 - 10101
+204.0,Optical Parallel : Parallelism,max. dia. 60 mm,"ULM : Q[0.060 um, 6.48E-06 P]
+
+GBC : 0.080 um","1,600/piece","Cal. by Flatness Interferometer, 
+Universal Length Measuring Machine (ULM) and/or  
+Gauge Block Comparator (GBC)
+where P representing measured parallelism of the optical parallel",08061 - 10101
+205.0,Optical Parallel : Thickness,max. dia. 60 mm,0.15 um,"1,600/piece","Cal. by Flatness Interferometer, 
+Universal Length Measuring Machine (ULM) and/or  
+Gauge Block Comparator (GBC)
+where L representing nominal thickness of the optical parallel",08061 - 10101
+206.0,Holtest / 3- point internal micrometer,up to 100 mm,1.5 mm + 1.5E-6 d,"2,250/piece",Cal. by Ring gauge,08071 - 12001
+207.0,"Vernier Caliper:
+Partial surface contact error and Shift error                                    ",up to 600 mm,"Partial surface contact error: 
+Q[13 um, 1.33E-5 L] 
+Shift error (Internal measuring faces): 
+Q[13 um, 1.33E-5 L] 
+Shift error (Depth and Step measuring faces): 
+Q[13 um, 1.33E-5 L] ","3,380/piece",Cal. by Gauge block and Ring gauge,08071 - 10201
+208.0,"Vernier Caliper:
+Partial surface contact error and Shift error                                        ",600 mm to 1000 mm,"Partial surface contact error: 
+Q[14 um, 1.33E-5 L] 
+Shift error (Internal measuring faces): 
+Q[13 um, 1.33E-5 L] 
+Shift error (Depth and Step measuring faces): 
+Q[13 um, 1.33E-5 L] ","3,380/piece",Cal. by Gauge block and Ring gauge,08071 - 10202
+209.0,Height Measuring Station,0 mm to 300 mm,"Q[0.70 µm, 1.0E-06 D]","11,250/piece",Cal. by Gauge Block,08071 - 10301
+210.0,Height Measuring Station,0 mm to 600 mm,"Q[0.70 µm, 1.0E-06 D]","12,600/piece",Cal. by Gauge Block,08071 - 10302
+211.0,Height Gauge ,0 mm to 600 mm,"Q[13 um, 1.3E-5L] ","9,000/piece",Cal. by Gauge block and Electronic comparator,08071 - 10401
+212.0,Height Gauge ,0 mm to 1000 mm,"Q[14 um, 1.3E-5L] ","12,600/piece",Cal. by Gauge block and Electronic comparator,08071 - 10402
+213.0,External Micrometer ,>25 mm to 225 mm,"Q[0.6 um, 1.36E-5L] ","2,820/piece",Cal. by Gauge Block ,08071 - 10501
+214.0,External Micrometer ,>225 mm to 300 mm,"Q[0.7 um, 1.42E-5L] ","3,380/piece",Cal. by Gauge Block ,08071 - 10502
+215.0,External Micrometer (Resolution : < 0.001 mm),0 mm to 25 mm,"Q[0.1 um, 1.35E-5 L] ","3,380/piece",Cal. by Gauge Block ,08071 - 10504
+216.0,Dial gauge (analog/digital),0-10 mm,"Q[2.6 um, 1.8E-4 L]","2,820/piece",Cal. by dial gauge tester,08071 - 10602
+217.0,Dial gauge (analog/digital),0-25 mm,"Q[2.6 um, 1.8E-4 L]","3,380/piece",Cal. by dial gauge tester,08071 - 10603
+218.0,Dial gauge (analog/digital),0-50 mm,"Q[2.6 um, 1.8E-4 L]","5,660/piece",Cal. by dial gauge tester,08071 - 10604
+219.0,Dial gauge (analog/digital),0-10 mm,"Q[0.34 um, 4.5E-5  L]","2,820/piece",Cal. by ULM,08071 - 10605
+220.0,Dial gauge (analog/digital),0-25 mm,"Q[0.34 um, 4.5E-5  L]","3,380/piece",Cal. by ULM,08071 - 10606
+221.0,Dial gauge (analog/digital),0-50 mm,"Q[0.34 um, 4.5E-5  L]","5,660/piece",Cal. by ULM,08071 - 10607
+222.0,Dial test indicator,up to 1.6 mm,0.8 µm,"2,820/piece",Cal. by calibration tester,08071 - 10608
+223.0,Laser displacement sensor,0-50 mm,"Q[12 um, 1.7E-4 L]","3,380/piece",Cal. by dial gauge tester,08071 - 10609
+224.0,Laser displacement sensor,0-100 mm,"Q[1.2 um, 4E-4 L]","5,660/piece",Cal. by gauge block,08071 - 10610
+225.0,Dial gauge (analog/digital),up to 10 mm,"Q[0.34 um, 1.8E-4 L]","2,820/piece",Direct measurement by I-checker,08071 - 10611
+226.0,Dial gauge (analog/digital),up to 25 mm,"Q[0.34 um, 1.8E-4 L]","3,380/piece",Direct measurement by I-checker,08071 - 10612
+227.0,Dial gauge (analog/digital),up to 50 mm,"Q[0.34 um, 1.8E-4 L]","5,660/piece",Direct measurement by I-checker,08071 - 10613
+228.0,Dial test indicator,up to 1 mm,"Q[0.60 ?m, 1.8E-4 L] ","2,820/piece",Direct measurement by I-checker,08071 - 10614
+229.0,Micrometer Head ,0 mm to 25 mm,"Q[0.8 um, 8E-6 L] ","3,380/piece",Direct measurement by length gauge,08071 - 10701
+230.0,Micrometer Head ,0 mm to 50 mm,"Q[0.8 um, 8E-6 L] ","4,500/piece",Direct measurement by length gauge,08071 - 10702
+231.0,NIMT Reference Wall,Up to 8.5 m,"Q[3.52 um, 0.22E-6 L] ","112,550/Set",Interferometer,08051 - 11021
+232.0,"Calibration of Standard of Arm CMM
+(Sphere Ball Beam)",Up to 2.0 m,"Q[0.98 um, 2.01E-06L]","27,550/piece",Re-position measurement by CMM,08051 - 11031
+233.0,"Articulated Arm Coordinate Measuring Machines,
+(AACMM) using tactile probes verification",Up to 2.5 m,"0.06 um, for probing test
+
+Q[1.00 um, 2.32E-06L]
+for length measurement
+erro","75,050/piece",ISO10360-12,08051 - 11041
+234.0,Scale Calibrator,Up to 1000 mm ,"Q[0.006 mm, 15E-06 L]","5,630/piece","Cal by glass scale
+*Depend on the quality of artifact",08081 - 30913
+235.0,Scale Calibrator,>1000 to 2000 mm ,"Q[0.0085 mm, 21E-06 L]","8,445/piece","Cal by glass scale
+*Depend on the quality of artifact",08081 - 30914
+236.0,Flatness Tester,,³ 40 nm,"200,000/ea.","The flatness tester system, reference flat, software, including training",08061 - 10701
+237.0,Monodisperse Polystyrene Particle,Diameter 150 nm,10 mL,"5,000/ea.",TRM-M-9001,08091 - 10101
+238.0,Monodisperse Polystyrene Particle,Diameter 100 nm,10 mL,"5,000/ea.",TRM-M-9002,08091 - 10102
+239.0,Monodisperse Polystyrene Particle,Diameter 1.5 um,10 mL,"5,000/ea.",TRM-M-9003,08091 - 10103
+240.0,Monodisperse Polystyrene Particle,Diameter 300 nm,10 mL,"5,000/ea.",TRM-M-9004,08091 - 10104
+241.0,Monodisperse Polystyrene Particle,Diameter 500 nm,10 mL,"5,000/ea.",TRM-M-9005,08091 - 10105
+242.0,Monodisperse Polystyrene Particle,Diameter 1.0 um,10 mL,"5,000/ea.",TRM-M-9006,08091 - 10106
+2501.0,Laser Tracker,Up to 30 m,"Q[3.9 ?m, 1.0E-06L]","87,500",ISO 10360-10: 2021,08051-11051
+2502.0,Contour Specimen,"X-axis = 13.5 mm, 40.0 mm, 65.0 mm and 82.5 mm",0.003 mm,20000,Contact method,08091-10107
+2503.0,Contour Specimen,Y-axis = 2.2 mm and 3.7 mm,0.002 mm,20000,,08091-10108
+2504.0,Contour Specimen,Radius = 6.0 mm and 10 mm,0.002 mm,20000,,08091-10109
+2505.0,Contour Specimen,Angle = 90? and 270?,0.02?,20000,,08091-10110
+2506.0,Non-contact probe,Length up to 20 um for Dynamic mode,0.2 um + 1.2E-05 L,"1,500/piece","Direct measurement using Dynamic mode, and camparing its reading with laser interferometer",08061-11301
+2507.0,Non-contact probe,Length up to 4 mm for Static mode,0.5 um + 4.6E-05 L,"7,530/piece","Direct measurement using Static mode, and camparing its reading with laser interferometer",08061-11302
+2508.0,Laser Distance Meter,"Up to 20,000 mm",1 mm,"5,000/piece",Compare to the laser interferometer with the standard 40-m Rail System,08101-10001
+2509.0,2D Scanning Thread Measuring Machine (2D-STMM),"X-axis = 90 mm
+Z-axis = 180 mm","Q[0.13 ?m, 2.2E-06 L]","40,000/piece",Direct measurement using Laser Interferometer,08071-10303
+2510.0,Steel Tape,up to 1800 mm,"Class 1: Q[0.033 mm, 4.4E-06 L]","3,000/piece",Cal by scale calibrator,08081-30915
+,Refractive Index of Spherical Lens,"1.524 to
+1.526",0.00033,"7,500",,08061 - 11207
+,Electronic Distance Meter (EDM): Distance,"4 Distances: 
+10m., 20m., 30m. and 40m.",-,"5,000/piece",,08101-10004

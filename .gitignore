@@ -27,3 +27,26 @@ skills-lock.json
 iframe_figures/
 out_test_nb_*.ipynb
 *.log
+
+# ── DGA_2 — ไฟล์ข้อมูลดิบขนาดใหญ่ (ดาวน์โหลดใหม่จาก data.go.th ได้) ─────────────
+DGA_2/Metrology_Department/for_final/data/ข้อมูลสถาบันมาตรวิทยาแห่งชาติ2.csv
+DGA_2/Revenue_Department/For_final/data/dga306.csv
+DGA_2/**/data.zip
+
+# ── DGA_3 — ไฟล์ทดสอบชั่วคราวและสคริปต์ throwaway ────────────────────────────
+DGA_3/test_*.html
+DGA_3/test_*.py
+DGA_3/inspect_*.py
+DGA_3/**/test_font_prompt_barchart.ipynb
+
+# ── DGA_3 — เอกสารอ้างอิงและไฟล์บีบอัด (ดาวน์โหลดจากต้นทางได้) ───────────────
+DGA_3/**/*.pdf
+DGA_3/**/*.rar
+
+# ── ไฟล์บีบอัดที่ซ้ำกับโฟลเดอร์ที่ commit อยู่แล้ว ────────────────────────────
+*.zip
+
+# ── OS ────────────────────────────────────────────────────────────────────────
+Thumbs.db
+desktop.ini
+.DS_Store

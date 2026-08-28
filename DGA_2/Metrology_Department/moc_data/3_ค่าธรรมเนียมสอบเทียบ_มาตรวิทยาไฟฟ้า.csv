@@ -1,0 +1,608 @@
+﻿ลำดับ (Item No.),รายการเครื่องมือวัด (Description),ช่วงการวัด (Range),ความสามารถในการวัดและสอบเทียบ (CMC / Uncertainty),ราคาค่าธรรมเนียม (Price - THB),หมายเหตุ (Remark),รหัสบริการ (Service Code)
+1.0,DC Voltage Standard,1.018 V  / 10 V,0.9 mV/V /0.4 mV/V,"12,500/piece  + 6,750/next point",,09010-10110
+2.0,Standard Cell,1 V / 1.018 V,0.9 mV/V,"12,500/piece",,09010-10111
+3.0,DC Voltage Standard,1 V / 1.018 V   / 10 V,0.03 mV/V/ 0.01 mV/V,"36,000/piece",Compared against JJVS maintained by NIMT (Uncertainty depends on noise of Unit Under Calibration),09010-10112
+4.0,Picoampmeter,2 pA to 200 mA,0.1 mA/A to 0.01 mA/A,"6,750 to 11,250/piece",Used volt-ampere method.,09010-10320
+5.0,Electrometer,2 nC to 200 µC,0.1 mC/C,"6,750 to 11,250/ piece",,09010-10321
+6.0,"DC Current Source
+","10 µA, 100 µA",5.0 µA/A,"9,000 THB first point + 2,500 THB next point ",Volt Ampere method,09010-03111
+7.0,"DC Current Source
+","1 mA, 10 mA, 100 mA, 1 A, 10 A, 20 A",5.0 µA/A to 14 µA/A,"9,000 THB first point + 2,500 THB next point ",Volt Ampere method,09010-03121
+8.0,"DC Current Source
+","30 A, 100 A, 200 A",14 µA/A to 20 µA/A,"9,000 THB first point + 2,500 THB next point ",Volt Ampere method,09010-03131
+9.0,DC Current Meter,"10 µA, 100 µA",5.0 µA/A,"9,000 THB first point + 2,500 THB next point ",Volt Ampere method,09010-03211
+10.0,DC Current Meter,"1 mA, 10 mA, 100 mA, 1 A, 10 A, 20 A",5.0 µA/A to 14 µA/A,"9,000 THB first point + 2,500 THB next point ",Volt Ampere method,09010-03221
+11.0,DC Current Meter,30 A,14 µA/A,"9,000 THB first point + 2,500 THB next point ",Volt Ampere method,09010-03231
+12.0,AC/DC Transfer Standard,"AC-DC Transfer Difference 2 mV to 20 V  Frequency: 10 Hz to 1 MHz
+AC-DC Transfer Difference > 20 V to 1000 V
+Frequency: 10 Hz to 100 kHz",8 mV/V to 0.22 mV/V,"90,000/item",,09020-10510
+13.0,Thermal Transfer Standard,"AC-DC Transfer Difference 0.5 V to 20 V Frequency: 10 Hz to 1 MHz 
+AC-DC Transfer Difference > 20 V to 1000 V
+Frequency: 10 Hz to 100 kHz",8 mV/V to 0.22 mV/V,"67,500/item",,09020-10511
+14.0,Thermal Voltage Converter Standard,"AC-DC Transfer Difference 0.5 V to 20 V 
+Frequency: 10 Hz to 1 MHz
+AC-DC Transfer Difference > 20 V to 1000 V
+Frequency: 10 Hz to 100 kHz",8 mV/V to 0.22 mV/V,"9,000/item",,09020-10512
+15.0,AC Measurement Standard,"AC-DC Transfer Difference 10 mV to 20 V
+Frequency: 10 Hz to 1 MHz
+AC-DC Transfer Difference > 20 V to 1000 V
+Frequency: 10 Hz to 100 kHz",8 mV/V to 0.12 mV/V,"67,500 to 78,750 /item",Excluded WB option.,09020-10520
+16.0,AC Measurement Standard,"AC Voltage 10 mV to 20 V
+Frequency: 10 Hz to 1 MHz
+AC Voltage > 20 V to 1000 V
+Frequency: 10 Hz to 100 kHz",11 mV/V to 0.18 mV/V,"78,750 to 85,500 /item",Included WB option.,09020-10521
+17.0,Alternating Voltage Measurement Standard,"AC Voltage  100 mV to 20 V 
+Frequency: 10 Hz to 1 MHz
+AC Voltage  > 20 V to 1000 V
+Frequency: 10 Hz to 100 kHz",11 mV/V to 0.18 mV/V,67500/item,,09020-10522
+18.0,AC Voltage Current Standard,"AC Voltage 100 mV to 1000V
+Frequency 60 Hz and 400 Hz
+AC Current 100 mA to 30 A
+Frequency 60 Hz and 400 Hz","18 mV/V to 0.58 mV/V
+50 mA/A to 0.12 mA/A","18,130 to 21,700/item",,09020-10560
+19.0,Multifunction Transfer Standard,"AC Voltage  100 mV to 20 V
+Frequency: 10 Hz to 1 MHz
+AC Voltage  > 20 V to 1000 V
+Frequency: 10 Hz to 100 kHz
+AC Current  100 mV to 10 A
+Frequency: 10 Hz to 10 kHz","11 mV/V to 0.18 mV/V
+50 mA/A to 0.12 mA/A",78750/item,,09020-10561
+20.0,AC Current Shunt,"AC-DC Transfer Difference 5 mA to 100 A
+Frequency: 10 Hz to 100 kHz","18 mA/A to 0.20 mA/A
+","6,750 to 11,250/item",,09020-10610
+21.0,AC-DC current transfer standard,30 A to 100 A,? 23 mA/A,"11,250 / range",AC-DC current transfer ,09020-10611
+22.0,Low level ac-dc voltage transfer by micro potentiometer,2 mV to 200 mV,? 44 mV/V,"66,250 /item",AC-DC voltage transfer ,09020-10612
+23.0,Wideband calibration source characterize,Wideband output 3.2 V Frequency 10 Hz to 30 MHz,0.058 mV/V to 2.0 mV/V,"11,250 / item",For Calibrator,09020-10613
+24.0,Wideband function of AC measurement standard,"Flatness error 1 mV to 3.2 V
+Wideband gain @ 1 kHz
+Wideband gain error
+Frequency 10 Hz to 30 MHz","0.084 mV/V to 2.0 mV/V
+0.12 mV/V to 2.8 mV/V
+0.15 mV/V to 2.8 mV/V","11,250/piece",For AC measurement standard,09020-10614
+25.0,AC/DC transconductance amplifier,"DC current: 0 A to 100 A
+AC current: 500 mA to 100 A  
+Frequency 10 Hz to 100 kHz",27 mA/A to 87 mA/A,"91,250 / item",For AC and DC output,09020-10615
+26.0,DC Standard Resistor,1 kW,0.04 mW/W,"42,500/item","Compared against QHR standard 
+maintain by NIMT using automatic  resistance bridge.",09030-10210
+27.0,Standard Resistor 1 W  ,1 W at 50 mA,? 0.21 mW/W,"8,625/piece",Used a group of 1 W standard.,09030-10211
+28.0,Standard Resistor 10 kW  ,10 kW at 0.3 mA ,? 1.4 mW/W,"8,625/piece",Used a group of 10 kW standard.,09030-10212
+29.0,Standard Resistor 100 mW  ,100 ?? at 200 A,As Specification,"10,000/piece",Used DCC bridge and 400 Amp range extender.,09030-10213
+30.0,"Standard Resistor 
+(Calibrate in oil or in air)",1 mW to 10 kW,As specification,"6,750/item","Used DCC bridge and 100 Amp 
+range extender.",09030-10214
+31.0,"Standard Resistor 
+(Calibrate in oil or in air)",0.1 mW to  100 mW,As Specification,"7,880/item",Voltage-Ratio Method,09030-10231
+32.0,"Standard Resistor 
+(Calibrate in oil or in air)",>10 kW to 1GW,£ 500 mW/W,"7,880/item",Using Automatic High Resistance Bridge,09030-10215
+33.0,"Standard Resistor 
+(Calibrate in oil or in air)",1 GW to 1 TW,37 µW/W to 1.25 mW/W,"7,880/item","Using Dual Source High Resistance 
+Ratio Bridge",09030-10215
+34.0,"Standard Resistor 
+(Calibrate in oil or in air)",1 TW to 100 TW,>1.25 mW/W to 24.4 mW/W,"7,880/item","Using Dual Source High Resistance 
+Ratio Bridge",09030-10215
+35.0,"Standard Resistor 
+(Calibrate in oil or in air)",0 W to 1 TW,As specification,"2,250/point test",,09030-10216
+36.0,"Standard Resistor 
+(Calibrate in oil or in air)","10 TW at 100 V, 200 V
+500 V and 1000 V",3 mW/W,"2,250/point test",,09030-10217
+37.0,Resistance Calibrator,0 W to 100 MW,As specification,"20,000/piece",,09031-10210
+38.0,Standard Resistor,Test Voltage: maximum 2500 V / Range 100 MW to 1 TW,As Specification,"2,250 / point",Used Volt Amp Method,09031-10211
+39.0,High Resistance Meter ,Upto  100 TW,As specification,"2,250 / point",Direct,09030-10220
+40.0,Digital Thermometer (indicator),up to 10 MW /DCI 0 - 100 mA ,£ 5 mW/W  /£ 60 mW/W ,"(22,500 to 29,250)/item",,09030-10221
+41.0,Digital Thermometer (indicator),up to 10 MW / DCV 0 -100 mV,³ 5 mW/W  / ³ 20 mW/W,"(9,000 to 18,000)/item",,09030-10222
+42.0,Low Resistance meter,"Range 1 kW 
+maximum Current 0.5 A
+Range 100 W
+maximum Current 1 A
+Range 10 W
+maximum Current 5 A
+Range 1 W
+maximum Current 10 A
+Range 0.1 W
+maximum Current 20 A
+Range 0.01 W
+maximum Current 30 A
+Range 1 mW
+maximum Current 100 A",As Specification,"2,250 / point",Direct measurement,09030-10223
+43.0,High Resistance Meter,"Test Voltage: maximum  5000 V
+Range 10 MW, 20 MW and 50 MW
+Range 100 MW, 200 MW and 500 MW
+Range 1 GW, 2 GW and 5 GW
+Range 10 GW, 20 GW and 50 GW
+Range 100 GW, 200 GW and 500 GW",As Specification,"2,250 / point",,09030-10224
+44.0,"Low Resistance meter
+(High Current)",":100 mW, 200 mW, 400 nW, 600 mW and
+ 800 mW@ Max.120 A
+: 1 mW, 2 mW, 4 mW, 6 mW and 8 mW
+@ Max 100 A
+: 10 mW, 20 mW, 40 mW, 60 mW and 80 mW
+@ Max 60 A
+: 0.1 W, 0.2 W, 0.4 W , 0.6 W and 0.8 W
+@ Max 10 A
+: 1 W, 2 W, 4 W, 6 W, 8 W and 16 W
+@ Max 1 A 
+: 40 W, 80 W
+@ Max 1 A",As Specification,"2,250 / point",,09030-10225
+45.0,Low Resistance Meter,Range 1 m? to 10 M?,As Specification,"2,250 / point",,09030-10226
+46.0,"High Resistance meter
+","Range 10 M? to 10 T?
+Maximum test Voltage: 5 kV",As Specification,"2,250 / point",,09030-10227
+47.0,Decade Resistance 0.001 W to <1 W,0.001 W to <1 W,As Specification,"7,000/knob",Direct measurement ,09030-10228
+48.0,Decade Resistance 1 W to <1 MW,1 W to <1 MW,As Specification,"10,000/knob",Direct measurement ,09030-10229
+49.0,Decade Resistance 1 MW to <10 TW,1 MW to <10 TW,As Specification,"10,000/knob",Direct measurement ,09030-10230
+50.0,Standard Watt Converter,"Volt : 600 V
+Current : 100 A
+AC Power : 60 kW
+Frequency : 50 Hz, 60 Hz
+Power Factor : + 0 to 1",> 60 mW/VA,"18,000 to 39,500/item",,09050-10710
+51.0,"AC Wattmeter, Digital Power Meter","Volt : 1000 V
+Current : 80 A
+AC Power : 80 kW
+Frequency : 15 Hz to 450 Hz
+Power Factor : + 0 to 1",> 100 mW/VA,"6,750 to 13,500/Channel",,09050-10711
+52.0,"Energy Meter single phase/ three phase with pulse
+","Active eneregy per phase  0.06525 Ws to 4,800,000 Ws
+Voltage 15 V to 1000 V
+Current 0.01 A to 80 A
+Power Factor 1 to 0.087
+(Inductive or Capacitive)
+Frequency 45 Hz to 65 Hz
+Measurement time 5s to 60 s  
+",³ 60 mWs/ Vas to   ³ 665 mWs/ Vas,"single phase  5,000 to 35,000 / channel three phase  6,250 THB to 51,250 THB ",,09050-10712
+53.0,Electrical Power Source,"Power 1.5 W to 60 kW 
+Frequency 50 Hz to 60 Hz
+Power Factor 1 to 0
+(Inductive or Capacitive)
+Voltage 3 V to 1000 V
+Current 0.05 A to 100 A
+Frequency 15 Hz to 6 kHz","Power ³ 70 mW/VA
+Voltage ³ 30 mV/V
+Current ³ 30 mA/A
+Phase ³ 0.005o","9,000 to 45,000/item",,09050-10713
+54.0,DC Power Meter,"Power: 1mW to 20 kW
+Voltage : 100 mV to 1000 V
+Current : 10 mA to 20 A",³ 40 mW/ W,"6,750 to 13,500/Channel",,09050-10714
+55.0,Energy Source,"Eneregy 41.67 mWh  to 3.333 kWh
+Power: 0.5 W to 20 kW
+Voltage: 10 V to 1000 V
+Current: 0.05 A to 20 A
+Power Factor: 1
+Frequency: 50 Hz to 60 Hz
+Time : 5 minute to 10 minute",> 0.12 %,"5,000 to 15,000 / item",,09050-10715
+56.0,"Three Phase Watt Meter,
+Three Phase AC Power Meter,
+Three Phase Comparator ","Power : 4.5 W to 240 kW
+Voltage : 15 V to 1000 V
+Current : 0.1 A to 80 A
+Power Factor : 1 to 0 (Inductive, Capacitive)
+Frequency : 50 Hz to 60 Hz","100 µW/VA to 370 µW/VA
+
+","5,000 to 55,500 /Channel",,09050-10716
+57.0,Single phase / Three phase energy meter ,"Energy : (0.0625 Wh to 5000 kWh) / phase
+Power : (0.75 W to 50 kW) / phase
+Voltage : 15 V to 1000 V
+Current : 0.1 A to 50 A
+Power Factor : 1 to 0.5 (Inductive ,Capacitive)
+Frequency : 50 Hz to 60 Hz
+Time : 300 sec to 100 hours","Single phase @ 300 s
+515 µWh/Wh 
+to 565 µWh/Wh
+Three phase @ 300 s
+570 µWh/Wh 
+to 665 µWh/Wh","5,000 to 30,000 /Channel",,09050-10717
+58.0,Single Phase / Three Phase Watt Meter,AC Power : 0 W to 172.8 kW (three phase),"0.12 % for single phase
+0.20 % for three phase","5,000 to 25,000 / channel","High burden  
+Direct measurement",09050-10718
+59.0,AC Power Source (On-site),AC Power : 0.15 W to 76.8 kW,100 µW/W  to 215 µW/W ,"5,000 to 28,000 /Channel",Direct measurement,09050-30710
+60.0,"Single phase energy meter,Single phase power meter,Three phase energy meter,Three phase power meter(On-site)",Energy : (0.01875 Wh to 76.8 kWh)/phase,Single/Three phase (? 5 A),"2,500 to10,000 /Channel","Comparison measurement
+1. ? 5 A : single and three phases
+2. > 5 A to 160 A : single phase",09050-30711
+61.0,Phase Meter,Phase Meter Frequency : 15 Hz to 100 kHz Amplitde (rms) : 50 mV  to 120 V,> 0.01o ,"9,000 to 27,000/item",,09050-10920
+62.0,Phase Source,Phase Angle : 0.000o to 999.999o Frequency : 10 Hz to 100 kHz Amplitde (rms) : 50 mV  to 120 V,> 0.005 o ,"18,000 to 45,000/item",,09050-10921
+63.0,Phase Meter Current Shunt,Range : 0.1 A to 50 A Phase Angle : 0.000° to ± 180° Frequency : 16 Hz to 850 Hz,? 0.002 o ,"5,000 (5 pts)'+ 800 / point",,09050-10922
+64.0,"Power Analyzer, Harmonics and Flicker","Output Voltage : 1020 V Output Current : 80 A Frequency : 20 Hz and  up to 1 kHz Harmonics : 100th, up to 6 kHz Flicker : 16 Hz to 9 kHz",Voltage > 100 mV/V Current > 150 mA/A Power > 200 mW/VA Frequency > 50 mHz/Hz,"6,750 to 13,500/channel",,09050-10930
+65.0,"Power Ananlyzer, Dips/ Swells",Voltage: 10 V to 1000 V Current Current : 0.05 A to 20A  Dip/Swell amplitude : 10 % to 140 % of nominal amplitude  Time : 1 ms to 1 minute Frequency : 16 Hz to 850 Hz,³ 0.07 %,"2,250 to 9,000/ channel",,09050-10931
+66.0,Harmonic Current Meter           ,"Current : 1 A to 120 A Fund. Frequency : 50 Hz and 60 Hz Harmonic current : 0.1 % to 10 % of fundamental Harmonics : 1st to 40th,  Har. Frequency : 50 Hz to 2.4 kHz","Harmonic < 1 % of Fundamental 
+0.07 %
+Harmonic ? 1 % of Fundamental 
+5.80 % 
+
+","5,000 to 27,500/ channel",High burden  Direct measurement,09050-10932
+67.0,Harmonics Power Source,"Harmonics Power (0.0025 to 10) % 
+of Fundamental Power  Power Factor of Harmonics
+1 to 0.5, Inductive or Capacitive
+ Harmonics order : 2nd to 100th Total Power : 20 W to 50 kW Total Voltage : 50 V to 1000 V Total Current : 0.8 A to 50 A Power Factor of Fundamental
+1 to 0.5, Inductive or Capacitive Fundamental Frequency : 50 Hz to 60 Hz",0.32 mW/W to 8.2 mW/W,"10,000 THB/channel
+(10 points)","1) Additional fee:
+750 THB/ additional point
+2) Digital sampling technique",09050-10933
+68.0,DC Power Meter (20 A to 200 A),Power: 200 W to 200 kW Voltage : 10 V to 1000 V Current : 20 A to 200 A,160 µW/W to 325 µW/W,"7,500 THB (2 points) / channel","7,500 THB for 2 points
+2,500 THB/point for additional point",09050-10719
+69.0,Wattmeter,Power : 0 W to 12 kW,"50 µW/VA to 65 µW/VA
+","5,000 THB to 25,000 THB / channel",Comparison measurement,09050-10720
+70.0,"Energy Meter with Pulse 
+(Single phase or Three phase)",Energy: 1.05 mWh to 833.3 Wh per phase,"90 µWh/Wh  
+to 160 µWh/Wh","5,000 THB to 30,000 THB/ channel",Pulse comparison,09050-10721
+71.0,"Wattmeter AC Power Meter
+Wattmeter with AC Curent Clamp
+AC Power Meter with AC Current Clamp
+(80 A to 120 A)(1 phase or 3 phase)",Power : 0 W to 120 kW per phase Voltage: 15 V to 1000 V Current : 80 A to 120 A PF: 1 to 0 (inductive or Capacitive) Frequency : 50 Hz to 60 Hz,"135 µW/VA  
+to 205 µW/VA
+5.6 mW/W
+to 6.8 mW/W  
+","5,000 THB to 25,000 THB/ channel",,09050-10722
+72.0,"Wattmeter with AC Curent Clamp
+AC Power Meter with AC Current Clamp
+(500 A to 6000 A)(1 phase or 3 phase)",Power : 3.75 kW to 6000 kW per phase,"
+","7,500 THB for 1st point 3,750 THB/point 
+for additional point / channel",Current coil used,09050-10723
+73.0,Single Phase AC Wattmeter Single Phase AC Power Meter,Reactive Power : 0 var to 50 kvar,"60 µvar/VA  to 125 µvar/VA
+","5,000 THB to 25,000 THB / channel",Direct measurement,09050-10724
+74.0,"Three Phase AC Wattmeter 
+Three Phase AC Power Meter
+Three Phase Power Comparator",Reactive Power : 0 var to 150 kvar,"60 µvar/VA  
+to 125 µvar/VA
+","5,000 THB to 25,000 THB",Direct measurement,09050-10725
+75.0,"Single Phase Energy Meter with Pulse Output
+","Reactive Energy: 0.06525 vars to 4800000 vars varh
+
+
+
+
+
+ Voltage: 15 V to 1000 V Current : 0.01 A to 80 A QF: 1 to 0.087 (inductive or capacitive) Frequency : 45 Hz to 65 Hz Time : 5 s to 60 s",³ 60 mvars/ Vas to,"5,000 to 35,000 THB/ channel",Pulse comparison,09050-10726
+76.0,"Three Phase Energy Meter with Pulse Output
+","Reactive Energy: 0.19575 vars to 14,400,000 vars varh
+
+
+
+
+
+ Voltage: 15 V to 1000 V Current : 0.01 A to 80 A QF: 1 to 0.087 (inductive or capacitive) Frequency : 45 Hz to 65 Hz Time : 5 s to 60 s",³ 60 mvars/ Vas to  ³ 665 mvars/ Vas,"6,250 THB to 51,250 THB ",Pulse comparison,09050-10727
+77.0,"Single Phase Energy Meter (No Pulse)
+",Reactive Energy: 0.0625 varh to 16.667 kvarh Power: 0.75 var to 50 kvar Voltage: 15 V to 1000 V Current : 0.1 A to 50 A QF: 1 to 0.5 (inductive or capacitive) Frequency : 50 Hz to 60 Hz Time : 300 s to 1200 s,"200 µvarh/varh   to 600 µvarh/varh
+","5,000 THB to 15,000 THB / channel",Energy Packet,09050-10728
+78.0,"Three Phase Energy Meter (No Pulse)
+",Reactive Energy: 0.1875 varh to 50 kvarh Power: 0.75 var to 50 kvar Voltage: 15 V to 1000 V Current : 0.1 A to 50 A QF: 1 to 0.5 (inductive or capacitive) Frequency : 50 Hz to 60 Hz,"200 µvarh/varh  to 600 µvarh/varh
+","5,000 THB to 15,000 THB",Energy Packet,09050-10729
+79.0,AC  Voltage  of Electrical Power Source ,"AC Voltage  0.1 V to 1000 V 
+Frequency 10 Hz to 1 kHz
+","30 µV/V  
+","5,000 THB to 50,000 THB/ channel","Digital Sampling Watt Meter, DSWM Method",09050-10730
+80.0,AC Current  of Electrical Power Source ,"AC Current  0.01A to 100 A  Frequency 10 Hz to 1 kHz
+
+","40 µA/A  
+","5,000 THB to 50,000 THB / channel","Digital Sampling Watt Meter, DSWM Method",09050-10731
+81.0,"AC Voltage of AC power meter, or
+AC wattmeter
+",Voltage: 5 V to 1000 V Frequency: 16 Hz to 850 Hz,"0.049 mV/V  to 0.31 mV/V
+","2,500 THB to 25,000 THB / channel",Direct measurement Method,09050-10732
+82.0,"AC Current of AC power meter, or
+AC wattmeter
+",Current: 0.01 A to 20 A Frequency: 16 Hz to 850 Hz  Current: > 20 A  to  80 A Frequency: 40 Hz to 850 Hz,"0.061 mA/A  to 0.177 mA/A
+","2,500 THB to 25,000 THB / channel",Direct measurement Method,09050-10733
+83.0,"DC Power of Wattmeter
+",Power : 0.01 mW to 20 kW Voltage: 0.01 V to 1000 V Current : 0.001 mA to 20 A,"0.15 mW/W   to 1.2 mW/W
+","2,500 THB to 25,000 THB / channel",Direct measurement Method,09050-10734
+84.0,"DC Voltage of Wattmeter
+",Voltage: 0.01 V to 1000 V,0.02 mV/V  to 0.16 mV/V,"2,500 THB to 25,000 THB / channel",Direct measurement Method,09050-10735
+85.0,"DC Current of Wattmeter
+",Current: 0.01 A to 20 A,0.15 mA/A to 1.2 mA/A,"2,500 THB to 25,000 THB/ channel",Direct measurement Method,09050-10736
+86.0,AC Voltage for VT with Wattmeter,AC Voltage  5 V to 1000 V,0.051 mV/Vto 0.086 mV/V,"5,000 THB to 15,000 THB / channel",Direct measurement ,09050-10737
+87.0,Harmonic Voltage for Power Source,"Voltage 1 V to 1000 V Fund. Freq. 45 Hz to 65 Hz Harmonic Amplitude (0.1 % to 25 %) of Fundamental Harmonic order 0, 2nd to 100th Harmonic Frequency DC to 6 kHz",45 mV/V,"5,000 THB to 50,000 THB/ item",Digital Sampling Technique,09050-10934
+88.0,Harmonic Current for Power Source,"Current 0.01 A to 100 A Fund. Freq. 45 Hz to 65 Hz Harmonic Amplitude (0.1 % to 25 %) of Fundamental Harmonic order 0, 2nd to 100th Harmonic Frequency DC to 6 kHz",50 mA/A,"5,000 THB to 50,000 THB / channel",Digital Sampling Technique,09050-10935
+89.0,Harmonic source (Voltage harmonic),Voltage (harmonic) : 0.01 V to 200 V Total rms voltage  : 10 V to 1000 V Fundamental frequency : 50 Hz to 60 Hz Harmonic amplitude  : 0.1 % to 20 % of fundamental Phase shift of harmonic : 0 degree Harmonic order : o to 100th Harmonic frequency : 0 Hz to 6 kHz,0.0045 V/V  to 3.5 V/V,"6,250 THB to  11,250 THB / channel",Direct measurement,09050-10937
+90.0,Harmonic source (Current harmonic),Current (harmonic) : 0.1 mA to 4 A conditions Total rms current: 0.1 A to 20 A Harmonic amplitude  : 0.1 % to 20 % of fundamental Phase shift of harmonic : 0 degree Harmonic order : o to 100th Harmonic frequency : 0 Hz to 6 kHz,0.0037 A/A to 8.8 A/A,"7,500 THB to  14,250 THB  / channel",Direct measurement,09050-10938
+91.0,AC Current for CT with Wattmeter,AC Current	: 0.01 A to 120 A Frequency	: 16 Hz to 850 Hz,0.011 % to 0.028 %,"5,000 THB to 15,000 THB / channel",Direct measurement ,09050-10738
+92.0,Flicker impedance of power quality measurement system   ,"Nominal impedance @ 50 Hz 
+(0.24 +j0.15) W for line impedance 
+ (016 + j0.10) W for neutral impedance",0.03%,"5,000 THB to 15,000 THB / channel",Volt-Ampere method,09050-10936
+93.0,DC energy meter,"DC energy : 0.000833 Wh to 50 kWh Voltage : 1 V to 500 V
+Current : 0.01 A to 10 A  Time : 300 s to 10 hours",0.42 mWh/Wh to 4.3 mWh/Wh,"5,000 THB to 15,000 THB / channel",Energy Packet,09050-10739
+94.0,"Three phase wattmeter, 
+Three phase power meter,Three Phase Comparator  Wattmeter AC power meter Wattmeter","Three phase active power : 0 W to 115.2 kW Voltage : 60 V to 480 V Current :0.005 A to 160 A Frequency: 45 Hz to 65 Hz PF:1, 0.5 (inductiv,capactivie), 0 (inductiv,capactivie),"," 54 µW/VA 
+to 204 µW/VA","5,000 THB to 20,000 THB",Comparison measurement,09050-10740
+95.0,Single phase wattmeter with frequency output AC power meter Wattmeter,"Single phase active power :0.1305 W to 80 kW Voltage : 15 V to 1000 V Current : 0.1 A to 80 A Frequency: 45 Hz to 65 Hz PF:1 to 0.087, (inductive or capacitive)",48 mW/VA to 183 mW/VA,"5,000 THB to 17,500 THB/ channel",Direct with frequency measurement  ,09050-10741
+96.0,Three phase wattmeter with frequency output AC power meter Wattmeter ,"Three phase active power: 0.3915 W to 240 kW Voltage : 15 V to 1000 V Current : 0.1 A to 80 A Frequency: 45 Hz to 65 Hz PF:1 to 0.087, (inductive or capacitive)",48 mW/VA to 183 mW/VA,"5,000 THB to 17,500 THB",Direct with frequency measurement  ,09050-10742
+97.0,Single phase wattmeter with frequency output AC power meter Wattmeter Wattmeter,"Single phase reactive power :0.1305 var to 80 kvar Voltage : 15 V to 1000 V Current : 0.1 A to 80 A Frequency: 45 Hz to 65 Hz QF:1 to 0.087, (inductive or capacitive)",48 mvar/VA to 183 mvar/VA,"5,000 THB to 17,500 THB",Direct with frequency measurement  ,09050-10743
+98.0,Three phase wattmeter with frequency output AC power meter Wattmeter  Wattmeter,"Three phase reactive power: 0.3915 var to 240 kvar Voltage : 15 V to 1000 V Current : 0.1 A to 80 A Frequency: 45 Hz to 65 Hz QF:1 to 0.087, (inductive or capacitive)",48 mvar/VA to 183 mvar/VA,"5,000 THB to 17,500 THB",Direct with frequency measurement  ,09050-10744
+99.0,"Ac current clamp meter,Ac clamp meter Clamp meter",AC current Ac current : 10 A to 1500 A Frequency: 16 Hz to 300 Hz,5.045 mA/A,"5,000 THB to 10,000 THB / channel",Indirect measurement,09050-10745
+100.0,"AC power meter, Wattmeter","Power factor (PF, cos j) : 1 to 0 Reactive power factor (QF, sin j) : 1 to 0 Voltage: 15 V to 1000 V
+
+ Current: 0.1 A to 80 A  Frequency: 45 Hz to 65 Hz",6×10-6 to 61×10-6,"5,000 THB to 7,500 THB / channel",Direct measurement,09050-10746
+101.0,"AC power meter,Wattmeter","Frequency:  16 Hz to 850 Hz Voltage: 1 V to 1000 V
+
+ Current: 0.01 A to 80 A ",0.0011 Hz to 0.050 Hz ,"5,000 THB to 7,500 THB / channel",Direct measurement,09050-10747
+102.0,"Single phase wattmeter, Single phase power meter,Single phase power comparator AC power meter Wattmeter","Reactive power	: 0 var to 100 kvar Voltage : 15 V to 1000 V Current : 80 A to 100 A Frequency: 45 Hz to 65 Hz QF:1 to 0, (inductive or capacitive)","134 µvar/VA to 213 µvar/VA
+","5,000 THB to 12,500 THB / channel",Direct measurement,09050-10748
+103.0,"Three phase wattmeter, Three phase power meter, Three phase power comparator Wattmeter","Reactive power	: 0 var to 300 kvar Voltage : 15 V to 1000 V Current : 80 A to 100 A Frequency: 45 Hz to 65 Hz QF:1 to 0, (inductive or capacitive)","134 µvar/VA  to 213 µvar/VA
+","5,000 THB to 12,500 THB",Direct measurement,09050-10749
+104.0,"Single phase  wattmeter, Single phase power meter,Single Phase Power comparator,Watt converter","Active power : 0 W to 80 kW Voltage : 15 V to 1000 V Current : 0.1 A to 80 A Frequency: 16 Hz to 400 Hz PF:1 to 0, (inductive or capacitive)",60 µW/VA  to 540 µW/VA,"5,000 THB to 27,500 THB/ channel",Direct measurement,09050-10750
+105.0,"Three phase  wattmeter, Three phase power meter,Three Phase Power comparator,","Active power : 0 W to 240 kW Voltage : 15 V to 1000 V Current : 0.1 A to 80 A Frequency: 16 Hz to 400 Hz PF:1 to 0, (inductive or capacitive)",60 µW/VA  to 540 µW/VA,"5,000 THB to 27,500 THB",Direct measurement,09050-10751
+106.0,"Single phase  wattmeter, Single phase power meter,Single Phase Power comparator,Watt converter","Reactive power : 0 var to 80 kvar Voltage : 15 V to 1000 V Current : 0.1 A to 80 A Frequency: 16 Hz to 400 Hz QF:1 to 0, (inductive or capacitive)",60 µvar/VA  to 540 µvar/VA,"5,000 THB to 27,500 THB / channel",Direct measurement,09050-10752
+107.0,"Three phase  wattmeter, Three phase power meter,Three Phase Power comparator,","Reactive power : 0 var to 240 kvar Voltage : 15 V to 1000 V Current : 0.1 A to 80 A Frequency: 16 Hz to 400 Hz PF:1 to 0, (inductive or capacitive)",60 µvar/VA  to 540 µvar/VA,"5,000 THB to 27,500 THB",Direct measurement,09050-10753
+108.0,Transformer bridge ratio,Phase displacement error -180 deg to 180 deg or -10800 arcmin to 10800 arcmin Voltage: 10 V to 1000 V Frequency: 45 Hz to 65 Hz,0.35 minute of arc,"10,000 THB to  47,500 THB / item",Direct comparison,09050-10754
+109.0,Transformer bridge ratio(Phase displacement error for current),Phase displacement error,0.42 minute of arc,"11,250 THB to  36,250 THB  / item",Direct comparison,09050-10755
+110.0,Transformer bridge ratio(Voltage Ratio Error),Ratio error : -0.2 to 0.2 Voltage: 10 V to 1000 V -180 deg to 180 deg Frequency: 45 Hz to 65 Hz,0.018×10-2 ,"10,000 THB to  47,500 THB / item",Direct comparison,09050-10756
+111.0,Transformer bridge ratio(Current Ratio Error),Ratio error : -0.2 to 0.2 Current: 0.1 A to 20 A -180 deg to 180 deg Frequency: 45 Hz to 65 Hz,0.018×10-2 ,"11,250 THB to  36,250 THB / item",Direct comparison,09050-10757
+112.0,Calibrator           ,DC Voltage : 0 V to 1 kV  AC Voltage :                 10 mV to 1 kV @ 10 Hz to 1 MHz AC Voltage :                        30 V to 1 kV @ 10 Hz to 100 kHz DC Current : 0 A to 20 A AC Current :                    100 mA to 20 A @ 10 Hz to 100 kHz Resistance : 0 W to 1 GW,40 mV/V to 0.6 mV/V 3.03 mV/V to 20 mV/V,"13,500 to 33,750/item","2,000 to 9,000 THB/item for additional  adjustment.",09110-11310
+113.0,Wideband Option,Up to 30 MHz,As specification,"11,250/option","3,000 THB/option for additional  adjustment.",09110-11311
+114.0,Power Option,As specification,As specification,"6,750/option","2,500 THB/option for additional  adjustment.",09110-11312
+115.0,Scope Option,300 MHz,As specification,"13,500/option","2,000 to 6,500 THB/option for additional ",09110-11313
+116.0,Scope Option,600 MHz to 1 GHz,As specification,"18,000/option",adjustment.,09110-11314
+117.0,High Current                                                                                                                                                                                            ,DC Current : 30 A AC Current :  30 A @ 10 Hz to 10 kHz,22  mA/A 85 mA/A to 114 mA/A,"11,250/piece",,09110-11315
+118.0,Power Quality,"AC Voltage  -Delta Amplitude Verification, Static Condition 30 V, 300 V @ 50 Hz, 60 Hz -Delta Amplitude Verification, Flicker Condition 230 V@ 50 Hz Composite Harmonic Verification - Voltage 0.12 V to 450 V @ 50 Hz, 60 Hz Type Wave : I, II, III, IV, Square and NRC 7030 - Current 0.11 A to 9.5 A @ 50 Hz, 60 Hz Type Wave : VI, VII, IECA, IECD and NRC 7030",3.20 × 10-5 to 4.10 × 10-5 4.13 × 10-5 ,"18,000/option",,09110-11316
+119.0,Oscilloscope Calibrator,Up to 600 MHz Up to 2.1 GHz,As specification,"40,000/item ","2,000 to 13,500 THB/item for additional  adjustment.",09110-11317
+120.0,Oscilloscope Calibrator,Up to 2.1 GHz,As specification,"45,000/item",,09110-11318
+121.0,Amplifier /        Precision Power Amplifier           ,Up to 1kV       10 Hz up to 100 kHz,As specification,"9,000/item","2,500 THB/function for additional  adjustment.",09110-11319
+122.0,Digital Multimeter,6 1/2 digit,As specification,"9,000 to 13,500/item","5,400 THB for additional adjustment.",09110-11320
+123.0,Digital Multimeter,7 1/2 digit,As specification,"13,500 to 22,500/item","6,750 THB for aditional calibrate with AC/DC Shunt using direct measurement method",09110-11321
+124.0,Digital Multimeter,8 1/2 digit,As specification,"22,500 to 27,000/item",,09110-11322
+125.0,Nano Voltmeter,DC Voltage: 1 mV to 100 mV,As specification,"11,250 to 13,500/item","2,500 THB for additional adjustment.",09110-10120
+126.0,DC High Voltage Divider,-10 kV to 10 kV,30 x 10-6 (Ratio),"< 10 kV 4,500 first point '+ 2,250 next point",Compared against DC high voltage  reference system.,09060-10810
+127.0,DC High Voltage Divider,>10 kV to 100 kV,30 x 10-6 (Ratio),"> 10 kV 5,630 first point '+ 2,250 next point",,09060-10811
+128.0,"DC High Voltage Divider (On-site),DC High Voltage Measuring System (On-site)",200 kV,? 30 x 10-6(Ratio),"60,000/item '(5 voltage levels)","Additional fee: 
+(1) 7,500/additional voltage level
+(2) Linearity Test: 10,000 /for 5 voltage levels",09060-30810
+129.0,DC High Voltage Source,-10 kV to 100 kV,30 mV/V,"9,000 to 18,000/item","Compared against DC high voltage
+reference system.",09060-10812
+130.0,DC High Voltage Source (On-site),200 kV,? 170 mV/V,"60,000/item '(5 voltage levels)","Additional fee: (1) 7,500/additional voltage level
+(2) Linearity Test: 10,000 /for 5 voltage levels",09060-30811
+131.0,DC High Voltage Meter,-10 kV to 100 kV,As specification,"6,750 to 18,000/item","Compared against DC high voltage 
+reference system.
+",09060-10813
+132.0,DC High Voltage Meter (On-site),200 kV,? 30 ?V/V,"60,000/item '(5 voltage levels)","Additional fee: (1) 7,500/additional voltage level
+(2) Linearity Test: 10,000 /for 5 voltage levels",09060-30812
+133.0,High Voltage Capacitance & Dissipation Factor,Capacitance 10 pF to 1000 pF Voltage:10 kV to 100 kV Frequency : 50 Hz Dissipation Factor: 50 x 10-6 to 1 x 10-3,³ 80 mF/F for Capacitance ³ 50 x 10-6 for Dissipation Factor,"12,500/item","Compared against standard
+capacitor using AC high voltage
+capacitance and inductance bridge.",09060-10820
+134.0,High Voltage Capacitance & Dissipation Factor,Capacitance 10 pF to 1000 pF Voltage:10 kV to 200 kV Frequency : 50 Hz Dissipation Factor: 50 x 10-6 to 1 x 10-3,,"17,500/item",,09060-10821
+135.0,AC High Voltage Divider,1 kV to 200 kV @ 50 Hz,³ 0.3 % (Scale Factor),"11,500 to 27,500/item",Compared against AC high voltage reference system ,09060-10830
+136.0,AC High Voltage Meter,1 kV to 200 kV @ 50 Hz,As specification,"9,000 to 27,000/item",Compared against AC high voltage  reference system.,09060-10831
+137.0,"AC High Voltage Meter, AC High Voltage Measuring System",100 kV,³ 0.3 %,"67,500/item ( 5 voltage levels)","Additional fee: (1) 7,500/additional voltage level",09060-30830
+138.0,"(Vrms, Vpeak, Vpeak/Ö2 @ 50 Hz) (On-site)",200 kV,³ 0.3 %,"82,500/item ( 5 voltage levels)","(2) Linearity Test: 10,000 /for 5 voltage levels",09060-30831
+139.0,AC High Voltage Source ,1 kV to 200 kV @ 50 Hz,³ 0.3 %,"11,500 to 23,000/item",,09060-10832
+140.0,Voltage Transformer,3.3 kV to 33 kV @ 50Hz/60 Hz,Ratio error ³ 0.01 %  Phase displacement ³ 0.3 min ,"7,500 first tap '+ 1,900 next tap per frequency, burden and power factor",Compared against voltage transformer reference system. 850 THB for additional point,09060-10833
+141.0,Transformer Loss Measuring System (On-site),"up to 200 kV, up to 5 kA, 50/60 Hz",0.03 % @ p.f. = 1.0,"56,250 
+for 3 power factors 
+(4 points/power factor)
+
+ +2,500 
+for each additional point
+
+
+
+","On-site calibration of voltage transducers, and current transducers of the transformer loss measuring system are a prerequisite for this service.",09060-30834
+142.0,Lightning Impulse Voltage Measuring System 1.2/50 µs,100 kV,Scale factor ³ 1.1 %,"23,750/ item",Additional fee for time to chopping,09060-10840
+143.0,Lightning Impulse Voltage Measuring System 1.2/50 µs,200 kV,Time parameter ³ 1.7 %,"26,250/ Item","(2.0 to 6.0) ms: 5,000 THB/point for",09060-10840
+144.0,Lightning Impulse Voltage Measuring System 1.2/50 µs,300 kV,,"31,250/ item","MS rated < 200 kV, and 10,000 THB/",09060-10840
+145.0,Lightning Impulse Voltage Measuring System 1.2/50 µs,400 kV,,"33,750/ item",point for MS rated < 500 kV.,09060-10840
+146.0,Lightning Impulse Voltage Measuring System 1.2/50 µs,500 kV,,"36,250/ item",,09060-10840
+147.0,Lightning Impulse Voltage Measuring System 1.2/50 µs ,100 kV,Scale factor ³ 1.1 %,"71,250/ item
+(5 voltage levels)",Additional fee: ,09060-30840
+148.0,Lightning Impulse Voltage Measuring System 1.2/50 µs ,200 kV,Time parameter ³ 2.2 %,"78,750/ Item
+(5 voltage levels)","(1) 15,000/additional voltage level",09060-30841
+149.0,Lightning Impulse Voltage Measuring System 1.2/50 µs ,300 kV,,"93,750/ item
+(5 voltage levels)","(2) Linearity Test: 20,000/for 5 voltage levels",09060-30842
+150.0,Lightning Impulse Voltage Measuring System 1.2/50 µs ,400 kV,,"101,250/ item
+(5 voltage levels)",,09060-30843
+151.0,Lightning Impulse Voltage Measuring System 1.2/50 µs ,500 kV,,"108,750/ item
+(5 voltage levels)",,09060-30844
+152.0,Switching Impulse Voltage Measuring System 250/2500 µs,100 kV,Scale factor ³ 0.8 %,"23,750/ item",,09060-10841
+153.0,Switching Impulse Voltage Measuring System 250/2500 µs,200 kV,Time parameter ³ 1.7 %,"26,250/ Item",,09060-10841
+154.0,Switching Impulse Voltage Measuring System 250/2500 µs,300 kV,,"31,250/ item",,09060-10841
+155.0,Switching Impulse Voltage Measuring System 250/2500 µs,400 kV,,"33,750/ item",,09060-10841
+156.0,Switching Impulse Voltage Measuring System 250/2500 µs ,100 kV,Scale factor ³ 1.1 %,"71,250/ item
+(5 voltage levels)",Additional fee: ,09060-30845
+157.0,Switching Impulse Voltage Measuring System 250/2500 µs ,200 kV,Time parameter ³ 2.2 %,"78,750/ Item
+(5 voltage levels)","(1) 15,000/additional voltage levels",09060-30846
+158.0,Switching Impulse Voltage Measuring System 250/2500 µs ,300 kV,,"93,750/ item
+(5 voltage levels)","(2) Linearity Test: 20,000/for 5 voltage levels",09060-30847
+159.0,Switching Impulse Voltage Measuring System 250/2500 µs ,400 kV,,"101,250/ item
+(5 voltage levels)",,09060-30848
+160.0,Partial Discharge Calibrator,1 pC-1000 pC,³ 1.7 %,"15,000/ item (7 points x 2 polarities)","Additional fee: 1,500 /item for additional (1 point x 2 polarities)",09060-10850
+161.0,Current Transformer,5 A to 1500 A @ 50 Hz/60 Hz,Ratio error ³ 0.01 %  Phase displacement ³ 0.3 min ,"7,500 first tap '+ 1,900 next tap 'per frequency, burden 'and power factor",Compared against current transformer reference system. 850 THB for additional point,09060-10860
+162.0,"Rogowski Coil (current transducer),Rogowski Current Transducer",10 A to 1500 A @ 50 Hz/60 Hz,³ 0.5 %,7500/item '(5 current levels) 'frequency 50 Hz or 60 Hz,Compared against current transformer reference system. Additional fee: 7500/additional 5 current levels,09060-10861
+163.0,AC Resistance,"1 W, 25 W, 100 W, 400 W at 60 Hz or 75 Hz 1 kW, 10 kW, 12.9 kW 
+(100 Hz to 10 kHz)",As Specification 2 mW/W - 60 mW/W,"9,000/price/frequecy + 1,250 next frequecy",Direct substitution measurement,09040-10410
+164.0,AC Resistor,1 W to 100 kW @ 1000 Hz,> 0.20 mW/W,"5,000/piece","Measured by RLC digibridge and/or precision LCR meter, direct measurment, at desired frequencies.",09040-10411
+165.0,Additional Measurement at another Frequency,1 W to 100 kW @ 100 Hz to 100 kHz,> 0.20 mW/W,"1,250 per frequency",,09040-10412
+166.0,Decade AC Resistor Additional Measurement at another Frequency,1 W to 100 kW @ 1000 Hz,> 0.20 mW/W,"5,000 first decade + 1,250 next step","Measured by RLC digibridge and/or precision LCR meter, direct measurment, at desired frequencies.",09040-10413
+167.0,Decade AC Resistor Additional Measurement at another Frequency,1 W to 100 kW @ 100 Hz to 100 kHz,> 0.20 mW/W,"(4,500 first decade + 1,250 next step) per one frequency",,09040-10414
+168.0,"Fixed, Fused Silica Dielectric Standard Capacitors",10 pF @ 1000 Hz,0.087 mF/F,"20,000/piece/frequency",Comparing with a group of 10 pF standards,09040-10420
+169.0,"Fixed, Fused Silica Dielectric Standard Capacitors",1 pF @ 1000 Hz,0.71 mF/F,"17,500/piece/
+frequency",Applied direct substitution method with the reference standard capacitors.,09040-10421
+170.0,"Fixed, Fused Silica Dielectric Standard Capacitors",10 pF @ 1000 Hz,0.70 mF/F,"17,500/piece/
+frequency",Applied direct substitution method with the reference standard capacitors.,09040-10421
+171.0,"Fixed, Fused Silica Dielectric Standard Capacitors",100 pF@ 1000 Hz,0.70 mF/F,"17,500/piece/
+frequency",Applied direct substitution method with the reference standard capacitors.,09040-10421
+172.0,"Fixed Three Terminal, Nitrogen Dielectric Standard Capacitors","10 pF 100 pF 
+@ 1000 Hz and 1592 Hz
+                             ",1.2 mF/F,"12,500/piece/
+frequency",Applied a null method using the basic ratio bridge.,09040-10422
+173.0,"Fixed Three Terminal, Nitrogen Dielectric Standard Capacitors","1000 pF 
+@ 1000 Hz and 1592 Hz
+",3.5 mF/F,"12,500/piece/
+frequency",,09040-10422
+174.0,"Fixed Three Terminal, Nitrogen Dielectric Standard Capacitors","10000 pF 
+@ 1000 Hz and 1592 Hz
+",7.0 mF/F,"12,500/piece/
+frequency",,09040-10422
+175.0,"Fixed Three Terminal, Nitrogen Dielectric Standard Capacitors","10000 pF 
+@ 1000 Hz
+",5.3 mF/F,"20,000/piece/frequency",Comparing with a group of 10 nF standards,09040-10422
+176.0,Two or Three Terminal Mica Dielectric Standard Capacitors,"0.001 mF, 0.01 mF, 0.1 mF and 1 mF 
+@ 1000 Hz",> 0.12 mF/F,"5,630/piece",Applied a null method using the basic ratio bridge.,09040-10423
+177.0,Additional Measurement at another Frequency,"0.001 mF, 0.01 mF, 0.1 mF and 1 mF 
+@ 100, 120, 200, 400, 500 Hz, 2 kHz, 
+5 kHz, 10 kHz",> 0.12 mF/F,"1,250/frequency",Applied a null method using the basic ratio bridge.,09040-10424
+178.0,2 Terminal Pair Capacitance Standard,"1 pF, 10 pF, 100 pF, 1000 pF at 1000 Hz to 10 MHz",> 100 µF/F,"10,000/Item",S-parameter with resonance frequency,09040-10437
+179.0,4 Terminal Pair Capacitance Standard,"1 pF, 10 pF, 100 pF, 1000 pF at 1000 Hz to 30 MHz",> 63 µF/F,"12,500/Item",S-parameter with resonance frequency,09040-10438
+180.0,Four-Terminal Pair Capacitance Standard,"1 pF, 10 pF, 100 pF, 1000 pF, 0.01 mF,        
+ 0.1 mF and 1 mF @ 1000 Hz",> 0.12 mF/F,"5,630/piece","Measured by precision capacitance bridge, direct measurement, at desired frequency.",09040-10425
+181.0,Additional Measurement at another Frequency,"1 pF, 10 pF, 100 pF, 1000 pF, 0.01 mF,      
+0.1 mF and 1 mF @ 100 Hz to 100 kHz",> 0.20 mF/F,"1,250/frequency","Measured by RLC Digibridge and/or Precision LCR Meter, direct measurement, at desired frequency.",09040-10426
+182.0,Fixed Standard Capacitors,1 pF to 1 F @ 1000 Hz,> 0.20 mF/F,"4,500/piece","Measured by RLC Digibridge and/or Precision LCR Meter, direct measurement, at desired frequency.",09040-10427
+183.0,Additional Measurement at another Frequency,1 pF to 1 F @ 12 Hz to 1 MHz,> 0.20 mF/F,"1,250/frequency",,09040-10428
+184.0,Decade capacitor,1 pF to 10 mF @ 1000 Hz,> 0.12 mF/F,"5,000 first decade + 1,250 next step",Applied a null method using the basic ratio bridge.,09040-10429
+185.0,Decade capacitor,1 pF to 1 F @ 1000 Hz,> 0.20 mF/F,"4,500 first decade ","Measured by RLC digibridge and/or precision LCR meter, direct measurment, at desired frequencies.",09041-10420
+186.0,Additional Measurement at another ,1 pF to 1 F @ 12 Hz to 1 MHz,> 0.20 mF/F,"(4,500 first decade",,09041-10421
+187.0,Frequency,,,"+ 1,250 next step)
+per one frequency",,09041-10422
+188.0,Precision Capacitance Bridge,"1 pF, 10 pF, 100 pF 
+@ 1000 Hz or 1592 Hz",³ 0.40 mF/F,"27,500/item","Calibrated by comparing its reading
+against the reference standard capacitors.
+The correction functions are used to correct additional error due to the test fixture and test leads before measurement.",09041-10423
+189.0,Fixed Standard Inductors,"100 mH, 1 mH, 10 mH, 100 mH, 1 H and 10 H @ 100 Hz",> 0.16 mH/H,"12,500/piece",Measured by the direct substitution method with the reference standard inductors.,09040-10430
+190.0,Additional Measurement at another Frequency,"100 mH, 1 mH, 10 mH, 100 mH, 1 H and 10 H @ 12 Hz to 1 MHz",> 0.20 mH/H,"1,250/frequency","Measured by RLC digibridge and/or precision LCR meter, direct measurement, at desired frequencies.",09040-10431
+191.0,Fixed standard Inductor,1 mH to 10 H @ 1 kHz,> 0.20 mH/H,"5,630/piece","Measured by RLC digibridge and/or precision LCR meter, direct measurment, at desired frequencies.",09040-10432
+192.0,Additional Measurement at another Frequency,1 mH to 10 H @ 12 Hz to 1 MHz,> 0.20 mH/H,"1,250/frequency",,09040-10433
+193.0,Decade Inductors,1 mH to 10 H @ 1000 Hz,> 0.20 mH/H,"4,500 first decade + 1,250 next step","Measured by RLC digibridge and/or precision LCR meter, direct measurement, at desired frequencies.",09040-10434
+194.0,Additional Measurement at another Frequency,1 mH to 10 H @ 12Hz to 1 MHz,> 0.20 mH/H,"(4,500 first decade  + 1,250 next step) per one frequency",,09040-10435
+195.0,LCR Meter with 4 terminal pair configuration/without 4 terminal pair configuration,"0.001 mF, 0.01 mF, 0.1 mF and 1 mF @ 100, 120, 200, 400, 500 Hz, 1 kHz, 2 kHz,  
+5 kHz, 10 kHz 1 pF, 10 pF, 100 pF, 1000 pF @ 1000 Hz* 100 mH, 1 mH, 10 mH, 100 mH, 1 H and
+10 H @ 100 Hz and 1000 Hz 1 W, 10 W, 100 W, 1000 W @ 1 kHz 1 kW, 10 kW, 12.9 kW 
+(100 Hz to 10 kHz)","> 0.12 mF/F
+> 0.12 mF/F
+> 0.16 mH/H
+> 0.20 mW/W
+0.14 mW/W",To be determined,"Calibrated by comparing its reading
+against the standard capacitors, standard inductors and 4TP standard resistors. 
+The correction functions are
+used to correct additional error due to
+the test fixture and test leads before
+measurement.* For 4 terminal pair configuration",09040-10436
+196.0,Fixed Standard Inductors,10 mH @ 1 kHz,> 75 mH/H,"20,000/piece",Comparison with a group of inductance standards using a LCR meter,09040-10439
+197.0,Power Sensor with reflection coefficient,9 kHz to 18 GHz,1.0 % to 2.0 %,"20,000/item",Using DC substitution Method,09090-11150
+198.0,Power Sensor with reflection coefficient,9 kHz to 26.5 GHz,As Specification,"25,000/item",Using Direct Method,09090-11151
+199.0,EPROM power sensor (correction C.F.),As specification,As Specification,"3,000/item",,09090-11152
+200.0,Power meter,As specification,As specification,"11,250/item",,09090-11111
+201.0,Feedthrough Mount,"100 kHz to 18 GHz, 1 mW",0.5 % to 1.3 %,"21,000/item",Using DC substitution Method,09090-11130
+202.0,Feedthrough Mount,"9 kHz to 26.5 GHz, 1 mW",As Specification,"23,000/item",,09090-11131
+203.0,RF Attenuator- Fix Attenuator/Step Attenuator,"10 MHz to 18 GHz, 10 dB to 80 dB",0.013 dB to 0.22 dB upto frequency range,"3,200/Freq. Point",IF substituition Method (1),09090-11120
+204.0,RF Attenuator- Attenuation in Coaxial line/Passive device,"100 kHz to 18 GHz, 10 dB to 80 dB",0.027 dB to 0.20 dB upto frequency range,"3,000/Freq. Point",IF substituition Method (2),09090-11121
+205.0,Audio Attenuator,31.5 Hz to 100 kHz,As Specification,"3,500/Freq.Point",,09090-11122
+206.0,RF-electric field probe,"100 MHz to 1 GHz
+1 GHz to 6 GHz","0.7 dB
+1.4 dB","45,000/item",Reference standard field/ substitution with standard field probe,09090-10314
+207.0,Field Uniformity (Onsite- chamber),"80 MHz to 1 GHz
+1 GHz to 6 GHz","2.4 dB
+2.1 dB","40,000/item",Onsite,09090-10315
+208.0,Oscilloscope ,As specification,As specification,"15,000/item",,09090-11160
+209.0,Spectrum Analyzer,As specification,As specification,"50,000/item",,09090-11161
+210.0,Network Analyzer,As specification,As specification,"67,500/item",,09090-11162
+211.0,Synthesizer Signal Generator /Synthesized Sweeper,Up to 18 GHz,As specification,"8,000 to 22,500/item",,09090-11163
+212.0,Function Generator,As specification up to 200 MHz,As specification,"10,000/item",,09090-11164
+213.0,RF Signal Generator,As specification,As specification,"22,500/item
+33,750/item","Excluded AM, FM and phase modulation.
+Included AM and FM modulation",09090-11170
+214.0,Scalar Reflection Coefficient,40 kHz to 18 GHz,As specification,"15,000/ item",Magnitude,09090-11210
+215.0,RF Voltmeter,10 MHz to 1 GHz,0.004,"11,250/item",Comparison with TVC standard,09090-11172
+216.0,RF Voltage Source,As specification,As specification,"13,500/item",,09090-11173
+217.0,Directional Coupler/ power splitter,100 kHz to 18 GHz,As Specification,"15,000/ item",Magnitude,09090-11250
+218.0,Directional Coupler/ power splitter,10 MHz to 18 GHz,As Specification,"18,000/item",Vectors,09090-11350
+219.0,Audio Analyzer,As specification,As specification,"17,500 to 27,500 /item",direct measurement,09090-09321
+220.0,Measuring Receiver,As specification,As specification,"30,000 to 40000 /Item",direct measurement,09090-09322
+221.0,Audio Filter,As specification,As specification,"2,500/Freq.point",direct measurement,09090-09323
+222.0,Eddy current crack detector ,As specification,As specification,"15,000 /item",direct measurement,09090-09324
+223.0,Pulse and sine wave generator,"Frequency Range : 9 kHz
+to 1 GHz",As specification,"50,000/item","Direct measurement
+method with sampling
+method",09090-11611
+224.0,Other of RF Microwave Equipment,As specification,As specification,As Cost,,09090-11171
+225.0,THD Meter,As specification,As specification,"12,500/Item",,09090-11175
+226.0,Range Calibrator,As specification,As specification,"10,000/Item",,09090-11176
+227.0,Audio Power Amplifer,As specification,As Specification,"3,500/Freq.Point",Voltage Ratio method,09090-05131
+228.0,Total Radiated Power (TRP)/ mmWAVE antenna,24 GHz to 40 GHz,?1.4 dB,"20,000/item",Indect Far-field (IFF),09090-11531
+229.0,Antenna Factor (AF)/ Horn antenna,1 GHz to 18 GHz,?1.6 dB,"45,000/item",Standard Site Method (SSM),09090-11511
+230.0,Amplifier/ Noise figure,10MHz to 18GHz,0.21  dB to 0.44 dB,"22,000/Item",Direct measurement ,09090-11431
+231.0,"Onsite- 
+Normalized Site Attenuation (NSA)/ Anechoic Chamber",30 MHz to 1 GHz,?1.2 dB,"71,600/item",ref. CISPR 16-1-4 or equivalent,09090-10311
+232.0,"Onsite-
+Site VSWR/ Anechoic Chamber",1 GHz to 18 GHz,?2.6 dB,"71,600/item",ref. CISPR 16-1-4 or equivalent,09090-10312
+233.0,"Onsite-
+Shielding effectivenesss (SE)/ Commercial Chamber",10 kHz to 18 GHz,?2.9 dB,"35,800/item",ref. IEEE std 299-2006,09090-10313
+234.0,Standard Optical Power Meter,"1 mW to 20 mW @ 488 nm,515 nm 50 uW to 20 mW @ 633 nm. 10 uW to 3 mW @ 1310 nm Band 10 uW to 10 mW @ 1550 nm Band",> 0.5 %,"9,380 first point +  3,500 next point","Applied direct comparison method with 
+standard calorimeter.",09100-12400
+235.0,Optical Power Meter,"1 mW to 20 mW @ 488nm,515nm 50 uW to 20 mW @ 633 nm 10 uW to 3 mW @ 1310 nm Band 10 uW to 10 mW @ 1550 nm Band 50 uW to 20 mW @ 633 nm 10 uW to 3 mW @ 1310 nm Band 10 uW to 10 mW @ 1550 nm Band",> 0.7 %,"5,500 first point + 1,750 next point","Applied direct comparison method with 
+standard power meter.",09100-12401
+236.0,Optical Power Meter,100 mW to 10 W @10600 nm,? 2 %,"7,500 first point+2,500 next point",Substitutional Method monitor or beam splitter method,09100-12402
+237.0,Laser Energy Meter,"1mJ to 100 mJ @ 532 nm, 1064 nm",? 2.4 %,"7,500 first point+2,500 next point",Substitutional Method monitor or beam splitter method,09100-12403
+238.0,Average pulse power for laser energy meter,"10 mW to 1 W @ 532 nm, 1064 nm",? 2.4 %,"7,500 first point+2,500 next point",Substitutional Method monitor or beam splitter method,09100-12404
+239.0,Variable Optical Attenuator,"0 dB to 24 dB @ 1310 nm Band
+0 dB to 24 dB @ 1550 nm Band
+0 dB to 24 dB @ 1625 nm Band",0.05 dB,"10,000/item",Follow the standard procedure in IEC 61300-3-14:2014-Error and repeatability of the attenuation setting of a variable optical attenuator,09100-12408
+240.0,High Power Laser Meter,"Power range: 150 W to 1 kW
+Wavelength: 1080 nm",0.02,"12,500 first point + next point 5,000",Substitutional Method monitor or beam splitter method,09100-12409
+241.0,CO2 Medical Laser,10 mW to 30 W @10600 nm,? 2.4 %,"5,000 first point+2,500 next point",Direct Measurement Method with Reference laser power meter,09100-32405
+242.0,Nd-YAG Medical Laser,"1 mJ to 100 mJ @532, 1064 nm",? 2.4 %,"5,000 first point+2,500 next point",Direct Measurement Method with Reference laser energy meter,09100-32406
+243.0,Nd-YAG Medical Laser,"10 mW to 1 W @532, 1064 nm",? 2.4 %,"5,000 first point+2,500 next point",Direct Measurement Method with Reference laser energy meter,09100-32407
+244.0,Fiber Optic Power Meter,"100 ?W to 1 mW @1310 nm Band
+100 ?W to 1 mW @1490 nm Band
+100 ?W to 1 mW @1550 nm Band
+100 ?W to 1 mW @1625 nm Band",? 0.6 %,"5,000 first point+2,500 next point","Comparison method 
+(Compared with reference standard)",09100-32408
+245.0,DC magnetic flux density /,0.1 mT < B £ 5 mT,8 mT/T,"9,000/item",Compared with the standard,09070-11020
+246.0,DC magnetic flux density / ,0.1 mT/A < B £ 5 mT/A,5 mT/T,"9,000 first point + next point 630",Compared with the standard,09070-11021
+247.0,DC magnetic flux density /,0.1 mT < B £ 5 mT,8 mT/T,"9,000 first point +next point 630",Compared with the standard,09070-11022
+248.0,#NAME?,"1 MHz, 5 MHz,  ",£ 1 x 10-13,"21,600/item",Phase Comparison,09080-10221
+249.0,"Frequency Counter, Timer Counter",Up to 1 GHz,1 x 10-12 to 1 x 10-9,"7,200/item",Direct measurement ,09080-10231
+250.0,Frequency Meter,10 kHz to 225 MHz,3 x 10-13 to 5 x 10-10,"7,200/item",Direct measurement ,09080-10232
+251.0,Digital Tachometer,As specification,As specification,"7,000/item",Direct measurement method by the light in LED,09080-10322
+252.0,Stopwatch,As specification,As specification,"2,250/item",,09080-10331
+253.0,Lidar Speed Meter (Lidar Gun),"60 km/h,80 km/h, 100 km/h and 120 km/h",0.58 km/h,"15,000/item",Compare with Reference Speed Generator,09120-00001
+254.0,"Standard Frequency Source for  Remote 
+Frequncy Standard","1 MHz, 5 MHz, 10 MHz",£ 1 x 10-13,"21,600/item",GPS Common view,09080-30212
+255.0,Energy meter (Three phase),"Active Energy: 11.25 Ws to 259,200,000 Ws  Voltage: 25 V to 600 V Current: 0.005 A to 120 A PF:1 to 0.5, (inductive or capacitive) Frequency: 45 Hz to 65 Hz Time : 60 s to 1200 s Temperature 0°C to +46°C Relative humidity 15 % to 85 %",0.11×10-2 Ws/Ws  to  0.50×10-2 Ws/Ws ,5000 (2 points) / item,Pulse  comparison during onsite and onload conditions  ,09050-30712
+2578.0,S-parameter / passive device,9 kHz to 18 GHz,0.01-0.03,"5,000-20,000 / item",Direct method by VNA,09090-11311
+2579.0,Antenna Factor / Biconical or Log-periodic Antenna,30 MHz to 1 GHz,1.6 dB,"45,000 / item",RAM,09090-11512
+2580.0,Antenna Factor / Passive Loop Antenna,9 kHz to 30 MHz,1.1 dB,"45,000 / item",Magnetic Field Method,09090-11513
+2581.0,DC Voltmeter,"-10 mV to 10 mV
+-100 mV to 100 mV
+-1 V to 1 V
+-10 V to 10 V","to 174 ?V/V
+1.8 ?V/V to 18 ?V/V
+0.18 ?V/V to 1.8 ?V/V
+0.02 ?V/V to 0.20 ?V/V","15,000/range
++ 7}500/next range",Direct comparison with conventional Josephson voltage standard (Uncertainty depends on noise of Unit Under Calibration),09010-10113
+2582.0,DC Voltage Standard,"0.1 V
+1 V / 1.018 V
+10 V","0.6 ?V/V 
+0.03 ?V/V 
+0.01 ?V/V ","40,000/2 points
++8,000/next point",Compared against programmable Josephson voltage standard (Uncertainty depends on noise of Unit Under Calibration),09010-10114
+2583.0,Single phase energy meter with pulse output,"Active Energy: 15 Ws to 2,880,000 Ws
+Voltage: 60 V to 480 V
+Current : 0.05 A to 100 A
+PF: 1 to 0.5 (inductive) and 1 to 0.8 (capacitive)
+Frequency : 45 Hz to 65 Hz
+Time : 10 s to 60 s",52 ?Ws/Ws,"7,500 THB 
+to 32,500 THB / Channel",Comparison measurement,09050-10758
+2584.0,Single phase energy meter with pulse output,"Voltage: 60 V to 480 V
+Current : 0.05 A to 100 A
+QF: 1(inductive) to 0.5 (inductive) and 1(inductive) to 0.8 (capacitive)
+Frequency : 45 Hz to 65 Hz
+Time : 10 s to 60 s",52 ?vars/vars,"7,500 THB 
+to 32,500 THB/Channel",Comparison measurement,09050-10759
+2585.0,Three phase energy meter with pulse output,"Active Energy:  45 Ws to 8,640,000  Ws
+Voltage: 60 V to 480 V
+Current : 0.05 A to 100 A
+PF: 1 to 0.5 (inductive) and 1 to 0.8 (capacitive)
+Frequency : 45 Hz to 65 Hz
+Time : 10 s to 60 s",52 ?Ws/Ws,"20,000 THB  
+to 86,750 THB ",Comparison measurement,09050-10760
+2586.0,Three phase energy meter with pulse output,"Reactive Energy: 45 vars to 8,640,000 vars
+Voltage: 60 V to 480 V
+Current : 0.05 A to 100 A
+QF: 1(inductive) to 0.5 (inductive) and 1 (inductive) to 0.8 (capacitive)
+Frequency : 45 Hz to 65 Hz
+Time : 10 s to 60 s",52 ?vars/vars,"20,000 THB  
+to 86,750 THB ",Comparison measurement,09050-10761
+2587.0,Single-Mode Fiber Length,"200 m to ? 2000 m @ 1310 nm, 1550 nm",? 0.062 m,"18,000 first point 
++ 5,000 next point",Follow the standard procedure in IEC 61746-1:2009 Annex A,09100-12410
+2588.0,Single-Mode Fiber Spectral Attenuation,30 dB @ 1200 nm to 1700 nm,? 0.012 dB,"18,000 first point 
++ 5,000 next point",Follow the standard procedure in IEC 60793-1-40 Annex A:Cut-back technique,09100-12411
+2589.0,Single-Mode Fiber Attenuation Coefficient Uniformity,"0 dB/km to 10 dB/km @ 1310 nm, 1550 nm",? 0.002 dB/km,"19,750 first point 
++ 7,500 next point","Follow the standard procedure in IEC 60793-1-40 Annex C:Backscattering technique, IEC TR 62316:Bi-Directional trace, Attenuation uniformity",09100-12412
+2590.0,Single-Mode Fiber Reflectance,"-20 dB to -35 dB @ 1310 nm, 1550 nm",? 0.42 dB,"18,500 first point 
++ 6,250 next point",Follow the standard procedure in IEC 61746-1:Annex G.3,09100-12413

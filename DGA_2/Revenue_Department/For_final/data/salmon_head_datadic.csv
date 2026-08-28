@@ -1,0 +1,11 @@
+﻿ตาราง : สถิติการรับแบบ (rcv_statistic_for_dga306),Unnamed: 1,Unnamed: 2
+ชื่อฟิลด์,ประเภทข้อมูล,คำอธิบาย
+rcv_source,varchar,ช่องทางการยื่นแบบ
+rcv_year,varchar,ปีที่ยื่นแบบ
+rcv_month,varchar,เดือนที่ยื่นแบบ
+tax_type,varchar,ประเภทภาษี
+form_code,varchar,รหัสแบบ
+office_code,varchar,รหัสสำนักงานที่รับแบบ
+total_payer,int,จำนวนผู้ยื่นแบบ
+total_form,int,จำนวนแบบ
+total_amt,float,จำนวนเงินที่รับชำระ

@@ -1,0 +1,641 @@
+﻿ลำดับ (Item No.),รายการเครื่องมือวัด (Description),ช่วงการวัด (Range),ความสามารถในการวัดและสอบเทียบ (CMC / Uncertainty),ราคาค่าธรรมเนียม (Price - THB),หมายเหตุ (Remark),รหัสบริการ (Service Code)
+1.0,Piston pipette ,20 mL to 10 mL,0.04 mL ,"4,000 three point + 500 next point",,12032-10201
+2.0,Volumetric apparatus,1 mL to 2000 mL,Class A,"2,500 two point + 500 next point","volumetric flask, pipette, burette, pycnometer",12032-10203
+3.0,recalibrate of referene material for calibration UV/VIS spectrophotometer (Photometric accuracy),20 to 100 mg/kg,0.003 A,"7,500/set",potassium dichromate solution,12032-10301
+4.0,recalibrate of referene material for calibration UV/VIS spectrophotometer (stray light),190 - 280 nm,0.12 nm ,"6,500/set",,12032-10306
+5.0,pH meter with associated electrode,1 - 12 pH,0.01 pH ,"4,000/set (3 point + 500 next point)",,12031-10101
+6.0,Oxygen  Analyzer,0.001 -30 cmol/mol,? 1.0%,"11,500/item",3-point calibration,12053-10101
+7.0,Oxygen Detector,18 - 23 cmol/mol,? 1.0%,"3,000/item ",1-point calibration,12052-10102
+8.0,Carbon Dioxide Analyzer,0.005-20 cmol/mol,? 1.0%,"11,500/item",3-point calibration,12053-10201
+9.0,Carbon Dioxide Detector,0.005-20 cmol/mol,? 1.0%,"3,000/item ",1-point calibration,12052-10202
+10.0,Methane  Analyzer,0.005-20 cmol/mol,? 1.0%,"11,500/item",3-point calibration,12053-10301
+11.0,Methane Detector,"2.2 -2.5 cmol/mol 
+",? 1.0%,"3,000/item ",1-point calibration,12052-10302
+12.0,Carbon Monoxide  Analyzer,50 - 65000 µmol/mol,? 1.0%,"11,750/item",3-point calibration,12053-10401
+13.0,Carbon Monoxide Detector,50 - 65000 µmol/mol,? 1.0%,"3,000/item ",1-point calibration,12052-10402
+14.0,Sulfur Dioxide Analyzer,"30 - 5,000 umol/mol",? 1.0%,"14,500/Item",3-point calibration,12051-10501
+15.0,Propane Detector,0.85 cmol/mol,? 1.0%,"3,000/item ",1-point calibration,12051-10601
+16.0,Nitrogen Monoxide Analyzer,"30 - 5,000 umol/mol",? 1.0%,"14,500/Item",3-point calibration,12051-10701
+17.0,Nitrogen Dioxide Analyzer,"30 - 3,000 umol/mol",? 1.5%,"14,500/Item",3-point calibration,12050-11701
+18.0,Iso-butane Detector,"0.75 cmol/mol 
+",? 1.0%,"3,000/item ",1-point calibration,12051-11201
+19.0,"Multi Gas Detectors for Carbon Monoxide, Methane, Oxygen and Hydrogen Sulfide","CO:     100 µmol/mol 
+CH4:   2.2 cmol/mol
+O2 :   18 cmol/mol
+H2S:   25 µmol/mol",? 1.0%,"6,000/item ",1-point calibration,12051-11301
+20.0,Ammonia Detector,50 µmol/mol,? 1.0%,"3,000/item ",1-point calibration,12051-11401
+21.0,Ozone Analyzer,0 - 1000 nmol/mol,As specification,"10,500/item ",4-point calibration including zero point,12050-15201
+22.0,Ozone Transfer Standard,"0 - 1,000  nmol/mol",2.3% relative,"55,000/Item",EPA: multipoint calibration (min 7-point),12050-15202
+23.0,Pork DNA solution,1.2 x 105 copies/µL,1.3 x 104 copies/µL,5000,,12042-20104
+24.0,MON810 plasmid DNA,1.04 copy number ratio,0.061 copy number ratio,12500,,12042-20101
+25.0,TRM-enzyme a-amylase ,382.8-457.2 U/L,37.2 U/L,12500,,12042-20105
+26.0,Beef DNA solution,1.0 x 105 copies/µL,1.3 x 104 copies/µL,5000,,12042-20107
+27.0,Blank papaya DNA solution,1.8 x 104 copies/µL,2.3 x 103 copies/µL,5000,,12042-20110
+28.0,Roundup ready plasmid DNA,1.09 copy number ratio,0.18 copy number ratio,"12,500",,12042-20114
+29.0,Bt63-Rice plasmid DNA,2.3 x 104 copies/µL,4.7 x 103 copies/µL,"12,500",,12042-20115
+30.0,Papaya line 55-1 plasmid DNA,8.8 x 10^5 copies/µL,1.8 x10^5 copies/µL,12500,,12042-20116
+31.0,Beef DNA Solution (Processed food),1.3 x 105 copies/µL,1.4 x 104 copies/µL,5000,,12042-20119
+32.0,%Pork in beef DNA solution (Processed food),1.37%  cp/cp,0.19% cp/cp,"5,000",,12042-20120
+33.0,LLrice62 Rice-Plasmid DNA,1.2x 105 copies/µL,2.8 x 104 copies/µL,12500,,12042-20124
+34.0,Pork DNA solution (processed food),1x105 copies/µL,1x104 copies/µL,5000,,12042-20125
+35.0,ASFV in tissue homogenate,358 copies/µL,128 copies/µL,12500,,12042-20126
+36.0,Set of ASFV in tissue homogenate,5-1500 copies/µL,,"12,500/set",,12042-20127
+37.0,MON89788 plasmid DNA,2.5 x 105 copies/µL,4.7 x 104 copies/µL,12500,,12042-20128
+38.0,Goat DNA Solution,8.8 ×104 copies/µL,1.4 ×104 copies/µL,"5,000",,12042-20129
+39.0,LLrice601 Rice-Plasmid DNA,1.2x 105 copies/µL,2.6 x 104 copies/µL,12500,,12042-20130
+40.0,Chicken DNA Solution,2.5 × 105 copies/µL,3.1 × 104 copies/µL,"5,000",,12042-20134
+41.0,Papaya Huanong1 Plasmid DNA,1.9 × 105 copies/µL,2.0 ×104 copies/µL,"12,500",,12042-20135
+42.0,CaMV35S Plasmid DNA,1.2 × 104  copies/µL,1.8 × 103  copies/µL,"12,500",,12042-20136
+43.0,Sheep DNA solution,1.1 × 105  copies/µL,1.7 × 104  copies/µL,"5,000",,12042-20141
+44.0,Secondary pH standard (tetroxalate) ,1.66-1.70 pH,0.006 pH,"8,000/set  (5 x 100 mL)",Differential cell method,12032-20109
+45.0,Secondary pH standard (tetroxalate) ,1.66-1.70 pH,0.006 pH,"1,700/100 mL",Differential cell method,12032-20110
+46.0,Secondary pH standard (Phthalate) ,3.990 - 4.020 pH,0.006 pH,"8,000/set  (5 x 100 mL)",Differential cell method,12032-20101
+47.0,Secondary pH standard (Phthalate) ,3.990 - 4.020 pH,0.006 pH,"1,700/100 mL",Differential cell method,12032-20105
+48.0,Secondary pH standard  (Equipmolal phosphate),6.850 - 6.880 pH,0.006 pH,"8,000/set  (5 x 100 mL)",Differential cell method,12032-20102
+49.0,Secondary pH standard  (Equipmolal phosphate),6.850 - 6.880 pH,0.006 pH,"1,700/100 mL",Differential cell method,12032-20106
+50.0,Secondary pH standard (Tetraborate),9.17 - 9.20 pH,0.007 pH,"8,000/set  (5 x 100 mL)",Differential cell method,12032-20103
+51.0,Secondary pH standard (Tetraborate),9.17 - 9.20 pH,0.007 pH,"1,700/100 mL",Differential cell method,12032-20107
+52.0,Secondary pH standard (Carbonate),9.99 - 10.02 pH,0.006 pH,"8,000/set  (5 x 100 mL)",Differential cell method,12032-20104
+53.0,Secondary pH standard (Carbonate),9.99 - 10.02 pH,0.006 pH,"1,700/100 mL",Differential cell method,12032-20108
+54.0,Primary Phthalate buffer solution,3.990 - 4.020 pH,0.005 pH,"15,000/500 mL",,12031-20109
+55.0,Primary Phosphate buffer solution ,6.85 - 6.88 pH,0.005 pH,"15,000/500 mL",,12031-20110
+56.0,Primary Borate buffer solution,9.16 - 9.20 pH,0.005 pH,"15,000/500 mL",,12031-20111
+57.0,Working pH standard (Phthalate) ,3.99 - 4.02 pH,0.01 pH,"1,000/500 mL",,12031-20121
+58.0,Working pH standard (Equipmolal phosphate),6.85 - 6.88 pH,0.01 pH,"1,000/500 mL",,12031-20122
+59.0,Working pH standard (Tetraborate),9.17 - 9.20 pH,0.01 pH,"1,000/500 mL",,12031-20123
+60.0,Primary Carbonate buffer solution,9.990 - 10.020 pH,0.006 pH,"15,000/500 mL",,12031-20120
+61.0,Working pH standard (Carbonate),9.99 - 10.02 pH,0.01 pH,"1,000/500 mL",,12031-20124
+62.0,Working pH standard (0.01 N Hydrochloric acid),1.08 - 1.12 pH,0.02 pH,"1,000/500 mL",,12031-20126
+63.0,Working pH standard (Tetroxalate),1.66 - 1.70 pH,0.01 pH,"1,000/500 mL",,12031-20127
+64.0,Working pH standard (phosphate),6.99 - 7.03 pH,0.01 pH,"1,000/500 mL",,12031-20125
+65.0,Working pH standard (alkaline phosphate),11.70 - 11.74 pH,0.01 pH,"1,000/500 mL",,12031-20128
+66.0,Potassium Dichromate Solution 1 concentration,"20, 40, 60, 80 and 100 mg/kg (each set choose from the concentrations above)",0.01 A,"22,600/set",,12031-20205
+67.0,Potassium Dichromate Solution  2 concentrations,"20, 40, 60, 80 and 100 mg/kg (each set choose from the concentrations above)",0.01 A,"27,700/set",,12031-20204
+68.0,Potassium Dichromate Solution 3 concentrations ,"20, 40, 60, 80 and 100 mg/kg (each set choose from the concentrations above)",0.01 A,"32,800/set",,12031-20203
+69.0,Potassium Dichromate Solution 4 concentrations,"20, 40, 60, 80 and 100 mg/kg (each set choose from the concentrations above)",0.01 A,"38,000/set",,12031-20202
+70.0,Potassium Dichromate Solution 5 concentration,"20, 40, 60, 80 and 100 mg/kg (each set choose from the concentrations above)",0.01 A,"43,000/set",,12031-20201
+71.0,Potassium Iodide Standard Solution,10 g/L,0.5 nm ,"20,000/set",,12031-20206
+72.0,Zinc standard solution,"10,000 ppm",1% relative,"1,250/100 ml",,12031-20301
+73.0,Cadmium standard solution ,"10,000 ppm",1% relative,"1,250/100 ml",,12031-20302
+74.0,Chloride standard solution ,100 ppm,1% relative,"1,250/100 ml",,12031-20401
+75.0,Sodium standard solution ,100 ppm,1% relative,"1,250/100 ml",,12031-20501
+76.0,Arsenic standard solution ,1000 ppm,0.2% rlative,"2,000/100 ml",,12031-20303
+77.0,pH of ethanol ,6.0 - 8.0 pH,0.5 pH,"2,500 / bottle",,12031-20701
+78.0,electrolytic conductivity of ethanol ,0.1-1 uS/cm,5%relative,"2,500/bottle",capacity 50 ml,12031-20702
+79.0,Water content in Ethanol,0.1 - 1.0 mg/g,5% relative,"3,000/5 ampoule",,12031-20703
+80.0,Secondary electrolytic conductivity solution (0.1 mol/l KCl) ,12.88 mS/cm,0.5% relative,"5,000/250 ml",,12031-20601
+81.0,Secondary electrolytic conductivity solution (0.01mol/l KCl) ,1413 mS/cm,0.5% relative,"5,000/250 ml",,12031-20602
+82.0,Secondary electrolytic conductivity solution (0.001mol/l KCl) ,147 mS/cm,0.8% relative,"5,000/250 ml",,12031–20603
+83.0,Secondary electrolytic conductivity solutionn (Nominal 84 µS/cm),84 mS/cm,1% relative,"5,000/250 ml",,12031–20604
+84.0,Secondary electrolytic conductivity standard solution (nominall 50 mS/cm),50 mS/cm,1% relative,"5,000/250 ml",,12031-20605
+85.0,Secondary electrolytic conductivity solution (nominal 25 µS/cm),25 µS/cm,1% relative,"5,000 /250 ml",,12031-20608
+86.0,Secondary electrolytic conductivity solution (nominal 10 mS/cm),10 mS/cm,2.2 % relative,"2,500/125 ml",,12031-20612
+87.0,Secondary electrolytic conductivity solution  (1 mol/L KCl) ,111.3 mS/cm,0.5 %relative,"5,000/250 ml",,12031-20613
+88.0,Working electrolytic conductivity standard solution (1 mol/L KCl),111.3 mS/cm,0.7% relative,"3,000/250 mL",,12031-20616
+89.0,Working electrolytic conductivity solution (0.1 mol/l KCl) ,12.88 mS/cm,1.5 %relative,"3,000/250 ml",,12031-20606
+90.0,Working electrolytic conductivity solution (0.01 mol/l KCl) ,1413 mS/cm,1.5 %relative,"3,000/250 ml",,12031-20607
+91.0,working electrolytic conductivity standard solution (0.001 mol/l KCl),147 µS/cm,1.5% relative,"2,500/ 250 ml",,12031-20609
+92.0,working electrolytic conductivity standard solution (Nominal 84 µS/cm),84 µS/cm,2% relative,"2,500/ 250 ml",,12031-20610
+93.0,Working electrolytic conductivity standard solution (Nominal 50 µS/cm),50 µS/cm,2% relative,"2,500/ 250 ml",,12031-20611
+94.0,Working electrolytic conductivity standard solution (nominal 25 µS/cm) ,25 mS/cm,2% relative,"2,500/250 ml",,12031-20614
+95.0,Secondary electrolytic conductivity solution (Nominal 5 µS/cm),5 µS/cm,2.5% relative ,"2,500/250 ml",,12031-20615
+96.0,Working electrolytic conductivity standard solution (Nominal 10 uS/cm ),10  mS/cm,5% relative,"1,300/125 mL",,12031-20617
+97.0,Nitrate standard solution,100 mg/kg,1% relative,"1,500 / bottle",,12031-20402
+98.0,Fluoride standard solution,1000 mg/kg,1% relative,"1,500 / bottle",,12031-20403
+99.0,sulfate standard solution,1000 mg/kg,3%relative,"1,250/100 mL",,12031-20404
+100.0,Bromide standard solution,"900-1,200 mg/kg",5% relative,"1,250/125 mL",,12031-20405
+101.0,Magnesium standard solution,"900-1,200 mg/kg",3% relative,"1,250/125 mL",,12031-20502
+102.0,5% Brix Sucrose Standard Solution ,"5.00 % Brix, 1.34026 nD","0.01 % Brix, 0.00007 nD","3,600/15 mL",,12012-20201
+103.0,10% Brix Sucrose Standard Solution,"10.00 % Brix, 1.34782 nD","0.01 % Brix, 0.00007 nD","3,600/15 mL",,12011-20202
+104.0,20% Brix Sucrose Standard Solution,"20.00 % Brix, 1.36384 nD","0.01 % Brix, 0.00007 nD","3,600/15 mL",,12011-20203
+105.0,30% Brix Sucrose Standard Solution ,"30.00 % Brix, 1.38115 nD","0.01 % Brix, 0.00007 nD","3,600/15 mL",,12011-20204
+106.0,50% Brix Sucrose Standard Solution,"50.00 % Brix, 1.42006 nD","0.01 % Brix, 0.00008 nD","3,600/15 mL",,12011-20205
+107.0,60% Brix Sucrose Standard Solution ,"60.00 % Brix, 1.44190 nD","0.01 % Brix, 0.00007 nD","3,600/15 mL",,12011-20206
+108.0,Benzene in methanol ,"1,000 mg/L",1.4 % relative,"4,750/8 mL",,12011-20207
+109.0,Ethylbenzene in methanol ,"1,000 mg/L",1.1 % relative,"4,750/8 mL",,12011-20208
+110.0,Toluene in methanol ,"1,000 mg/L",1.4 % relative,"4,750/8 mL",,12011-20209
+111.0,o-xylene in methanol ,"1,000 mg/L",2.2 % relative,"4,750/8 mL",,12011-20210
+112.0,m-xylene in methanol ,"1,000 mg/L",1.0 % relative,"4,750/8 mL",,12011-20211
+113.0,p-xylene in methanol ,"1,000 mg/L",1.3% relative,"4,750/8 mL",,12011-20212
+114.0,Organochlorine Pesticide Mix set 1,100 mg/kg,3% relative,"11,600/1.1 mL",,12011-20213
+115.0,Organophosphate Pesticide Mix set 1,100 mg/kg,5% relative,"7,700/1.1 mL",,12011-20214
+116.0,Organophosphate Pesticide Mix set 2,100 mg/kg,3% relative,"13,300/1.1 mL",,12011-20215
+117.0,Acaricide Pesticide Mix set 1,100 mg/kg,3% relative,"7,000/1.1 mL",,12011-20216
+118.0,Carbamate Pesticide Mix set 1,100 mg/kg,3% relative,"8,100/1.1 mL",,12011-20217
+119.0,Pyrethroid Pesticide Mix set 1 ,100 mg/kg,2 % relative ,"11,000/1.1 mL",,12011-20218
+120.0,Organophosphate Pesticide Mix set 3,100 mg/kg,4% relative,"14,500/1.1 mL",,12011-20219
+121.0,Organophosphate Pesticide Mix set 4,100 mg/kg,4% relative,"11,000/1.1 mL",,12011-20220
+122.0,Organochlorine Pesticide Mix set 2,100 mg/kg,2% relative,"16,000/1.1 mL",,12011-20221
+123.0,Pyrethroid Pesticide Mix set 2,100 mg/kg,3 % relative ,"10,000/1.1 mL",,12011-20222
+124.0,Organophosphate Pesticide Mix set 5,100 mg/kg,3% relative,"12,100/1.1 mL",,12011-20223
+125.0,Acaricide Pesticide Mix set 2,100 mg/kg,2 % relative ,"14,000/1.1 mL",,12011-20224
+126.0,0.01% Brix Sucrose Standard Solution ,0.01%,2.0% relative,"3,700/ 15mL",,12011-20226
+127.0,0.02% Brix Sucrose Standard Solution,0.02%,1.4% relative,"3,700/ 15mL",,12011-20227
+128.0,0.03% Brix Sucrose Standard Solution ,0.03%,0.5% relative,"3,700/ 15mL",,12011-20228
+129.0,0.04% Brix Sucrose Standard Solution,0.04%,0.6% relative,"3,700/ 15mL",,12011-20229
+130.0,0.05% Brix Sucrose Standard Solution ,0.05%,0.8% relative,"3,700/ 15mL",,12011-20230
+131.0,40% Brix Sucrose Standard Solution ,"40.00% Brix, 1.39986 nD","0.01 %Brix, 0.00007 nD","3,600/ 15mL",,12011-20231
+132.0,Sucrose Standard for Optical Measurements,"Purity  997.4 mg/g
+
+Cell length 100 mm
+Polarization at 546 nm: 99.96 (°Z)  
+Optical rotation at 546 nm: 20.38 (degrees)
+Specific rotation at 546 nm: 78.34
+Polarization at 589 nm: 99.95 (°Z)
+Optical rotation at 589 nm:17.31 (degrees)
+Specific rotation at 589 nm: 66.52
+
+Cell length 200 mm   
+Polarization at 546 nm: 99.94 (°Z)
+Optical rotation at 546: 40.75 (degrees)
+Specific rotation at 546: 99.94
+Polarization at 589 nm: 99.89 (°Z)
+Optical rotation at 589 nm: 34.59 (degrees)
+Specific rotation at 589 nm: 66.47","1.1 mg/g
+
+0.62 (ºZ)
+0.13 (degrees)
+0.49
+
+
+0.62 (ºZ)
+0.13 (degrees)
+0.49
+0.60 (ºZ)
+0.11 (degrees)
+0.43
+
+
+0.62 (ºZ)
+0.25 (degrees)
+0.49
+0.61 (ºZ)
+0.21 (degrees)
+0.42","6,000/bag",,12011-20101
+133.0,Ethanol-Water Standard Solution (0.45 mg/g),0.45 mg/g,1% Relative,"1,000/bottle",,12011-20233
+134.0,Ethanol-Water Standard Solution (0.55 mg/g),0.55 mg/g,1% Relative,"1,000/bottle",,12011-20234
+135.0,Ethanol-Water Standard Solution (1.0 mg/g),1.00 mg/g,1% Relative,"1,000/bottle",,12011-20235
+136.0,Aflatoxin B1 Standard Solution,2.74 µg/g,4% relative,"3,000/bottle",,12011-20236
+137.0,Aflatoxin B2 Standard Solution,2.72 µg/g,8% relative,"3,000/bottle",,12011-20237
+138.0,Aflatoxin G1 Standard Solution,2.87 ?g/g,6 % relative,"3,000/bottle",,12011-20238
+139.0,Aflatoxin G2 Standard Solution,2.69 ?g/g,7 % relative,"3,000/bottle",,12011-20239
+140.0,Sodium Chloride Standard Solution,"0.30  g/100g, 
+5.84 g/100 g,
+12.50 g/100 g",2% relative,"1,500/bottle",,12011-20240
+141.0,High purity pinostrobin standard ,999.5 mg/g ,1% relative,"10,000/bottle ",50 mg,12011-20241
+142.0,Pesticide Standard Solution (Custom-made),100mg/kg,2.5% relative,"10,000-60,000/5 ampoules x1mL",,12011-20242
+143.0,Sucrose Standard Solution (Custom-made),5-60% brix,0.01% brix,"3,700/15 mL",,12011-20243
+144.0,Ethanol standard ,939.9 mg/g,0.6 % relative,"1,000/ampoule",15 mL,12011-20244
+145.0,Impurities in ethanol,"water content: 59.81 mg/g
+","1% relative
+
+",800/bottle,150 mL,12011-20245
+146.0,BTEX mixture in Methanol,Benzene: 977 ug/g,6% relative,"8,000/ ampoule",,12011-20246
+147.0,High purity andrographolide standard ,994.0 mg/g,0.5% relative,"5,000/bottle ",50 mg,12011-20247
+148.0,High purity panduratin A standard ,991.8 mg/g,0.6% relative,"20,000/bottle ",10 mg,12011-20248
+149.0,High purity alpha-mangostin standard ,920.7 mg/g,0.8 %relative,"15,000/bottle",50 mg,12011-20254
+150.0,High purity mitragynine standard ,980.4 mg/g,0.4 %relative,"10,000/bottle",10 mg,12011-20255
+151.0,High purity [6]-gingerol standard ,972.8 mg/g,0.9 %relative,"5,000/bottle",25 mg,12011-20256
+152.0,Platinum electrode for pH measurement,,,,For differential cell and Harned cell method,12031-20801
+153.0,Pure pork meat,1000 g/kg,,3500,,12042-20102
+154.0,Pure beef meat,>998.8 g/kg,,3500,,12042-20103
+155.0,Blank soybean GTS 40-3-2 matrix,<0.2 g/kg,,3500,,12042-20106
+156.0,1% Pork in beef matrix,10 g/kg,2.20 g/kg,3500,,12042-20108
+157.0,10% Pork in beef matrix,100 g/kg,11 g/kg,3500,,12042-20109
+158.0,Blank meatball matrix,1 000g/kg,,3500,,12042-20111
+159.0,0.1% Pork in beef matrix,1 g/kg,0.33 g/kg,3500,,12042-20112
+160.0,1% beef in feed matrix,10 g/kg,0.1 g/kg,3500,,12042-20113
+161.0,1 % Pork in meatball matrix,10.1 g/kg,1.1  g/kg,3500,,12042-20118
+162.0,0.1% (w/w) beef in feed,1 g/kg,0.15 g/kg,3500,,12042-20117
+163.0,Pure pork meat (processed food) ,"1,000 g/kg",,"3,500/sample",,12042-20121
+164.0,Pure Beef meat (processed food),"1,000 g/kg",,"3,500/sample",,12042-20122
+165.0,1% (w/w) pork in beef matrix (process food) ,10g/kg,2g/kg,"3,500/sample",,12042-20123
+166.0,7% (w/w) pork in beef matrix (process food) ,70g/kg,5g/kg,"3,500/sample",,12042-20124
+167.0,Pure chicken meat,"1,000 g/kg",,3500,,12042-20131
+168.0,Pure Goat meat,"1,000 g/kg",,3500,,12042-20132
+169.0,"Curcuminoids in turmeric powder:
+Curcumin
+DMC
+BDMC","30.2 mg/g
+11.8 mg/g
+11.6 mg/g","6.4 mg/g
+0.6 mg/g
+2.0 mg/g",4000,,12042-20133
+170.0,Pure sheep meat,"1,000 g/kg",,3500,,12042-20137
+171.0,0.1% (w/w) Pork in plant based,1 g/kg,0.05 g/kg,3500,,12042-20138
+172.0,0.1% (w/w) Beef in plant based,1 g/kg,0.06 g/kg,3500,,12042-20139
+173.0,0.1% (w/w) Chicken in plant based,1 g/kg,0.06 g/kg,3500,,12042-20140
+174.0,Trace and Essential Elements in Prawn »ÃÔÁÒ³¸ÒµØã¹¡Øé§,see certificate â»Ã´´ÙÃÒÂÅÐàÍÕÂ´ã¹µÑÇÍÂèÒ§ãº Certificate,,"2,000/ bottle",5 g/bottle,12022-20002
+175.0,Elements and Arsenic Species in White Rice Flour,see certificate â»Ã´´ÙÃÒÂÅÐàÍÕÂ´ã¹µÑÇÍÂèÒ§ãº Certificate,,"4,000/bottle",25 g/bottle,12023-20007
+176.0,"Elements, AB and MeHg in Tuna Tissue",see certificate â»Ã´´ÙÃÒÂÅÐàÍÕÂ´ã¹µÑÇÍÂèÒ§ãº Certificate,,"5,000/bottle",20 g/bottle,12022-20010
+177.0,Elements in Drinking Water,see certificate â»Ã´´ÙÃÒÂÅÐàÍÕÂ´ã¹µÑÇÍÂèÒ§ãº Certificate,,"5,500/bottle",100 ml/bottle,12022-20011
+178.0,Elements in Green Chiretta (Andrographis Paniculata) Powder,see certificate â»Ã´´ÙÃÒÂÅÐàÍÕÂ´ã¹µÑÇÍÂèÒ§ãº Certificate,,"6,000/bottle",25 g/bottle,12022-20012
+179.0,Elements in Turmeric powder,see certificate â»Ã´´ÙÃÒÂÅÐàÍÕÂ´ã¹µÑÇÍÂèÒ§ãº Certificate,see certificate â»Ã´´ÙÃÒÂÅÐàÍÕÂ´ã¹µÑÇÍÂèÒ§ãº Certificate,"6,000/bottle",30 g/bottle,12022-20014
+180.0,Elements in Animal Feed,see certificate â»Ã´´ÙÃÒÂÅÐàÍÕÂ´ã¹µÑÇÍÂèÒ§ãº Certificate,see certificate â»Ã´´ÙÃÒÂÅÐàÍÕÂ´ã¹µÑÇÍÂèÒ§ãº Certificate,"3,000/bottle",10 g/bottle,12022-20016
+181.0,Total malachite green in shrimp ,18.35 µg/kg,4.00 % relative,"5,000/ bottle",,12011-20601
+182.0,Aflatoxins in peanut butter ,2-10 ng/g ,"8-10% relative
+","4,500 /bottle",30 g/bottle,12011-20602
+183.0,Melamine in cracker,1.56 mg/kg,9% relative,"3,000/bottle",,12011-20603
+184.0,Clenbuterol in feed,71.9 µg/kg,5.43 % relative,"2,850/bottle",,12011-20901
+185.0,Salbutamol in feed,79.5 µg/kg,14.21 % relative,"2,850/bottle ",,12011-20902
+186.0,Melamine in Milk Powder,1.03 mg/kg,16% relative,"3,000/20g bottle",,12011-20604
+187.0,Fatty Acid in Cooking Oil ,"Palmitic acid 106 mg/g,11.4%   Stearic acid 33 mg/g, 4.1%       Oleic acid 231 mg/g, 25.7%      Linoleic acid 493 mg/g, 53.4%   Linolenic acid 46 mg/g, 5.3% ",7-10% relative,6000/bottle,,12011-20605
+188.0,Organophosphates pesticides in rice flour,"Diazinon 15 ng/g
+Chlopyrifos  18 ng/g",6-8% relative,4000/bottle,30g/bottle,12011-60606
+189.0,Aflatoxin in rice flour,"AFB1: 11.5 ng/g
+AFB2: 8.7ng/g
+AFG1: 7.5 ng/g
+AFG2: 3.0 ng/g","AFB1: 1.5 ng/g
+AFB2: 0.8 ng/g
+AFG1: 1.0 ng/g
+AFG2: 0.4 ng/g","4,500baht/pouch",80g/pouch,12011-20609
+190.0,Chloramphenicol in freeze dried prawn,0.74 ng/g,12% relative,"4,000 baht/bottle",,1211-20610
+191.0,Andrographolide in green chiretta ,18.7 mg/g,7% relative,"4,000 baht/bottle",,12011-20611
+192.0,THC and CBD in hemp oil standard (CRM),"THC: 1.47 mg/g
+CBD: 53 mg/g","THC:30 %relative
+CBD: 17 %relative","8,000/bottle",5 ml,12011-20614
+193.0,Trace Elements in Water »ÃÔÁÒ³¸ÒµØã¹¹éÓ,see certificate â»Ã´´ÙÃÒÂÅÐàÍÕ´Âã¹µÑÇÍÂèÒ§ãº Certificate,,"2,000/bottle",100 mL/bottle,12022-20008
+194.0,Mercury in Water »ÃÔÁÒ³»ÃÍ·ã¹¹éÓ,see certificate â»Ã´´ÙÃÒÂÅÐàÍÕ´Âã¹µÑÇÍÂèÒ§ãº Certificate,,"1,700/bottle",10 mL/bottle,12022-20009
+195.0,Chloride in Ethanol,1.51 mg/kg,6% relative,"1,800/250 mL",250 mL,12031-20704
+196.0,Oxygen in Nitrogen,5-30 cmol/mol,0.25 %relative,"29,000/refill per 1 cylinder","Cylinder volume: 10 Liters,
+Filling Pressure :100-120 bar
+CGA Valve: 580",12051-20101
+197.0,Oxygen in Nitrogen,5-30 cmol/mol,0.5 %relative,"18,000/refill per 1 cylinder","Cylinder volume: 10 Liters,
+Filling Pressure :100-120 bar
+CGA Valve: 580",12051-20103
+198.0,Oxygen in Nitrogen ,100 µmol/mol -5 cmol/mol,1.0 %relative,"25,400/refill per 1 cylinder ","Cylinder volume: 10 Liters,
+Filling Pressure :100-120 bar
+CGA Valve: 580",12050-20109
+199.0,Oxygen in Nitrogen,10 - 100 µmol/mol,2.0 %relative,"25,400/refill per 1 cylinder ","Cylinder volume: 10 Liters,
+Filling Pressure :100-120 bar
+CGA Valve: 580",12051-20111
+200.0,Carbon Dioxide in Nitrogen,0.005-20 cmol/mol,0.5 %relative,"30,000 refill per 1 cylinder","Cylinder volume: 10 Liters,
+Filling Pressure :100-120 bar
+CGA Valve: 580",12050-20201
+201.0,Carbon Dioxide in Nitrogen,0.005-20 cmol/mol,1.0 %relative,"20,000 refill per 1 cylinder","Cylinder volume: 10 Liters,
+Filling Pressure :100-120 bar
+CGA Valve: 580",12052-20203
+202.0,Methane in Nitrogen,0.005-50 cmol/mol,0.5%relative,"30,000 refill per 1 cylinder","Cylinder volume: 10 Liters,
+Filling Pressure :100-120 bar
+CGA Valve: 580",12052-20301
+203.0,Methane in Nitrogen,0.005-50 cmol/mol,1.0%relative,"20,000 refill per 1 cylinder","Cylinder volume: 10 Liters,
+Filling Pressure :100-120 bar
+CGA Valve: 580",12052-20303
+204.0,Methane in Air,0.05-2.5 cmol/mol,1.0 %relative,"24,100/refill per 1 cylinder ","Cylinder volume: 10 Liters,
+Filling Pressure :100-120 bar
+CGA Valve: 580",12050-20305
+205.0,Carbon Monoxide in Air,50 - 65000 µmol/mol,1.0 %relative,"24,100/refill per 1 cylinder ","Cylinder volume: 10 Liters,
+Filling Pressure :100-120 bar
+CGA Valve: 580",12050-20401
+206.0,Carbon Monoxide in Nitrogen ,5 - 200 000 µmol/mol,1.0 - 2.0 %relative,"20,000/refill per 1 cylinder ","Cylinder Volume:  approx. 10 Liters
+Filling Pressure: 100-120 bar 
+CGA Valve: 580",12050-20403
+207.0,Sulfur Dioxide in Nitrogen,30 -5 000 µmol/mol,1.0% relative,"31,000/refill per cylinder","Cylinder volume: 10 Liters,
+Filling Pressure :100-120 bar
+CGA Valve: 660",12051-20501
+208.0,Propane in Nitrogen ,0.001- 1 cmol/mol,0.7% relative,"31,000/refill per 1 cylinder","Cylinder volume: 10 Liters,
+Filling Pressure :100-120 bar
+CGA Valve: 580",12051-20601
+209.0,Propane in Nitrogen ,0.001- 1 cmol/mol,1.0 %relative,"20,500 refill per 1 cylinder","Cylinder volume: 10 Liters,
+Filling Pressure :100-120 bar
+CGA Valve: 580",12051-20603
+210.0,Propane in Air ,0.5-1 cmol/mol ,1.0 %relative,"24,100/refill per 1 cylinder ","Cylinder volume: 10 Liters,
+Filling Pressure :100-120 bar
+CGA Valve: 580",12050-20605
+211.0,Nitrogen Monoxide in Nitrogen,30 - 5 000 µmol/mol,1.0% relative,"31,000/refill per cylinder","Cylinder volume: 10 Liters,
+Filling Pressure :100-120 bar
+CGA Valve: 660",12051-20701
+212.0,"Oxygen, Carbon monoxide, Methane and Hydrogen sulfide in Nitrogen ","O2 :   18 cmol/mol
+CH4:   2.2 cmol/mol
+CO:     100 µmol/mol
+H2S:   25 µmol/mol"," 1.0 %relative for O2, CH4, CO
+ 5.0 %relative for H2S","35,000/refill per 1 cylinder ","Cylinder Volume:  approx. 10 Liters
+Filling Pressure: 100-120 bar
+CGA Valve: 660 ",12050-21000
+213.0,"Oxygen, Carbon monoxide and Methane in Nitrogen","O2 :   18 cmol/mol
+CH4:   2.2-2.5 cmol/mol
+CO:     100 µmol/mol",1.0 %relative,"30,000/refill per 1 cylinder ","Cylinder volume: 10 Liters,
+Filling Pressure :100-120 bar
+CGA Valve: 580",12050-21001
+214.0,Hydrogen Sulfide in Nitrogen,20 - 100 µmol/mol,4% relative,"27,400/refill per 1 cylinder ","Cylinder volume: 10 Liters,
+Filling Pressure :100-120 bar
+CGA Valve: 660",12051-21101
+215.0,Iso-butane in Air,0.1- 1 cmol/mol,1% relative,"24,500/refill per 1 cylinder ","Cylinder volume: 10 Liters,
+Filling Pressure :100-120 bar
+CGA Valve: 580",12050-21201
+216.0,Ammonia in Nitrogen,"20-100 µmol/mol
+"," 4.0 %relative
+","27,400/refill per 1 cylinder ","Cylinder Volume:  approx. 10 Liters
+Filling Pressure: 100-120 bar
+CGA Valve: 660 ",12051-21401
+217.0,"Hydrogen in Nitrogen 
+",100 - 20 000 µmol/mol,1.0 %relative,"20,000/refill per 1 cylinder ","Cylinder Volume:  approx. 10 Liters
+Filling Pressure: 100-120 bar
+CGA Valve: 580 ",12050-21501
+218.0,"Nitrogen Dioxide in Nitrogen 
+","30 - 3,000 umol/mol",2.0% relative,"31,000/refill per cylinder","Cylinder Volumer: approx. 10 Liters
+Filling Pressure: 100-120 bar
+CGA Valve: 660",12051-21701
+219.0,Carbon Dioxide in Argon,"100 - 500,000 µmol/mol",1.0 %relative,"20,000/ cylinder","Cylinder volume: 10 Liters,
+Filling Pressure :100 bar
+CGA Valve: 580",12050-20205
+220.0,Hydrogen in Helium,"100 - 20,000 µmol/mol",1.0% relative,"25,000/ cylinder","Cylinder volume: 10 Liters,
+Filling Pressure :100 bar
+CGA Valve: 580",12050-21502
+221.0,"Methane, Nitrogen in Hydrogen","500 - 500,000 µmol/mol",1.0% relative,"27,000/ cylinder","Cylinder volume: 10 Liters,
+Filling Pressure :100 bar
+CGA Valve: 580",12050-22301
+222.0,Isobutylene in Air,100 µmol/mol,1.0 %relative,"24,500/refill per 1 cylinder ","Cylinder Volume:  approx. 10 Liters
+Filling Pressure: 100-120 bar
+CGA Valve: 580 ",12050-21801
+223.0,"Carbon Dioxide, Oxygen in Nitrogen",1 - 50 cmol/mol,1.0 %relative,"28,000/refill per 1 cylinder ","Cylinder Volume:  approx. 10 Liters
+Filling Pressure: Depend on composition
+CGA Valve: 580 ",12050-21901
+224.0,"Water in Nitrogen
+",10 µmol/mol,10% relative,"36,000/refill per 1 cylinder ","Cylinder volume : 30 Liters     
+Filling Pressure : 100 bar 
+CGA Valve: 580 ",12050-22401
+225.0,Organochlorine Pesticides in Soil,"Endosulfan II 0.43 mg/kg 
+Endosulfan sulfat 0.56 mg/kg
+","14% Relative
+15% Relative
+
+
+","3,000/bottle",,12011-20801
+226.0,"Elements in Acrylonitrile Butadiene Styrene (ABS) Plastic, Low Levels »ÃÔÁÒ³¸ÒµØÃÐ´ÑºµèÓã¹¾ÅÒÊµÔ¡ª¹Ô´ ABS ",see certificate â»Ã´´ÙÃÒÂÅÐàÍÕ´Âã¹µÑÇÍÂèÒ§ãº Certificate,,"5,000/ bottle",30 g/bottle,12022-20003
+227.0,Elements in 10-mL Digesting Solution from Cotton Swab,see certificate â»Ã´´ÙÃÒÂÅÐàÍÕ´Âã¹µÑÇÍÂèÒ§ãº Certificate,,"4,000/package",10 cotton swabs/ package,12022-20013
+228.0,Toxic Elements in Lipstick,see certificate â»Ã´´ÙÃÒÂÅÐàÍÕ´Âã¹µÑÇÍÂèÒ§ãº Certificate,,"3,500/bottle",10 g/bottle,12022-20015
+229.0,Elements in Human Serum »ÃÔÁÒ³¸ÒµØã¹«ÕÃÑèÁ,see certificate â»Ã´´ÙÃÒÂÅÐàÍÕ´Âã¹µÑÇÍÂèÒ§ãº Certificate,,"1,000/bottle",4 mL/bottle,12022-20006
+230.0,Electrolytes in human serum,"Na: 3,197.99 mg/kg 
+K: 151.97 mg/kg
+Ca: 89.21 mg/kg
+Cl: 3,718.96 mg/kg",(2 - 3)% relative,"2,800/4 mL",,12022-20017
+231.0,Ethanol in Air ,50 - 200 µmol/mol,1.0 %relative,"35,000/refill per 1 cylinder ","Cylinder volume: 10 Liters,
+Filling Pressure :100-110 bar
+CGA Valve: 580",12050-20901
+232.0,Oxygen in Nitrogen,30 - 100 cmol/mol,0.5 %relative,"23,000/refill per 1 cylinder ","Cylinder Volume:  approx. 10 Liters
+Filling Pressure: 100-120 bar
+CGA Valve: 580 ",12051-20104
+233.0,"Carbon dioxide, Nitrous oxide and Oxygen in Nitrogen","CO2:  5 cmol/mol
+N2O:  30 cmol/mol
+O2:  40 cmol/mol","1.0 %relative
+1.0 %relative
+1.0 %relative","25,500/refill per 1 cylinder ","Cylinder Volume:  approx. 10 Liters
+Filling Pressure: approx 50 bar
+CGA Valve: 580",12050-22001
+234.0,"Isoflurane, Carbon dioxide, Nitrous oxide and Oxygen in Nitrogen","Isoflurane:  0.5 - 2 cmol/mol
+CO2:  5 cmol/mol
+N2O:  30 cmol/mol
+O2:  40 cmol/mol","1.0% relative
+1.0% relative
+1.0% relative
+1.0% relative","25,500/refill per 1 cylinder ","Cylinder Volume:  approx. 10 Liters
+Filling Pressure: Depend on composition (6-25 bar), CGA Valve: 580 ",12050-22002
+235.0,"Sevoflurane, Carbon dioxide, Nitrous oxide and Oxygen in Nitrogen
+","Sevoflurane : 0.5-2 cmol/mol
+CO2 : 5 cmol/mol
+N2O : 30 cmol/mol
+O2 : 40 cmol/mol","1.0% relative
+1.0% relative
+1.0% relative
+1.0% relative","25,500/refill per 1 cylinder ","Cylinder Volume:  approx. 10 Liters
+Filling Pressure: Depend on composition (6-20 bar), CGA Valve: 580 ",12050-22003
+236.0,Isoflurane in Nitrogen,0.5 - 2 cmol/mol,1.0 %relative,"13,400/refill per 1 cylinder ","Cylinder Volume:  approx. 10 Liters
+Filling Pressure: Depend on composition (6-25 bar), CGA Valve: 580 ",12050-22101
+237.0,"Sevoflurane in Nitrogen
+",Sevoflurane : 0.5-2 cmol/mol,1.0% relative,"15,000/refill per 1 cylinder ","Cylinder Volume:  approx. 10 Liters
+Filling Pressure: Depend on composition (6-20 bar), CGA Valve: 580 ",12050-22201
+238.0,Glucose in frozen human serum,see certificate â»Ã´´ÙÃÒÂÅÐàÍÕÂ´ã¹µÑÇÍÂèÒ§ãº Certificate,,"5,000/set","3 levels, 1mL/vial",12011-20502
+239.0,"65% Nitric acid, suprapure grade, 500 ml",-,-,"3,500/ bottle",500 ml / bottle,12031-20803
+240.0,"65% Nitric acid, suprapure grade, 1000 ml",-,-,"6,000/bottle","1,000 ml / bottle",12031-20804
+241.0,Tune solution for iCAP,1 ng/g,-,"5,000/bottle ",500 ml / bottle,12031-20805
+242.0,Determination of organic compounds in biological fluid by IDMS,ug/g - mg/g,3-20% relative,"10,000 - 15,000/sample","1. Determination of glucose by IFCC reference method
+2. Determination of peptide by amino acid hydrolysis
+3. lipoprotein",12012-60501
+243.0,Determination of organic compounds in food and feed by IDMS,ng/g - mg/g,0.1 - 15 %relative,"10,000-20,000/sample","1. Determination of Ametryn, Atrazine, and Pendimethalin in fruit and vegetable
+2.Determination of Metalaxyl, Thiabendazole, Prochloraz, Tebuconazole, Difenoconazole and Azoxystrobin in fruit and vegetable
+3. metronidazole 
+4. dimetridazole
+5. amino acids ",12012-60601
+244.0,Determination of organic compounds in food and feed by calibration curve,ng/g - mg/g,,"10,000 /analyte + 5,000 for next analyte","1. Determination of nitrosamines in food
+2. Determination of B vitamins in food
+3. Determination of Ametryn, Atrazine, and Pendimethalin in fruit and vegetable
+4. Determination of Metalaxyl, Thiabendazole, Prochloraz, Tebuconazole, Difenoconazole and Azoxystrobin in fruit and vegetable
+",12012-60602
+245.0,Determination of purity of organic compounds (Mass balance method),as specification,as specification,"10,000-19,000.00/sample"," 1. Purity assessment of ethanol
+2. Purity assessment of mitragynine
+3. Purity assessment of 6-gingerol
+4. Purity assessment of mangostin  
+5. Purity assessment of curcumin
+6. Purity assessment of demethoxycurcumin",12012-60101
+246.0,Determination of purity of organic compounds (specified technique),as specicication,as specification,"2,000-10,000.00/sample",1. Thermo-physical properties by DSC,12012-60102
+247.0,Determination of organic compounds in botanical products,ng/g-mg/g,5-20% relative,"10,000-15,000/sample","This service includes; 
+1. Determination of Gamma-oryzanol in rice
+2.Determination of anthocyanins in color rice
+3. Determination of active ingredient in herb
+4. ochratoxin 
+5. ochratoxin
+6. pesticides
+7. mitragynine",12012-60901
+248.0,Determination of Brix and refractive indices in food and beverages by refractometer,"5 - 60 %Brix
+1.34026 - 1.44193 nD","0.04 %Brix
+0.00008 nD
+","1,500/sample",,12012-60201
+249.0,Determination of polarization in food and beverages by polarimeter,"0 - 100 oZ
+ 0 - 40 OR
+","0.3 - 0.6 oZ
+ 1 - 3 OR
+","11,000/sample",,12012-60202
+250.0,Determination of Aflatoxins in solution by LC,ng/g - mg/g,3 - 10 %relative,"6,000/analyte +3,000 for next analyte",,12012-60203
+251.0,Determination of sodium chloride by refractometry,0-25 g/100g,1.72 % relative,"6,000/sample",calibration curve,12012-60204
+252.0,Determination of organic componds in environment,ng/g - mg/g,3-15% relative,"10,000-20,000/sample",1. Determination of BTEX in water,12011-60210
+253.0,Determination of amylose in rice by size exclusion chromatography (SEC) technique,0-30%,as specification,"6,000/sample",,12012-60302
+254.0,Determination of amylose in rice by Iodine binding assay using a plate reader,0-30%,as specification,"6,000/sample",,12012-60303
+255.0,Determination of dietary suppliment adulteration in food,100-1000 ng/g,7-8 % relative,"18,000/sample",Exact-matching IDMS,12012-60304
+256.0,Assigned pH value for sample (primary method),1 - 12 pH,0.003 pH,"13,750/sample",,12033-60107
+257.0,Assigned pH value for sample (secondary method),1 - 12 pH,0.004 pH,"13,000/sample",,12033 - 60109
+258.0,Assigned pH value for sample  (working method),1 - 12 pH,0.01 pH,"2,500/sample",,12033-60106
+259.0,Assigned electrolytic conductivity value for sample (secondary method),5 mS/cm - 12.88 mS/cm,0.3% - 1% relative,"11,000 /sample",,12033-60404
+260.0,Assigned electrolytic conductivity value for sample (commercial cell),84 - 12880 mS/cm,0.8% - 1.3% relative,"2,500/sample",,12033-60406
+261.0,Determination of cation and anion in sample (ion chromtography),as specification,%1 - 2%relative,"7,000/sample",,12033-60103
+262.0,Determination of substances in sample (Electrochemical method (cyclic voltammetry),(5 - 100 )mg/kg,3 % relative,"3,000 / sample","1. nitrite
+2. NaCl",12031-60103
+263.0,Measurement of acidity in ethanol,(5 - 100 )mg/kg,3 % relative,"3,000 / sample",,12031-60401
+264.0,Determination of Elements in sample by ID-ICP/MS,0.0001-30000 mg/kg,0.7-7.5%relative,"20,000 for first element + 3000 for next element",,12023-60101
+265.0,Determination of Elements in sample by gravimetric standard addition,0.0004-300000 mg/kg,1.5-18 %relative,"17,500 for first element + 3000 for next element",,12023-60102
+266.0,Determination of Elements in sample by external calibration,0.000002 - 300000 mg/kg,1.0-16%relative,"10,000 for first element + 3000 for next element",,12023-60103
+267.0,Determination of Elemental speciation in sample,0.02 - 3200 mg/kg,3.5-10%relative,"17,500 for first specy + 3000 for next species",,12023-60104
+268.0,Catalytic activity concentration of enzyme by microplate reader,U/L,U/L,"6,000/sample",,12043-60101
+269.0,Qualification/quantification of DNA concentration in Foodstuffs/Feed/Biomarkers by droplet digital Polymerase Chain Reaction (ddPCR),detection or not detection/ copy number or ratio,,"12,500/sample"," Quantification of LLrice62 by duplex ddPCR
+LOQ
+- LLrice 62: 8.41±1.11 copies/µL 
+- SPS: 8.49± 1.30copies/µL
+Quantification of LLrice601 by duplex ddPCR
+LOQ
+- LLrice601: 7.77±1.21 copies/µL
+- SPS: 7.51± 0.99copies/µL            HIV-1 RNA copy number quantification                                   - 145-757 copies/µL
+Detection of chicken DNA by ddPCR
+LOD:  4.49 ± 0.96 cp/µL
+Detection of ASFV by ddPCR
+LOD:  1.89 ± 0.55 cp/µL",12043-60102
+270.0,DNA Quantification in Foodstuffs and  feed by quantitative real-time PCR (qPCR),copy number or ratio,,"8,500/sample",,12043-60103
+271.0,DNA Qualification in Foodstuffs/Feed/Biomarkers quantitative by real-time PCR (qPCR),detection or not detection,,"5,000/sample"," - The detection of Mycoplasma arginini DNA using Real-Time PCR   
+ - The detection of Mycoplasma fermentans DNA using Real-Time PCR   
+- Detection of chicken DNA  by qPCR",12043-60104
+272.0,Identification of biomolecules by MALDI-TOF MS,Quality measurement,Quality measurement,"2,000/sample",,12043-60105
+273.0,qualification of protein in Foodstuffs and feed by LC Q-TOF MS,detection or not detection,,"3,500/sample",,12043-60106
+274.0,Confocal Laser Scanning Microscopes ZEISS LSM880,Cell imaging,Cell imaging,"2,500/hr",,12043-60107
+275.0,Nanoparticle size measurement in solution,10 - 1000 nm,,"2,000/sample",,12043-60108
+276.0,Identification and quantification of organic compounds in herb by GC-MS and HPLC,Quality measurement / Quantity measurement,Quality measurement / Quantity measurement,"2,000/sample","Quantification of terpinen-4-ol in Plai extract using GC/MS
+- range 5-100 ug/g
+- uncertainty 7-8% relative
+Quantification of curcumin MS in turmeric extract using HPLC-DAD
+- range 4-300 ug/g
+- uncertainty 7-8% relative",12043-60109
+277.0,Detection of Foodstuffs/Feed/Biomarkers using loop-mediated isothermal amplification,detection or not detection,,"2,750/sample",,12043-60110
+278.0,Oxygen in Nitrogen,5-30 cmol/mol,"0.25%relative
+","23,000/cylinder",Cylinder Volume:  approx. 10 Liters ,12051-60101
+279.0,Oxygen in Nitrogen,0.01 -5 cmol/mol,"0.7%relative
+","30,500/cylinder",Cylinder Volume:  approx. 10 Liters ,12050-60102
+280.0,Oxygen in Nitrogen,10-100 µmol/mol,1.2%relative,"30,500/cylinder",Cylinder Volume:  approx. 10 Liters ,12050-60103
+281.0,Carbon Dioxide in Nitrogen,0.05-20 cmol/mol,"0.5%relative
+","24,000/cylinder",Cylinder Volume:  approx. 10 Liters ,12054-60201
+282.0,Methane in Nitrogen,0.05-50 cmol/mol,"0.5%relative
+","
+24,000/cylinder",Cylinder Volume:  approx. 10 Liters ,12053-60301
+283.0,Carbon Monoxide in Nitrogen,5-100 µmol/mol,"1.0%relative
+","24,000/cylinder",Cylinder Volume:  approx. 10 Liters ,12052-60401
+284.0,Carbon Monoxide in Nitrogen,0.005 - 20 cmol/mol,"0.5%relative
+","24,000/cylinder",Cylinder Volume:  approx. 10 Liters ,12051-60402
+285.0,Sulfur Dioxide in Nitrogen,100 -5 000 µmol/mol,"0.7%relative
+","27,600/cylinder",Cylinder Volume:  approx. 10 Liters ,12051-60501
+286.0,Sulfur Dioxide in Nitrogen,30 - 100 µmol/mol,1.2% relative,"27,600/cylinder",Cylinder Volume:  approx. 10 Liters ,12051-60502
+287.0,Propane in Nitrogen,0.001- 1 cmol/mol,"0.7%relative
+","24,000/cylinder",Cylinder Volume:  approx. 10 Liters ,12051-60601
+288.0,Nitrogen Monoxide in Nitrogen,50 - 5 000 µmol/mol,"0.7%relative
+","27,600/cylinder",Cylinder Volume:  approx. 10 Liters ,12051-60701
+289.0,Nitrous Oxide in Nitrogen,0.05-10 cmol/mol,"0.7%relative
+","27,600/cylinder",Cylinder Volume:  approx. 10 Liters ,12051-60801
+290.0,"Carbon monoxide, Carbon dioxide in Nitrogen",1-15 cmol/mol,"0.5%relative
+","28,800/cylinder",Cylinder Volume:  approx. 10 Liters ,12051-61001
+291.0,Hydrogen Sulfide in Nitrogen,25 - 100 µmol/mol,2.5% relative,"30,600/cylinder",Cylinder Volume:  approx. 10 Liters ,12051-61101
+292.0,"Carbon monoxide, Methane, Carbon dioxide in Nitrogen","10 - 1,000 µmol/mol",?0.5 %relative,"34,000/cylinder",Cylinder Volume:  approx. 10 Liters. In the same concentration,12050-61301
+293.0,Ammonia in Nitrogen,20-100 µmol/mol,?2.5 %relative,"30,600/ cylinder",Cylinder Volume:  approx. 10 Liters,12050-61401
+294.0,Hydrogen in Nitrogen,100 - 20 000 µmol/mol,?0.5 %relative,"30,500/cylinder",Cylinder Volume:  approx. 10 Liters ,12050-61501
+295.0,Nitrogen Dioxide in Nitrogen,30 - 3 000 umol/mol,?2.0 %relative,"27,600/cylinder",Cylinder Volume: approx. 10 Liters,12050-61701
+296.0,"Particulate Matter as PM2.5, PM10  (Analysis)",0 - 500  µg/m3,As air volume specification (³2.0 %relative),"2,700/3 filter samples-47mm",By gravimetric analyis of filter sample ,12051-65001
+297.0,Organic and Elemental Carbon (OC/EC) in Particulate Matter,0 - 200  µg C/m3,As air volume specification (³2.0 %relative),"2,100/3 filter samples",By thermal-optical analyis of filter sample ,12051-65101
+298.0,"Purity assessment of high purity nitrogen 
+Measurand: O2, CO, CO2, CH4, Ar, H2O",0.1-100 µmol/mol,"2-30%relative
+","16,000/cylinder",,12050-66001
+299.0,"Purity assessment of high purity oxygen
+Measurand: N2, CO, CO2, CH4, Ar, H2O",0.1-100 µmol/mol,"2-30%relative
+","18,000/cylinder",,12050-66101
+300.0,"Purity assessment of high purity carbon monoxide
+Measurand: O2, N2, CO2, CH4, H2O",0.1-100 µmol/mol,"2-30%relative
+","13,000/cylinder",,12050-66201
+301.0,"Purity assessment of high purity methane 
+Measurand: O2, CO, CO2, THC, H2O",0.1-100 µmol/mol,"2-30%relative
+","13,000/cylinder",,12050-66301
+302.0,Aluminium cylinder 10L- CGA 580,"Cylinder Volume:   10 Liters
+Brass Valve: CGA 580",,"13,000/cyl",Lot 2565,12051-20001
+303.0,Aluminium cylinder - CGA 660,"Cylinder Volume:   10 Liters
+Strainless Valve: CGA 660",,"15,000/cyl",Lot 2563,12050-20002
+2536.0,Determination of Elements in sample by external calibration,0.000002 - 300000 mg/kg,1.0-16%relative,"10,000 for first element + 3000 for next element",,12023-60103
+2537.0,Determination of Elements in sample by ID-ICP/MS,0.0001-30000 mg/kg,0.3-7.5%relative,"20,000 for first element + 3000 for next element",,12023-60101
+2538.0,Determination of Elements in sample by gravimetric standard addition,0.0004-300000 mg/kg,1.5-18 %relative,"17,500 for first element + 3000 for next element",,12023-60102
+2539.0,Determination of lead isotope ratio in fresh water by single collector ICP-MS,2.5-50 ng/g,0.03 - 0.5% relative,"20,000 / sample",,12023-60106
+2540.0,Determination of purity of organic compounds (Mass balance method),as specification,as specification,"10,000-19,000.00/sample","1. Purity assessment of ethanol
+2. Purity assessment of mitragynine
+3. Purity assessment of 6-gingerol
+4. Purity assessment of mangostin  
+5. Purity assessment of curcumin
+6. Purity assessment of demethoxycurcumin
+7. Purity assessment of bisdemethoxycurcumin   ",12012-60101
+2541.0,Determination of organic compounds in food and feed by calibration curve,ng/g - mg/g,,"10,000 /analyte + 
+5,000 for next analyte","1. Determination of nitrosamines in food
+2. Determination of B vitamins in food
+3. Determination of Ametryn, Atrazine, and Pendimethalin in fruit and vegetable
+4. Determination of Metalaxyl, Thiabendazole, Prochloraz, Tebuconazole, Difenoconazole and Azoxystrobin in fruit and vegetable",12012-60602
+2542.0,Nitrogen monoxide in Nitrogen,"10 -5,000 ?mol/mol",(0.5-0.7)% relative,"27,600/cylinder",Cylinder Volume: approx. 10 Liters,12051-60701
+2543.0,Qualification/quantification of DNA concentration in Foodstuffs/ Feed/ Biomarkers by droplet digital Polymerase Chain Reaction (ddPCR),detection or not detection/ copy number or ratio,,"12,500/sample","Quantification of LLrice62 by duplex ddPCR
+LOQ
+- LLrice 62: 8.41?1.11 copies/?L 
+- SPS: 8.49? 1.30copies/?L
+Quantification of LLrice601 by duplex ddPCR
+LOQ
+- LLrice601: 7.77?1.21 copies/?L
+- SPS: 7.51? 0.99copies/?L            HIV-1 RNA copy number quantification                                   - 145-757 copies/?L
+Detection of chicken DNA by ddPCR
+LOD:  4.49 ? 0.96 cp/?L
+Detection of ASFV by ddPCR
+LOD:  1.89 ? 0.55 cp/?L",12043-60102
+2544.0,Identification of biomolecules by MALDI-TOF MS,Quality measurement,Quality measurement,"2,000/sample",,12043-60105
+2545.0,Determination of organic compounds in botanical products,ng/g-mg/g,5-20% relative,"5,000-15,000/sample","This service includes; 
+1. Determination of Gamma-oryzanol in rice
+2.Determination of anthocyanins in color rice
+3. Determination of active ingredient in herb
+4. ochratoxin 
+5. ochratoxin
+6. pesticides
+7. mitragynine",12012-60901
+2546.0,Detection of pork DNA using Real-Time PCR,Quality measurement,Quality measurement,5000,,12043-60104
+2547.0,Determination of Particle number concentration in sample by spICP-MS,(0.5-2.0)*E11 particles/g,13.2 -18%relative,"15,000 /sample",,12023-60105
+2548.0,Toxic Elements in Cosmetic cream containing hemp-derived ingredients,TRM-M-2005,,"2,500/bottle",5 g/bottle,12022-20018
+2549.0,Caffeine standard solution for other customer/ made to order,TRM-S-5054,0.5 mg/mL-200 mg/mL,"5,000/set (1 set = 8 ampoule)",1 mL/ampoule,12011-20258
+2550.0,Working electrolytic conductivity standard solution (1 mol/L KCl),TRM-S-2053,0.7% relative,"3,000/250 mL",,12031-20616
+2551.0,"Hydrogen, Nitrogen and Methane in Helium",TRM-E-3270,?1 %relative,"33,000/refill per 1 cylinder ","Cylinder volume : 10 Liters     
+Filling Pressure : 100 bar 
+CGA Valve: 580 ",12050-22701
+2552.0,Helium in Argon,TRM-E-3250,?1 %relative,"25,400/refill per 1 cylinder ","Cylinder volume : 10 Liters     
+Filling Pressure : 100 bar 
+CGA Valve: 580 ",12050-22501
+2553.0,Hydrogen in Nitrogen,TRM-E-3150,?1 %relative,"20,000/refill per 1 cylinder ","Cylinder volume : 10 Liters     
+Filling Pressure : 100 bar 
+CGA Valve: 580 ",12050-21501
+2554.0,Hydrogen in Nitrogen,TRM-E-3151,?1 %relative,"25,000/refill per 1 cylinder ","Cylinder volume : 10 Liters     
+Filling Pressure : 100 bar 
+CGA Valve: 580 ",12050-21502
+2555.0,Nitrogen monoxide in Nitrogen,TRM-E-3071,2% relative,"31,000/refill per 1 cylinder ","Cylinder volume : 10 Liters     
+Filling Pressure : 100 bar 
+CGA Valve: 660",12050-20702
+2556.0,Nitrous oxide in Nitrogen,TRM-E-3081,5% relative,"31,000/refill per 1 cylinder ","Cylinder volume : 10 Liters     
+Filling Pressure : 100 bar 
+CGA Valve: 580 ",12050-20801
+2557.0,Carbon dioxide and Methane in Nitrogen,TRM-E-3134,"?2 %relative
+?4%relative","29,000/refill per 1 cylinder ","Cylinder volume : 10 Liters     
+Filling Pressure : 100 bar 
+CGA Valve: 580 ",12050-21301
+2558.0,Carbon monoxide Carbon dioxide and Methane in Argon,TRM-E-3251,"5 %relative
+","56,500/refill per 1 cylinder ","Cylinder volume : 30 Liters     
+Filling Pressure : 100 bar 
+CGA Valve: 580 ",12050-22502
+2559.0,"Benzene / Chloroform / Dichloromethane / Trichloroethylene / Tetrachloroethylene / 1, 2-Dichloroethane / 1, 2-Dichloropropane / 1, 3-Butadiene / Vinyl chloride / Balance : Nitrogen 
+",TRM-E-3280,"? 5 %relative 
+? 7 %relative for Vinyl chloride,
+1,3-Butadiene,","140,000/refill per 1 cylinder ","Cylinder volume : 10 Liters     
+Filling Pressure : 100 bar 
+CGA Valve: 580 ",12050-22801
+2560.0,Fish DNA Solution (TRM S-1021),1.9 x 105 ?L-1,3.3 x 104 ?L-1,5000,,12042-20143
+2561.0,Pure crocodile meat,"1,000 g/kg",,"3,500",,12042-20144
+2562.0,Crocodile DNA solution,1.2 x 105 ?L-1,2.1 x 104 ?L-1,"5,000",,12042-20145
+2563.0,Pure fish meat,"1,000 g/kg",,"3,500",,12042-20146
+2564.0,p72-ASFV plasmid DNA,1.6 ? 105  ?L-1,3.9 ? 104  ?L-1,"12,500",,12042-20148
+2565.0,pH in wastewater (TRM-E-2005),pH 6.50-7.50,0.04pH,300/ bottle,100 mL/bottle,12031-20129
+2566.0,"% Fiber from sugar cane 
+(TRM-M-5001)",11.62% MC,0.6% MC,5000 baht/bag,50 g/bag,12011-20901
+2567.0,High purity terpinen-4-ol standard (TRM-S-5055),98.70%,7.6%relative,"5,000 baht/bottle",50 mg,12011-20259
+2568.0,Sodium Bromide Standard Solution(Density) (TRM-S-5059),600 to 1700 mg/g,0.01-1.0%,"2,000 baht/ampoule",15 mL,12011-20263
+2569.0,Working electrolytic conductivity standard solution (Nominal 10 uS/cm) (TRM-S-2054),10  mS/cm,5% relative,"1,300/125 mL",,12031-20617
+2570.0,Ethanol standard solution (95%ABV) (TRM-S-5049a),"Density (in air) at 20 oC (kg/m3) = 809.01, Alcoholic Strength (% ABV)  = 95.60","0.25 (0.03% relative),           0.07 (0.07% relative)","2,000/bottle ",15 mL,12011-20249
+2571.0,Ethanol standard solution (70%ABV) (TRM-S-5049b),"Density (in air) at 20 oC (kg/m3) = 885.32, Alcoholic Strength (% ABV)  = 70.08","0.29 (0.03% relative),           0.05 (0.07% relative)","2,000/bottle ",15 mL,12011-20250
+2572.0,Ethanol standard solution (40%ABV) (TRM-S-5049c),"Density (in air) at 20 oC (kg/m3) = 948.01, Alcoholic Strength (% ABV)  = 40.04","0.33 (0.03% relative),           0.16 (0.4% relative)","2,000/bottle ",15 mL,12011-20251
+2573.0,Ethanol standard solution (15%ABV) (TRM-S-5049d),"Density (in air) at 20 oC (kg/m3) = 978.94, Alcoholic Strength (% ABV)  = 15.03","0.28 (0.03% relative),           0.02 (0.13% relative)","2,000/bottle ",15 mL,12011-20252
+2574.0,High purity curcumin standard (TRM-S-5056),993.1 mg/g,3.5% relative,"5,000 baht/bottle",50 mg,12011-20260
+2575.0,High purity demethoxycurcumin standard (TRM-S-5057),982.8 mg/g,3.5% relative,"5,000 baht/bottle",20 mg,12011-20261
+2576.0,0.1% (w/w) Goat in plant based (TRM F-1025),1 g/kg,0.07 g/kg,"3,500",,12042-20147
+2577.0,Calcium standard solution (TRM-S-2057),"900-1,200 mg/kg",4%relative,"1,250/ bottle",100 mL/bottle,12031-20503
+, Aluminium cylinder 10L- CGA 660,,,"15,000/cyl",,12051-20002
+,Aluminium cylinder 30L- CGA 580,,,"20,000/cyl",,12051-20003
+,Aluminium cylinder 30L- CGA 660,,,"20,000/cyl",,12051-20004
+,Aluminium cylinder 2.9L- CGA 580,,,"6,000/cyl",,12051-20005

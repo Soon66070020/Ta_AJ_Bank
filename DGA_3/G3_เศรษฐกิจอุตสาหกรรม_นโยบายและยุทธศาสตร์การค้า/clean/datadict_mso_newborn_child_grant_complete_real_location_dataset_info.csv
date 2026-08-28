@@ -1,0 +1,19 @@
+﻿รายการ,รายละเอียด
+ชื่อชุดข้อมูล,เด็กแรกเกิด / การจ่ายเงินอุดหนุนเด็กแรกเกิด
+ชื่อไฟล์ CSV,mso_newborn_child_grant_500_complete_real_location.csv
+จำนวนข้อมูล,500 Records
+จำนวนสิทธิ์เด็ก,280 grant_case_id
+ลักษณะข้อมูล,Synthetic Data ที่จัดทำให้ข้อมูลสมบูรณ์สำหรับทำโจทย์ วิเคราะห์ และนำเสนอ ไม่ใช่ข้อมูลบุคคลจริง
+Grain ของข้อมูล,1 Record = 1 Transaction การจ่ายเงินอุดหนุนของเด็ก 1 คนในแต่ละงวด
+รูปแบบวันที่,YYYY-MM-DD (ค.ศ.)
+Encoding ของ CSV,UTF-8 with BOM
+ความสัมพันธ์,payment_id เป็น Primary Key; grant_case_id เชื่อมรายการจ่ายหลายงวดของเด็กคนเดียวกัน
+ข้อมูลครอบครัว,มีข้อมูลบิดาและมารดาผู้ให้กำเนิด พร้อมสถานะการเลี้ยงดู และข้อมูลผู้ปกครองปัจจุบัน
+หลักการผู้ปกครอง,หาก guardian_relationship = มารดา/บิดา ข้อมูล guardian ต้องตรงกับข้อมูลมารดา/บิดา; หากเป็นผู้ปกครองโดยชอบด้วยกฎหมาย ต้องระบุ legal_guardian_relation และ legal_guardian_reason
+หลักการรายได้,"household_annual_income = รายได้เฉลี่ยของครัวเรือนต่อปี และกำหนดไม่เกิน 100,000 บาท/ปีใน Dataset นี้"
+ข้อมูลพื้นที่,"province, district และ subdistrict ใช้ชื่อพื้นที่ที่มีอยู่จริงและสัมพันธ์กันตามลำดับชั้นการปกครอง และคงที่สำหรับ grant_case_id เดียวกัน"
+Field ที่ไม่เก็บซ้ำ,"age, month, fiscal_year, region"
+หลักการ Derived Field,age คำนวณจาก child_birth_date; month/fiscal_year จาก payment_date; region จาก province
+หมายเหตุจำนวนเงิน,payment_amount เป็นข้อมูลจำลองสำหรับการทำโจทย์และนำเสนอ ไม่ใช่การยืนยันอัตราสวัสดิการตามกฎหมาย/นโยบายปัจจุบัน
+หลักการกำหนด agency,ระบุสำนักงานพัฒนาสังคมและความมั่นคงของมนุษย์จังหวัดตาม province ของแต่ละ Record โดยตรง
+แหล่งอ้างอิงข้อมูลพื้นที่,Open Admin Data – Thailand Administrative Divisions (ปรับปรุง 2026-06-01): https://github.com/open-admin-data/thailand-administrative-divisions ; ตรวจทานคู่ตำบล/อำเภอเพิ่มเติมจาก https://github.com/codesanook/thailand-administrative-division-province-district-subdistrict-sql

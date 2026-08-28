@@ -1,0 +1,670 @@
+[
+  {
+    "title": "รายได้จากการจัดเก็บเงินภาษีของกรมสรรพากร",
+    "name": "gdpublish-dataset-report-612",
+    "organization": "จังหวัดปทุมธานี",
+    "organization_name": "b367beed-69e9-4dee-bef0-5692574e492b",
+    "resources": [
+      {
+        "name": "รายได้จากการจัดเก็บเงินภาษีของกรมสรรพากร",
+        "url": "https://pathumthani.gdcatalog.go.th/dataset/4aa6abe1-4e83-420b-919c-bb210788f259/resource/3c5d391d-0b99-4e31-8a74-ea7f55042732/download/dataset_report_612.csv",
+        "format": "CSV",
+        "description": "รายได้จากการจัดเก็บเงินภาษีของกรมสรรพากร จำแนกตามประเภทภาษี และอำเภอ",
+        "size": 33802
+      }
+    ]
+  },
+  {
+    "title": "รายได้จากการจัดเก็บภาษีของกรมสรรพากร",
+    "name": "gdpublish-snk-rd-67-045",
+    "organization": "จังหวัดสกลนคร",
+    "organization_name": "37f58263-8cdd-4418-9306-c33c1e54552f",
+    "resources": [
+      {
+        "name": "รายได้จากการจัดเก็บภาษีของกรมสรรพากร",
+        "url": "https://sakonnakhon.gdcatalog.go.th/dataset/58093ef7-de7b-4204-9f48-f1a7e320fafd/resource/dcc07a3e-a201-40b9-a508-6ee1c4ed9e4f/download/snk_rd_67_045.csv",
+        "format": "CSV",
+        "description": "รายได้จากการจัดเก็บภาษีของสำนักงานสรรพากรพื้นที่สกลนคร ตัั้งแต่ปี พ.ศ. 2565 จำแนกรายอำเภอ",
+        "size": 137060
+      }
+    ]
+  },
+  {
+    "title": "รายได้จากการจัดเก็บภาษีของกรมสรรพากร",
+    "name": "gdpublish-52-01",
+    "organization": "จังหวัดนราธิวาส",
+    "organization_name": "1be09870-dca6-405f-8280-364e5dd46a26",
+    "resources": [
+      {
+        "name": "รายได้จากการจัดเก็บภาษีของกรมสรรพากร",
+        "url": "https://narathiwat.gdcatalog.go.th/dataset/60bb9092-aa98-456a-b406-4dfdb6460753/resource/408a2010-1f1e-4802-80be-0c62f5fd4834/download/revenue.csv",
+        "format": "CSV",
+        "description": "รายได้จากการจัดเก็บภาษีของกรมสรรพากร จำแนกตามประเภทภาษี  เป็นรายอำเภอ  ",
+        "size": 123299
+      },
+      {
+        "name": "รายได้จากการจัดเก็บภาษีของกรมสรรพากร",
+        "url": "https://narathiwat.gdcatalog.go.th/dataset/60bb9092-aa98-456a-b406-4dfdb6460753/resource/b366ff9d-b8b1-4175-a08c-cbae0fdf6023/download/revenue.xlsx",
+        "format": "XLSX",
+        "description": "รายได้จากการจัดเก็บภาษีของกรมสรรพากร จำแนกตามประเภทภาษี  เป็นรายอำเภอ  ",
+        "size": 27659
+      }
+    ]
+  },
+  {
+    "title": "ผลการจัดเก็บภาษีอากร",
+    "name": "gdpublish-taxchon1-2568",
+    "organization": "จังหวัดชลบุรี",
+    "organization_name": "f5804776-6d4a-4db5-a79c-cfc93b4aa071",
+    "resources": [
+      {
+        "name": "ผลการจัดเก็บภาษีอากร เดือนตุลาคม 2567",
+        "url": "https://chonburi.gdcatalog.go.th/dataset/e077525c-cbd2-4162-b5dc-3f033c21377a/resource/c7004a80-d66c-4baf-8505-5f6d8e7be0a2/download/tax_10_67.xls",
+        "format": "XLSX",
+        "description": "รายงานผลการจัดเก็บภาษีอากรของสำนักงานสรรพากรพื้นที่ชลบุรี 1 ประจำเดือนตุลาคม พ.ศ.2567 (ปีงบประมาณ พ.ศ.2568)",
+        "size": 29184
+      },
+      {
+        "name": "ผลการจัดเก็บภาษีอากร เดือนพฤศจิกายน 2567",
+        "url": "https://chonburi.gdcatalog.go.th/dataset/e077525c-cbd2-4162-b5dc-3f033c21377a/resource/0573e97b-f7ee-4983-8235-cf923050054b/download/tax_11_67.xls",
+        "format": "XLSX",
+        "description": "รายงานผลการจัดเก็บภาษีอากรของสำนักงานสรรพากรพื้นที่ชลบุรี 1 ประจำเดือนพฤศจิกายน พ.ศ.2567 (ปีงบประมาณ พ.ศ.2568)",
+        "size": 28160
+      },
+      {
+        "name": "ผลการจัดเก็บภาษีอากร เดือนธันวาคม 2567",
+        "url": "https://chonburi.gdcatalog.go.th/dataset/e077525c-cbd2-4162-b5dc-3f033c21377a/resource/9b256df1-3e35-4171-9346-f5b474344027/download/tax_12_67.xls",
+        "format": "XLSX",
+        "description": "รายงานผลการจัดเก็บภาษีอากรของสำนักงานสรรพากรพื้นที่ชลบุรี 1 ประจำเดือนธันวาคม พ.ศ.2567 (ปีงบประมาณ พ.ศ.2568)",
+        "size": 28160
+      },
+      {
+        "name": "ผลการจัดเก็บภาษีอากร เดือนมกราคม 2568",
+        "url": "https://chonburi.gdcatalog.go.th/dataset/e077525c-cbd2-4162-b5dc-3f033c21377a/resource/f14b0ea6-a066-4698-9fb1-c95895fab761/download/tax_1_68.xls",
+        "format": "XLSX",
+        "description": "รายงานผลการจัดเก็บภาษีอากรของสำนักงานสรรพากรพื้นที่ชลบุรี 1 ประจำเดือนมกราคม พ.ศ.2568 (ปีงบประมาณ พ.ศ.2568)",
+        "size": 28160
+      },
+      {
+        "name": "ผลการจัดเก็บภาษีอากร เดือนกุมภาพันธ์ 2568",
+        "url": "https://chonburi.gdcatalog.go.th/dataset/e077525c-cbd2-4162-b5dc-3f033c21377a/resource/2e7d8294-1552-4ea9-aa53-1e650788adad/download/tax_2_68.xls",
+        "format": "XLS",
+        "description": "รายงานผลการจัดเก็บภาษีอากรของสำนักงานสรรพากรพื้นที่ชลบุรี 1 ประจำเดือนกุมภาพันธ์ พ.ศ.2568 (ปีงบประมาณ พ.ศ.2568)",
+        "size": 28160
+      },
+      {
+        "name": "ผลการจัดเก็บภาษีอากร เดือนมีนาคม พ.ศ.2568",
+        "url": "https://chonburi.gdcatalog.go.th/dataset/e077525c-cbd2-4162-b5dc-3f033c21377a/resource/c3b8ecd5-305b-4404-8e51-444cbc858708/download/6803-68.xls",
+        "format": "XLS",
+        "description": "รายงานผลการจัดเก็บภาษีอากรของสำนักงานสรรพากรพื้นที่ชลบุรี 1 ประจำเดือนมีนาคม พ.ศ.2568 (ปีงบประมาณ พ.ศ.2568)",
+        "size": 28160
+      },
+      {
+        "name": "ผลการจัดเก็บภาษีอากร เดือนเมษายน 2568",
+        "url": "https://chonburi.gdcatalog.go.th/dataset/e077525c-cbd2-4162-b5dc-3f033c21377a/resource/9936eec9-b4d5-4995-bfae-482fb29a4506/download/6804-2568.xls",
+        "format": "XLSX",
+        "description": "รายงานผลการจัดเก็บภาษีอากรของสำนักงานสรรพากรพื้นที่ชลบุรี 1 ประจำเดือนเมษายน พ.ศ.2568 (ปีงบประมาณ พ.ศ.2568)",
+        "size": 28160
+      },
+      {
+        "name": "ผลการจัดเก็บภาษีอากร เดือนพฤษภาคม 2568",
+        "url": "https://chonburi.gdcatalog.go.th/dataset/e077525c-cbd2-4162-b5dc-3f033c21377a/resource/235ebd2c-3e7b-4aa1-8e09-1ad95bfec65b/download/rd1-6805.csv",
+        "format": "CSV",
+        "description": "รายงานผลการจัดเก็บภาษีอากรของสำนักงานสรรพากรพื้นที่ชลบุรี 1 ประจำเดือนพฤษภาคม พ.ศ.2568 (ปีงบประมาณ พ.ศ.2568)",
+        "size": 871
+      },
+      {
+        "name": "ผลการจัดเก็บภาษีอากร เดือนมิถุนายน 2568",
+        "url": "https://chonburi.gdcatalog.go.th/dataset/e077525c-cbd2-4162-b5dc-3f033c21377a/resource/797446f9-72ba-469c-88d7-28023b126392/download/rd-6806.csv",
+        "format": "CSV",
+        "description": "รายงานผลการจัดเก็บภาษีอากรของสำนักงานสรรพากรพื้นที่ชลบุรี 1 ประจำเดือนมิถุนายน พ.ศ.2568 (ปีงบประมาณ พ.ศ.2568)",
+        "size": 905
+      },
+      {
+        "name": "ผลการจัดเก็บภาษีอากร เดือนกรกฎาคม 2568",
+        "url": "https://chonburi.gdcatalog.go.th/dataset/e077525c-cbd2-4162-b5dc-3f033c21377a/resource/ba0f4d16-cd00-4d66-8baf-417733f5bc49/download/rd-6807.csv",
+        "format": "CSV",
+        "description": "รายงานผลการจัดเก็บภาษีอากรของสำนักงานสรรพากรพื้นที่ชลบุรี 1 ประจำเดือนกรกฎาคม พ.ศ.2568 (ปีงบประมาณ พ.ศ.2568)",
+        "size": 877
+      },
+      {
+        "name": "ผลการจัดเก็บภาษีอากร เดือนสิงหาคม 2568",
+        "url": "https://chonburi.gdcatalog.go.th/dataset/e077525c-cbd2-4162-b5dc-3f033c21377a/resource/79380de5-d6c7-4e00-9a9c-5200ee42f560/download/rd-6808.csv",
+        "format": "CSV",
+        "description": "รายงานผลการจัดเก็บภาษีอากรของสำนักงานสรรพากรพื้นที่ชลบุรี 1 ประจำเดือนสิงหาคม พ.ศ.2568 (ปีงบประมาณ พ.ศ.2568)",
+        "size": 921
+      },
+      {
+        "name": "ผลการจัดเก็บภาษีอากร เดือนกันยายน 2568",
+        "url": "https://chonburi.gdcatalog.go.th/dataset/e077525c-cbd2-4162-b5dc-3f033c21377a/resource/ed9352de-4367-4e03-b9ec-82148dd68ffc/download/rd-6809.csv",
+        "format": "CSV",
+        "description": "รายงานผลการจัดเก็บภาษีอากรของสำนักงานสรรพากรพื้นที่ชลบุรี 1 ประจำเดือนกันยายน พ.ศ.2568 (ปีงบประมาณ พ.ศ.2568)",
+        "size": 925
+      },
+      {
+        "name": "ผลการจัดเก็บภาษีอากร เดือนตุลาคม 2568",
+        "url": "https://chonburi.gdcatalog.go.th/dataset/e077525c-cbd2-4162-b5dc-3f033c21377a/resource/a925f0a6-0be8-418a-9c42-db6e6e3796f0/download/rd-6810.csv",
+        "format": "CSV",
+        "description": "รายงานผลการจัดเก็บภาษีอากรของสำนักงานสรรพากรพื้นที่ชลบุรี 1 ประจำเดือนตุลาคม พ.ศ.2568 (ปีงบประมาณ พ.ศ.2569)",
+        "size": 897
+      },
+      {
+        "name": "ผลการจัดเก็บภาษีอากร เดือนพฤศจิกายน 2568",
+        "url": "https://chonburi.gdcatalog.go.th/dataset/e077525c-cbd2-4162-b5dc-3f033c21377a/resource/d81db6c6-7f58-4989-8d31-a2a860e7aed3/download/rd-6811.csv",
+        "format": "CSV",
+        "description": "รายงานผลการจัดเก็บภาษีอากรของสำนักงานสรรพากรพื้นที่ชลบุรี 1 ประจำเดือนพฤศจิกายน พ.ศ. 2568 (ปีงบประมาณ พ.ศ. 2569)",
+        "size": 969
+      },
+      {
+        "name": "ผลการจัดเก็บภาษีอากร เดือนธันวาคม 2568",
+        "url": "https://chonburi.gdcatalog.go.th/dataset/e077525c-cbd2-4162-b5dc-3f033c21377a/resource/243b4e54-42ea-49ca-b5da-57b377cd45d9/download/rd6812.csv",
+        "format": "CSV",
+        "description": "รายงานผลการจัดเก็บภาษีอากรของสำนักงานสรรพากรพื้นที่ชลบุรี 1 ประจำเดือน ธันวาคม พ.ศ.2568 (ปีงบประมาณ พ.ศ.2569)",
+        "size": 2851
+      },
+      {
+        "name": "ผลการจัดเก็บภาษีอากร เดือนมกราคม 2569",
+        "url": "https://chonburi.gdcatalog.go.th/dataset/e077525c-cbd2-4162-b5dc-3f033c21377a/resource/3b559cf8-9a9d-44b9-ac37-e7ac5dfd8953/download/rd-6901.csv",
+        "format": "CSV",
+        "description": "รายงานผลการจัดเก็บภาษีอากรของสำนักงานสรรพากรพื้นที่ชลบุรี 1ประจำเดือน มกราคม พ.ศ.2569 (ปีงบประมาณ พ.ศ.2569)",
+        "size": 887
+      }
+    ]
+  },
+  {
+    "title": "ตัวชี้วัดและเป้าหมายตามแผนยุทธศาสตร์ของศูนย์เทคโนโลยีสารสนเทศและการสื่อสาร",
+    "name": "gdpublish-kpi_and_goals_12_02",
+    "organization": "สำนักงานปลัดกระทรวงการคลัง",
+    "organization_name": "859f8d3d-e4b6-47c4-b952-0675c961eadf",
+    "resources": [
+      {
+        "name": "ตัวชี้วัดและเป้าหมายตามแผนยุทธศาสตร์ของศูนย์เทคโนโลยีสารสนเทศและการสื่อสาร",
+        "url": "https://opsplan.mof.go.th/Aexport2csv.php?RPTYPE=2&ID=2",
+        "format": "CSV",
+        "description": "1. ระดับความสำเร็จการในการพัฒนาระบบบริหารการเงินการคลังภาครัฐแบบอิเล็กทรอนิกส์ใหม่ (New GFMIS Thai) \r\n2. ระดับความสำเร็จของการดำเนินงานโครงการพัฒนาและปรับปรุงระบบบริการ Tax Single Sign On (Tax SSO) เพื่อรองรับระบบ E-FILING กรมสรรพากร \r\n3. ร้อยละที่เพิ่มขึ้นของอัตราการใช้บริการเว็บไซต์กระทรวงการคลัง \r\n4. ร้อยละของเวลาที่ระบบ GFMIS ไม่สามารถให้บริการได้ (Unplanned downtime) ภายใน 1 ปี \r\n5. ระดับความสำเร็จของการติดตามเฝ้าระวังและแจ้งเหตุปัญหาด้านระบบเทคโนโลยีสารสนเทศและการสื่อสาร \r\n6. ระดับความสำเร็จในการดำเนินการโครงการปรับปรุงระบบเครือข่ายไร้สาย กระทรวงการคลัง (MOF WiFi) \r\n7. ระดับความสำเร็จในการพัฒนาระบบข้อมูลเปิดเผยของกระทรวงการคลัง \r\n8. จำนวนบุคลากรที่เข้ารับการฝึกอบรม/สัมมนา/ประชุม อย่างน้อย 1 ครั้ง ต่อปีงบประมาณ \r\n",
+        "size": null
+      },
+      {
+        "name": "DATADICT_KPI",
+        "url": "https://catalog.mof.go.th/dataset/45fa5ab3-0ce0-4df9-8c57-996813e12aaf/resource/06fae4e0-1f3f-4139-a6b1-a7792d521a30/download/datadict_kpi_ops.xlsx",
+        "format": "XLSX",
+        "description": "",
+        "size": 11763
+      },
+      {
+        "name": "ตัวชี้วัดและเป้าหมายตามแผนยุทธศาสตร์ของศูนย์เทคโนโลยีสารสนเทศและการสื่อสาร",
+        "url": "https://opsplan.mof.go.th/Aexport2json.php?RPTYPE=2&ID=2",
+        "format": "JSON",
+        "description": "",
+        "size": null
+      },
+      {
+        "name": "ตัวชี้วัดและเป้าหมายตามแผนยุทธศาสตร์ของศูนย์เทคโนโลยีสารสนเทศและการสื่อสาร",
+        "url": "https://catalog.mof.go.th/dataset/45fa5ab3-0ce0-4df9-8c57-996813e12aaf/resource/bf70fcf7-622a-4692-8a53-532e2f9d96e6/download/kpi_and_goals_12_02.rdf",
+        "format": "RDF",
+        "description": "",
+        "size": 117979
+      }
+    ]
+  },
+  {
+    "title": "รายได้จากการจัดเก็บเงินภาษี",
+    "name": "gdpublish-tax",
+    "organization": "จังหวัดสระบุรี",
+    "organization_name": "ea0d1cfb-44f5-4871-8fec-2cbfb0e83c59",
+    "resources": [
+      {
+        "name": "รายได้จากการจัดเก็บเงินภาษีของกรมสรรพากร จำแนกตามประเภทภาษี เป็นรายอำเภอ พ.ศ. 2565",
+        "url": "https://saraburi.gdcatalog.go.th/dataset/ac38075b-84e2-485c-8396-7d8c06f87050/resource/9a01fb91-4075-4dfe-be06-f237478a46c4/download/19.4.xlsx",
+        "format": "XLSX",
+        "description": "รายได้จากการจัดเก็บเงินภาษีของกรมสรรพากร จำแนกตามประเภทภาษี เป็นรายอำเภอ พ.ศ. 2565",
+        "size": 10018
+      },
+      {
+        "name": "รายได้จากการจัดเก็บเงินภาษีของกรมสรรพากร จำแนกตามประเภทภาษี เป็นรายอำเภอ พ.ศ. 2565",
+        "url": "https://saraburi.gdcatalog.go.th/dataset/ac38075b-84e2-485c-8396-7d8c06f87050/resource/c2e66854-f1ad-4dd5-a007-8ad893cee54b/download/9a01fb91-4075-4dfe-be06-f237478a46c4.csv",
+        "format": "CSV",
+        "description": "รายได้จากการจัดเก็บเงินภาษีของกรมสรรพากร จำแนกตามประเภทภาษี เป็นรายอำเภอ พ.ศ. 2565",
+        "size": 1283
+      },
+      {
+        "name": "รายได้จากการจัดเก็บเงินภาษีของกรมสรรพากร จำแนกตามประเภทภาษี เป็นรายอำเภอ พ.ศ.2566",
+        "url": "https://saraburi.gdcatalog.go.th/dataset/ac38075b-84e2-485c-8396-7d8c06f87050/resource/ffdb3c32-e94e-469d-9765-13f325ade979/download/..2566.xls",
+        "format": "XLSX",
+        "description": "รายได้จากการจัดเก็บเงินภาษีของกรมสรรพากร จำแนกตามประเภทภาษี เป็นรายอำเภอ พ.ศ.2566",
+        "size": 31232
+      },
+      {
+        "name": "รายได้จากการจัดเก็บเงินภาษีของกรมสรรพากร จำแนกตามประเภทภาษี เป็นรายอำเภอ พ.ศ.2566",
+        "url": "https://saraburi.gdcatalog.go.th/dataset/ac38075b-84e2-485c-8396-7d8c06f87050/resource/12ceb114-d9ef-4092-8411-65f21a38e854/download/2566.csv",
+        "format": "CSV",
+        "description": "รายได้จากการจัดเก็บเงินภาษีของกรมสรรพากร จำแนกตามประเภทภาษี เป็นรายอำเภอ พ.ศ.2566",
+        "size": 1289
+      },
+      {
+        "name": "รายได้จากการจัดเก็บเงินภาษีของกรมสรรพากร จำแนกตามประเภทภาษี เป็นรายอำเภอ พ.ศ.2567",
+        "url": "https://saraburi.gdcatalog.go.th/dataset/ac38075b-84e2-485c-8396-7d8c06f87050/resource/4293e6cc-cff5-47ed-be02-116f44879d53/download/..2567.xls",
+        "format": "XLS",
+        "description": "รายได้จากการจัดเก็บเงินภาษีของกรมสรรพากร จำแนกตามประเภทภาษี เป็นรายอำเภอ พ.ศ.2567",
+        "size": 38912
+      },
+      {
+        "name": "รายได้จากการจัดเก็บเงินภาษีของกรมสรรพากร จำแนกตามประเภทภาษี เป็นรายอำเภอ พ.ศ.2567",
+        "url": "https://saraburi.gdcatalog.go.th/dataset/ac38075b-84e2-485c-8396-7d8c06f87050/resource/bc560b36-d28d-49e5-bdab-ee59fddc4aaf/download/bc560b36-d28d-49e5-bdab-ee59fddc4aaf.csv",
+        "format": "CSV",
+        "description": "รายได้จากการจัดเก็บเงินภาษีของกรมสรรพากร จำแนกตามประเภทภาษี เป็นรายอำเภอ พ.ศ.2567",
+        "size": 1294
+      },
+      {
+        "name": "รายได้จากการจัดเก็บของกรมสรรพากร จำแนกตามประเภทภาษี เป็นรายอำเภอ พ.ศ.2568",
+        "url": "https://saraburi.gdcatalog.go.th/dataset/ac38075b-84e2-485c-8396-7d8c06f87050/resource/3480c5e5-f169-44f3-a86f-c5809794231a/download/untitled.xls",
+        "format": "XLSX",
+        "description": "รายได้จากการจัดเก็บของกรมสรรพากร จำแนกตามประเภทภาษี เป็นรายอำเภอ พ.ศ.2568",
+        "size": 35840
+      },
+      {
+        "name": "รายได้จากการจัดเก็บเงินภาษีของกรมสรรพากร จำแนกตามประเภทภาษี เป็นรายอำเภอ พ.ศ.2568",
+        "url": "https://saraburi.gdcatalog.go.th/dataset/ac38075b-84e2-485c-8396-7d8c06f87050/resource/7b2ed59a-ef83-42f3-a2b7-8e792e43d239/download/untitled.csv",
+        "format": "CSV",
+        "description": "รายได้จากการจัดเก็บเงินภาษีของกรมสรรพากร จำแนกตามประเภทภาษี เป็นรายอำเภอ พ.ศ.2568",
+        "size": 1950
+      }
+    ]
+  },
+  {
+    "title": "คู่มือหรือแนวทางการขอรับบริการสำหรับผู้รับบริการหรือผู้มาติดต่อ",
+    "name": "gdpublish-people-manual",
+    "organization": "กรมสรรพากร",
+    "organization_name": "fe6ead28-0d80-4989-9f05-48f7b3274503",
+    "resources": [
+      {
+        "name": "คู่มือสำหรับประชาชน ตามพระราชบัญญัติอำนวยความสะดวกฯ พ.ศ. 2558 ",
+        "url": "https://www.rd.go.th/fileadmin/images/images_licensing_manual/TH_Licensing_Manual_23072567_Interactive.pdf",
+        "format": "PDF",
+        "description": "ประกอบด้วย หลักเกณฑ์ ช่องทางการให้บริการ ขั้นตอน ระยะเวลา ส่วนงานที่รับผิดชอบ เอกสารหลักฐาน การพิจารณา ในการยื่นคำขอรับบริการ",
+        "size": null
+      },
+      {
+        "name": "คู่มือบริการประชาชน",
+        "url": "https://data.rd.go.th/dataset/56f04351-19e4-46bb-afba-861177f6d7b0/resource/c134a904-7365-4158-91f6-916e5b1c8e64/download/o9.csv",
+        "format": "CSV",
+        "description": "หลักเกณฑ์ ช่องทางการให้บริการ ขั้นตอน ระยะเวลา ส่วนงานที่รับผิดชอบ เอกสารหลักฐาน การพิจารณา ในการยื่นคำขอรับบริการ",
+        "size": 665
+      }
+    ]
+  },
+  {
+    "title": "รายชื่อผู้ประกอบการจดทะเบียนภาษีมูลค่าเพิ่ม",
+    "name": "gdpublish-vat-taxpayeraddress",
+    "organization": "กรมสรรพากร",
+    "organization_name": "fe6ead28-0d80-4989-9f05-48f7b3274503",
+    "resources": [
+      {
+        "name": "รายชื่อผู้ประกอบการจดทะเบียนภาษีมูลค่าเพิ่ม กรุงเทพมหานคร",
+        "url": "https://data.rd.go.th/dataset/558c27ab-874c-4bd2-9758-ecf2c026dfd6/resource/5168fafa-518f-41d9-90f1-82658d2773e0/download/vat_taxpayeraddress_01.csv",
+        "format": "CSV",
+        "description": "ชื่อผู้ประกอบการ และที่อยู่สถานประกอบการของผู้ประกอบการที่จดทะเบียนภาษีมูลค่าเพิ่ม เฉพาะรายผู้ประกอบการที่ยังประกอบกิจการอยู่",
+        "size": 63210695
+      },
+      {
+        "name": "รายชื่อผู้ประกอบการจดทะเบียนภาษีมูลค่าเพิ่ม ทุกจังหวัด (ยกเว้นกรุงเทพมหานคร)",
+        "url": "https://data.rd.go.th/datafiles/vat/VAT_TaxpayerAddress_02.csv",
+        "format": "CSV",
+        "description": "ชื่อผู้ประกอบการ และที่อยู่สถานประกอบการของผู้ประกอบการที่จดทะเบียนภาษีมูลค่าเพิ่ม เฉพาะรายผู้ประกอบการที่ยังประกอบกิจการอยู่",
+        "size": 125862112
+      }
+    ]
+  },
+  {
+    "title": "รายได้ของนิติบุคคล",
+    "name": "gdpublish-dataset-udon01",
+    "organization": "จังหวัดอุดรธานี",
+    "organization_name": "e9cef71d-97cf-45ac-9f4e-04ccca62617f",
+    "resources": [
+      {
+        "name": "รายได้ของนิติบุคคล",
+        "url": "https://udonthani.gdcatalog.go.th/dataset/a835e704-f99b-4258-aadb-495350356102/resource/715b42bc-db0c-40c4-b5df-2451a2fb44b2/download/untitled.csv",
+        "format": "XLSX",
+        "description": "",
+        "size": 254
+      }
+    ]
+  },
+  {
+    "title": "รายได้จากการจัดเก็บเงินภาษี",
+    "name": "gdpublish-67-61",
+    "organization": "จังหวัดเชียงใหม่",
+    "organization_name": "e2b622ca-d503-4ec4-a102-45e321f9d99c",
+    "resources": [
+      {
+        "name": "รายได้จากการจัดเก็บเงินภาษี",
+        "url": "https://chiangmai.gdcatalog.go.th/dataset/082a10e3-db0e-4b2b-a707-05aa634d9acc/resource/bf57c922-e1c5-4352-aabc-18aa5808075e/download/dataset_67_61.csv",
+        "format": "CSV",
+        "description": "",
+        "size": 59865
+      }
+    ]
+  },
+  {
+    "title": "ช่องทางการติดต่อกรม",
+    "name": "gdpublish-rd-contact",
+    "organization": "กรมสรรพากร",
+    "organization_name": "fe6ead28-0d80-4989-9f05-48f7b3274503",
+    "resources": [
+      {
+        "name": "ข้อมูลช่องทางการติดต่อกรมสรรพากร",
+        "url": "https://data.rd.go.th/dataset/cf4244d5-cbaa-4164-8e17-4e16e7b8dda7/resource/03f600f1-06d4-435f-9e36-52661cb3a25b/download/rd_contact.csv",
+        "format": "CSV",
+        "description": "ช่องทางการติดต่อหน่วยงานต่าง ๆ ในกรมสรรพากร",
+        "size": 21416
+      }
+    ]
+  },
+  {
+    "title": "แบบแสดงรายการและแบบคำร้อง คำขอ",
+    "name": "gdpublish-rd-taxform",
+    "organization": "กรมสรรพากร",
+    "organization_name": "fe6ead28-0d80-4989-9f05-48f7b3274503",
+    "resources": [
+      {
+        "name": "ข้อมูลแบบแสดงรายการและแบบคำร้อง/คำขอ",
+        "url": "https://data.rd.go.th/dataset/2193ce85-4974-4e84-8906-8c89745422d4/resource/66eef24b-8651-4988-9dbf-e9e5cde67a58/download/rd_tax_form.csv",
+        "format": "CSV",
+        "description": "แบบแสดงรายการภาษีประเภทต่าง ๆ สำหรับดาวน์โหลด และแบบคำร้อง/คำขอ ที่เกี่ยวกับกิจกรรมกรมสรรพากร",
+        "size": 40150
+      }
+    ]
+  },
+  {
+    "title": "รายงานสถิติแสดงผู้ใช้บริการ ระบบข้อมูลการใช้จ่ายภาครัฐ  Thailand Government Spending",
+    "name": "gdpublish-thailand-government-spending",
+    "organization": "สำนักงานพัฒนารัฐบาลดิจิทัล (องค์การมหาชน)",
+    "organization_name": "c292eb79-f33e-4993-9d3d-a17cf1eb8d03",
+    "resources": [
+      {
+        "name": "จำนวนคนผู้เข้าใช้บริการ Govspending ",
+        "url": "https://catalog-dga.data.go.th/dataset/cfebfd86-25a4-4b3f-aa64-3fa59b5466b0/resource/e96ca711-65fb-4d95-9086-34a4bdb1945d/download/totaluser.csv",
+        "format": "CSV",
+        "description": "จำนวนคนผู้เข้าใช้บริการ Govspending  เริ่มตั้งแต่ เดือน ม.ค. 2563 ถึง เดือน มี.ค. 2566",
+        "size": 17250
+      },
+      {
+        "name": "ข้อมูลผู้ใช้งานจำแนกตามอุปกรณ์",
+        "url": "https://catalog-dga.data.go.th/dataset/cfebfd86-25a4-4b3f-aa64-3fa59b5466b0/resource/7670a55d-628f-4587-a289-1ca6ff1301f8/download/usebydevicegovspend.csv",
+        "format": "CSV",
+        "description": "ข้อมูลผู้ใช้งานจำแนกตามอุปกรณ์ รายปีเริ่มตั้งแต่ 2021 ถึง มี.ค. 2023",
+        "size": 216
+      },
+      {
+        "name": "จำนวนการเข้าใช้บริการจำแนกตามแพลตฟอร์ม",
+        "url": "https://catalog-dga.data.go.th/dataset/cfebfd86-25a4-4b3f-aa64-3fa59b5466b0/resource/06e23c22-b7da-429b-8217-a00042c5aba2/download/totaluseplatfrom.csv",
+        "format": "CSV",
+        "description": "จำนวนการเข้าใช้บริการจำแนกตามแพลตฟอร์ม เริ่มตั้งแต่ 2021 ถึง มี.ค. 2023",
+        "size": 172
+      },
+      {
+        "name": "จำนวนการเข้าใช้บริการจำแนกตามประเทศ",
+        "url": "https://catalog-dga.data.go.th/dataset/cfebfd86-25a4-4b3f-aa64-3fa59b5466b0/resource/b63eb894-59a0-4fcf-aaef-ee305f518309/download/totaluse.rgovspending.csv",
+        "format": "CSV",
+        "description": "จำนวนการเข้าใช้บริการจำแนกตามประเทศรายปี",
+        "size": 5473
+      }
+    ]
+  },
+  {
+    "title": "รายงานผลการดำเนินงานประจำปี",
+    "name": "gdpublish-plan-report",
+    "organization": "กรมสรรพากร",
+    "organization_name": "fe6ead28-0d80-4989-9f05-48f7b3274503",
+    "resources": [
+      {
+        "name": "รายงานผลการดำเนินงานตามแผนปฏิบัติราชการกรมสรรพากร ประจำปีงบประมาณ พ.ศ. 2568",
+        "url": "https://www.rd.go.th/fileadmin/download/plan/reportinter_12month_081268.pdf",
+        "format": "PDF",
+        "description": "ประกอบด้วย แผนงาน ประเภทแผนงาน ตัวชี้วัด ผลการดำเนินการ ปัญหาและอุปสรรค์พร้อมแนวทางการแก้ไข งบประมาณ และระยะเวลาดำเนินการ",
+        "size": null
+      },
+      {
+        "name": "รายงานผลการดำเนินงานตามแผนปฏิบัติราชการกรมสรรพากร ประจำปีงบประมาณ พ.ศ. 2568",
+        "url": "https://data.rd.go.th/dataset/97bb109b-2390-4f13-b041-e235bf56c857/resource/bed35e82-e061-486d-8227-cc914f5cced8/download/o7.csv",
+        "format": "CSV",
+        "description": "แผนงาน ประเภทแผนงาน ตัวชี้วัด ผลการดำเนินการ ปัญหาและอุปสรรค์พร้อมแนวทางการแก้ไข งบประมาณ ระยะเวลาดำเนินการ",
+        "size": 742
+      }
+    ]
+  },
+  {
+    "title": "แผนยุทธศาสตร์หรือแผนพัฒนาหน่วยงาน",
+    "name": "gdpublish-rd-plan",
+    "organization": "กรมสรรพากร",
+    "organization_name": "fe6ead28-0d80-4989-9f05-48f7b3274503",
+    "resources": [
+      {
+        "name": "แผนปฏิบัติราชการกรมสรรพากร ปีงบประมาณ พ.ศ. 2566 และแผนปฏิบัติราชการกรมสรรพากร ระยะ 5 ปี (พ.ศ. 2566 -2570) ฉบับปรับปรุง",
+        "url": "https://www.rd.go.th/fileadmin/download/plan/Plan_66_Internet_edit1.pdf",
+        "format": "PDF",
+        "description": "ประกอบด้วย เป้าหมาย วิสัยทัศน์ ยุทธศาสตร์ พันธกิจ โครงการ และตัวชีวัด",
+        "size": null
+      },
+      {
+        "name": "แผนปฏิบัติราชการกรมสรรพากร ปีงบประมาณ พ.ศ. 2566 และแผนปฏิบัติราชการกรมสรรพากร ระยะ 5 ปี (พ.ศ. 2566 -2570) ฉบับปรับปรุง",
+        "url": "https://data.rd.go.th/dataset/ba6adebc-7170-424a-9345-480c33283abb/resource/985c79c3-59c6-4628-be30-b1bc664fe51a/download/o5.csv",
+        "format": "CSV",
+        "description": "เป้าหมาย วิสัยทัศน์ ยุทธศาสตร์ พันธกิจ โครงการ และตัวชีวัด",
+        "size": 777
+      }
+    ]
+  },
+  {
+    "title": "แนวปฏิบัติการจัดการเรื่องร้องเรียนการทุจริตและประพฤติมิชอบ",
+    "name": "gdpublish-complaint-handling-policy",
+    "organization": "กรมสรรพากร",
+    "organization_name": "fe6ead28-0d80-4989-9f05-48f7b3274503",
+    "resources": [
+      {
+        "name": "มาตรการและแนวปฏิบัติเกี่ยวกับการจัดการเรื่องร้องเรียนทุจริต ปีงบประมาณ พ.ศ.2569",
+        "url": "https://www.rd.go.th/fileadmin/user_upload/ita/2568/O17.pdf",
+        "format": "PDF",
+        "description": "ประกอบด้วย แบบแจ้งข้อร้องเรียน ขั้นตอน และระยะเวลาในการพิจารณา",
+        "size": null
+      },
+      {
+        "name": "มาตรการและแนวปฏิบัติเกี่ยวกับการจัดการเรื่องร้องเรียนทุจริต ปีงบประมาณ พ.ศ.2569",
+        "url": "https://data.rd.go.th/dataset/bb676e4e-3f6b-4a2e-8b68-a96e9b0b3fdf/resource/f48f236f-4603-4266-89e8-2fcb08b0554f/download/o16.csv",
+        "format": "CSV",
+        "description": "แบบแจ้งข้อร้องเรียน ขั้นตอน และระยะเวลาในการพิจารณา",
+        "size": 634
+      }
+    ]
+  },
+  {
+    "title": "รายงานผลการดำเนินการตามแผนบริหารจัดการความเสี่ยงการทุจริตของหน่วยงาน",
+    "name": "gdpublish-fraud-risk-action-report",
+    "organization": "กรมสรรพากร",
+    "organization_name": "fe6ead28-0d80-4989-9f05-48f7b3274503",
+    "resources": [
+      {
+        "name": "การจัดทำผลบริหารความเสี่ยงการทุจริต",
+        "url": "https://www.rd.go.th/fileadmin/user_upload/ita/2569/risk_report_68.pdf",
+        "format": "PDF",
+        "description": "ประกอบด้วย ขั้นตอนการดำเนินการ ประเด็นความเสี่ยง ระดับความเสี่ยง มาตรการควบคุม วิธีดำเนินการ และผลการดำเนินการ",
+        "size": null
+      },
+      {
+        "name": "รายงานผลการดำเนินการตามแผนบริหารจัดการความเสี่ยงการทุจริตของหน่วยงาน ",
+        "url": "https://data.rd.go.th/dataset/d4b2a427-675b-4396-a987-f13e4d6c61ec/resource/85271c1c-5252-4942-a0e8-eb55681b7d08/download/o22.csv",
+        "format": "CSV",
+        "description": "ขั้นตอนการดำเนินการ ประเด็นความเสี่ยง ระดับความเสี่ยง มาตรการควบคุม วิธีดำเนินการ และผลการดำเนินการ",
+        "size": 27548
+      }
+    ]
+  },
+  {
+    "title": "ข้อมูลผู้บริหาร",
+    "name": "gdpublish-executive-profile",
+    "organization": "กรมสรรพากร",
+    "organization_name": "fe6ead28-0d80-4989-9f05-48f7b3274503",
+    "resources": [
+      {
+        "name": "รายนามผู้บริหารของกรมสรรพากร",
+        "url": "https://data.rd.go.th/dataset/e16ed241-5c23-4582-84b2-966cceb83558/resource/40a9d9d8-5b1c-4458-8edc-4c8026c32425/download/o2.csv",
+        "format": "CSV",
+        "description": "",
+        "size": 28888
+      }
+    ]
+  },
+  {
+    "title": "ข้อมูลสถิติเรื่องร้องเรียนการทุจริตและประพฤติมิชอบ",
+    "name": "gdpublish-complaints-analysis",
+    "organization": "กรมสรรพากร",
+    "organization_name": "fe6ead28-0d80-4989-9f05-48f7b3274503",
+    "resources": [
+      {
+        "name": "ข้อมูลสถิติเรื่องร้องเรียนการทุจริตและประพฤติมิชอบ",
+        "url": "https://data.rd.go.th/dataset/84c708e3-7313-43ac-8040-733148026196/resource/4a744307-69cf-4a6c-a75d-e48f33f75a8e/download/o18.csv",
+        "format": "CSV",
+        "description": "ข้อมูลล่าสุดของปี 2569",
+        "size": 8242
+      }
+    ]
+  },
+  {
+    "title": "ผลจัดเก็บภาษีอากรทุกประเภทภาษี ประจำปีงบประมาณ",
+    "name": "gdpublish-ds-taxsumyea",
+    "organization": "กรมสรรพากร",
+    "organization_name": "fe6ead28-0d80-4989-9f05-48f7b3274503",
+    "resources": [
+      {
+        "name": "ผลจัดเก็บภาษีอากรทั้งประเทศ ปี 2565",
+        "url": "https://data.rd.go.th/dataset/9eb19b70-926d-4d31-b06c-5484cb6c3ffe/resource/7fca2824-c29d-4f20-96b0-764fee489a27/download/taxsumyear_2565.csv",
+        "format": "CSV",
+        "description": "ผลการจัดเก็บภาษีอากร รายเดือนในปีงบประมาณ (2565) \r\nรวมผลแต่ละประเภทภาษีอากร 001(ภาษีเงินได้บุคคลธรรมดา)\r\n002(ภาษีเงินได้นิติบุคคล)\r\n003(ภาษีปิโตรเลียม)\r\n005(ภาษีมูลค่าเพิ่ม)\r\n006(ภาษีธุรกิจเฉพาะ)\r\n007(ภาษีอากรแสตมป์)\r\n070(ภาษีมรดก) \r\n999(รายได้อื่น) และ แบ่งตามประเภทแบบแสดงรายการ",
+        "size": 21917
+      },
+      {
+        "name": "ผลจัดเก็บภาษีอากรทั้งประเทศ ปี 2566",
+        "url": "https://data.rd.go.th/dataset/9eb19b70-926d-4d31-b06c-5484cb6c3ffe/resource/9a364398-fa85-493a-9373-2e114b1c3c8a/download/taxsumyear_2566.csv",
+        "format": "CSV",
+        "description": "ผลการจัดเก็บภาษีอากร รายเดือนในปีงบประมาณ (2566) \r\nรวมผลแต่ละประเภทภาษีอากร 001(ภาษีเงินได้บุคคลธรรมดา)\r\n002(ภาษีเงินได้นิติบุคคล)\r\n003(ภาษีปิโตรเลียม)\r\n005(ภาษีมูลค่าเพิ่ม)\r\n006(ภาษีธุรกิจเฉพาะ)\r\n007(ภาษีอากรแสตมป์)\r\n070(ภาษีมรดก) \r\n999(รายได้อื่น) และ แบ่งตามประเภทแบบแสดงรายการ",
+        "size": 15767
+      },
+      {
+        "name": "ผลจัดเก็บภาษีอากรทั้งประเทศ ปี 2567",
+        "url": "https://data.rd.go.th/dataset/9eb19b70-926d-4d31-b06c-5484cb6c3ffe/resource/89604f86-e5d1-48f9-b7ed-2051708138eb/download/-2567.csv",
+        "format": "CSV",
+        "description": "ผลการจัดเก็บภาษีอากร รายเดือนในปีงบประมาณ (2567) \r\nรวมผลแต่ละประเภทภาษีอากร 001(ภาษีเงินได้บุคคลธรรมดา)\r\n002(ภาษีเงินได้นิติบุคคล)\r\n003(ภาษีปิโตรเลียม)\r\n005(ภาษีมูลค่าเพิ่ม)\r\n006(ภาษีธุรกิจเฉพาะ)\r\n007(ภาษีอากรแสตมป์)\r\n070(ภาษีมรดก) \r\n999(รายได้อื่น) และ แบ่งตามประเภทแบบแสดงรายการ",
+        "size": 19641
+      },
+      {
+        "name": "ผลจัดเก็บภาษีอากรทั้งประเทศ ปี 2568",
+        "url": "https://data.rd.go.th/dataset/9eb19b70-926d-4d31-b06c-5484cb6c3ffe/resource/7164b08d-6206-4ace-a94a-45013d360de4/download/data_2568.csv",
+        "format": "CSV",
+        "description": "ผลการจัดเก็บภาษีอากร รายเดือนในปีงบประมาณ (2568) รวมผลแต่ละประเภทภาษีอากร 001(ภาษีเงินได้บุคคลธรรมดา) 002(ภาษีเงินได้นิติบุคคล) 003(ภาษีปิโตรเลียม) 005(ภาษีมูลค่าเพิ่ม) 006(ภาษีธุรกิจเฉพาะ) 007(ภาษีอากรแสตมป์) 070(ภาษีมรดก) 999(รายได้อื่น) และ แบ่งตามประเภทแบบแสดงรายการ",
+        "size": 19641
+      }
+    ]
+  },
+  {
+    "title": "ผลจัดเก็บภาษีอากรรายจังหวัด ประจำปีงบประมาณ  กรณีรับแบบออนไลน์ เป็นผลจัดเก็บตามภูมิลำเนาผู้เสียภาษี",
+    "name": "gdpublish-ds-taxsumprov",
+    "organization": "กรมสรรพากร",
+    "organization_name": "fe6ead28-0d80-4989-9f05-48f7b3274503",
+    "resources": [
+      {
+        "name": "ผลจัดเก็บภาษีอากรรายจังหวัด ปี 2565",
+        "url": "https://data.rd.go.th/dataset/8958b42d-4bfe-4dc8-b897-428b77691dc4/resource/e48a3148-3f08-4b81-a2f5-8d1684eb21b8/download/taxsumprov_2565.csv",
+        "format": "CSV",
+        "description": "ผลจัดเก็บภาษีอากรตามหน่วยจัดเก็บ (จังหวัด) ประจำปีงบประมาณ (2565) กรณีรับแบบออนไลน์ เป็นผลจัดเก็บตามภูมิลำเนาผู้เสียภาษีรวมผลแต่ละประเภทภาษีอากร\r\n001(ภาษีเงินได้บุคคลธรรมดา)\r\n002(ภาษีเงินได้นิติบุคคล)\r\n003(ภาษีปิโตรเลียม)\r\n005(ภาษีมูลค่าเพิ่ม)\r\n006(ภาษีธุรกิจเฉพาะ)\r\n007(ภาษีอากรแสตมป์)\r\n070(ภาษีมรดก) \r\n999(รายได้อื่น) และแยกตามประเภทแบบแสดงรายการ",
+        "size": 144693
+      },
+      {
+        "name": "ผลจัดเก็บภาษีอากรรายจังหวัด ปี 2566",
+        "url": "https://data.rd.go.th/dataset/8958b42d-4bfe-4dc8-b897-428b77691dc4/resource/d89f0eab-89d9-4c41-b624-7bc9ec768403/download/taxsumprov_2566.csv",
+        "format": "CSV",
+        "description": "ผลจัดเก็บภาษีอากรตามหน่วยจัดเก็บ (จังหวัด) ประจำปีงบประมาณ (2566) กรณีรับแบบออนไลน์ เป็นผลจัดเก็บตามภูมิลำเนาผู้เสียภาษีรวมผลแต่ละประเภทภาษีอากร\r\n001(ภาษีเงินได้บุคคลธรรมดา)\r\n002(ภาษีเงินได้นิติบุคคล)\r\n003(ภาษีปิโตรเลียม)\r\n005(ภาษีมูลค่าเพิ่ม)\r\n006(ภาษีธุรกิจเฉพาะ)\r\n007(ภาษีอากรแสตมป์)\r\n070(ภาษีมรดก) \r\n999(รายได้อื่น) และแยกตามประเภทแบบแสดงรายการ",
+        "size": 125404
+      },
+      {
+        "name": "ผลจัดเก็บภาษีอากรรายจังหวัด ปี 2567",
+        "url": "https://data.rd.go.th/dataset/8958b42d-4bfe-4dc8-b897-428b77691dc4/resource/facba6cd-0d16-4d84-80d7-e784c0e97a29/download/-2567.csv",
+        "format": "CSV",
+        "description": "ผลจัดเก็บภาษีอากรตามหน่วยจัดเก็บ (จังหวัด) ประจำปีงบประมาณ (2567) กรณีรับแบบออนไลน์ เป็นผลจัดเก็บตามภูมิลำเนาผู้เสียภาษีรวมผลแต่ละประเภทภาษีอากร\r\n001(ภาษีเงินได้บุคคลธรรมดา)\r\n002(ภาษีเงินได้นิติบุคคล)\r\n003(ภาษีปิโตรเลียม)\r\n005(ภาษีมูลค่าเพิ่ม)\r\n006(ภาษีธุรกิจเฉพาะ)\r\n007(ภาษีอากรแสตมป์)\r\n070(ภาษีมรดก) \r\n999(รายได้อื่น) และแยกตามประเภทแบบแสดงรายการ",
+        "size": 134166
+      },
+      {
+        "name": "ผลจัดเก็บภาษีอากรรายจังหวัด ปี 2568",
+        "url": "https://data.rd.go.th/dataset/8958b42d-4bfe-4dc8-b897-428b77691dc4/resource/78f38093-35b7-4ece-a304-cf0a283ed3c3/download/data2_2568.csv",
+        "format": "CSV",
+        "description": "ผลจัดเก็บภาษีอากรตามหน่วยจัดเก็บ (จังหวัด) ประจำปีงบประมาณ (2568) กรณีรับแบบออนไลน์ เป็นผลจัดเก็บตามภูมิลำเนาผู้เสียภาษีรวมผลแต่ละประเภทภาษีอากร 001(ภาษีเงินได้บุคคลธรรมดา) 002(ภาษีเงินได้นิติบุคคล) 003(ภาษีปิโตรเลียม) 005(ภาษีมูลค่าเพิ่ม) 006(ภาษีธุรกิจเฉพาะ) 007(ภาษีอากรแสตมป์) 070(ภาษีมรดก) 999(รายได้อื่น) และแยกตามประเภทแบบแสดงรายการ",
+        "size": 134166
+      }
+    ]
+  },
+  {
+    "title": "ข้อมูลผลการจัดเก็บภาษี",
+    "name": "gdpublish-062566",
+    "organization": "จังหวัดชลบุรี",
+    "organization_name": "f5804776-6d4a-4db5-a79c-cfc93b4aa071",
+    "resources": [
+      {
+        "name": "ผลการจัดเก็บตามประเภทกิจการ ประจำเดือน มิถุนายน 2566.",
+        "url": "https://chonburi.gdcatalog.go.th/dataset/3fb8264c-2686-4241-b681-5ab74d6f3348/resource/73563785-56c5-47ab-9732-2df75a6f2688/download/-2566.xlsx",
+        "format": "XLSX",
+        "description": "",
+        "size": 16162
+      },
+      {
+        "name": "ผลการจัดเก็บตามประเภทกิจการ ประจำเดือน มิถุนายน 2566.",
+        "url": "https://chonburi.gdcatalog.go.th/dataset/3fb8264c-2686-4241-b681-5ab74d6f3348/resource/b0830fde-6dd2-45aa-be3f-aa3e101a22df/download/-2566-csv.csv",
+        "format": "CSV",
+        "description": "",
+        "size": 5489
+      }
+    ]
+  },
+  {
+    "title": "ผลจัดเก็บตามประเภทกิจการประจำปีงบประมาณ",
+    "name": "gdpublish-chon3rd-2566",
+    "organization": "จังหวัดชลบุรี",
+    "organization_name": "f5804776-6d4a-4db5-a79c-cfc93b4aa071",
+    "resources": [
+      {
+        "name": "ผลการจัดเก็บภาษีตามประเภทกิจการ ประจำปีงบประมาณพ.ศ.2566 ",
+        "url": "https://chonburi.gdcatalog.go.th/dataset/7ab56acb-749d-46b4-bf00-96bcd92de310/resource/fda2e36a-6748-453e-82b9-624ff9d799a5/download/2566.xlsx",
+        "format": "XLSX",
+        "description": "",
+        "size": 16841
+      },
+      {
+        "name": "ผลการจัดเก็บภาษีตามประเภทกิจการ ประจำปีงบประมาณพ.ศ.2566 ",
+        "url": "https://chonburi.gdcatalog.go.th/dataset/7ab56acb-749d-46b4-bf00-96bcd92de310/resource/83c0a260-8b81-4428-b31f-1500f889c750/download/..2566.csv",
+        "format": "CSV",
+        "description": "",
+        "size": 5712
+      }
+    ]
+  },
+  {
+    "title": "การจัดเก็บภาษี",
+    "name": "gdpublish-072566",
+    "organization": "จังหวัดชลบุรี",
+    "organization_name": "f5804776-6d4a-4db5-a79c-cfc93b4aa071",
+    "resources": [
+      {
+        "name": "ผลการจัดเก็บตามประเภทกิจการ ประจำเดือน กรกฏาคม2566.",
+        "url": "https://chonburi.gdcatalog.go.th/dataset/11be5f7c-7cfd-4075-ae30-e35709bb7317/resource/2ec3005b-96db-4c1d-870a-ab5e3f135525/download/-2566.xlsx",
+        "format": "XLSX",
+        "description": "",
+        "size": 15039
+      },
+      {
+        "name": "ผลการจัดเก็บตามประเภทกิจการ ประจำเดือน กรกฏาคม2566.",
+        "url": "https://chonburi.gdcatalog.go.th/dataset/11be5f7c-7cfd-4075-ae30-e35709bb7317/resource/05f893ef-d32e-4eb3-9c25-6befba099ffa/download/-2566.csv",
+        "format": "CSV",
+        "description": "",
+        "size": 5463
+      }
+    ]
+  }
+]
