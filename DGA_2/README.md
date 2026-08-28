@@ -83,7 +83,12 @@ Teaching notebooks follow the **K-Means Template** style — each step has a bil
 | [`vat_teaching_exercise.ipynb`](Revenue_Department/For_final/vat_teaching_exercise.ipynb) | 🎓 **นักเรียน / Student** | Blank cells to fill in |
 | [`vat_teaching_solution.ipynb`](Revenue_Department/For_final/vat_teaching_solution.ipynb) | ✅ **ผู้สอน / Instructor** | Full working code |
 | [`vat_risk_analysis.ipynb`](Revenue_Department/For_final/vat_risk_analysis.ipynb) | 📄 **ต้นฉบับ / Source** | Complete expert notebook |
-| [`eda_data_revenue.ipynb`](Revenue_Department/For_final/eda_data_revenue.ipynb) | 🔍 **เสริม / Extra** | Revenue dataset EDA |
+| [`eda_data_revenue.ipynb`](Revenue_Department/For_final/eda_data_revenue.ipynb) | ⚠️ **ไฟล์ว่าง / Empty** | **ขนาด 0 ไบต์ — เปิดไม่ได้** ดูหมายเหตุด้านล่าง |
+
+> ⚠️ **`eda_data_revenue.ipynb` เป็นไฟล์ว่างขนาด 0 ไบต์** ไม่ใช่ notebook ที่ใช้งานได้
+> Jupyter และ VS Code จะเปิดไม่ขึ้น และ `tools/export_graphs.py` ข้ามไฟล์นี้ไป
+> (ขึ้นเป็น `JSONDecodeError` ใน [`graphs/README.md`](../graphs/README.md))
+> ไฟล์นี้ว่างมาตั้งแต่ working copy ต้นทางแล้ว — ต้องกู้เนื้อหาคืนหรือลบทิ้ง
 
 **ครอบคลุม 7 ส่วน / Covers 7 sections:**
 

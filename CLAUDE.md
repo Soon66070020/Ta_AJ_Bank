@@ -27,6 +27,24 @@ Clean CSV → EDA → Machine Learning → ข้อเสนอแนะเช�
 | `DGA_2/` | RD · NIMT | ความเสี่ยงยกเลิก VAT + จำแนกฝ่ายงานสอบเทียบ + ชุดสอน | [`DGA_2/CLAUDE.md`](DGA_2/CLAUDE.md) |
 | `DGA_3/` | สนค. · สศอ. · พม. · วธ. | ดัชนี PPI/Shipment + สวัสดิการสังคมและวัฒนธรรม | [`DGA_3/CLAUDE.md`](DGA_3/CLAUDE.md) |
 
+### โฟลเดอร์ที่สร้างอัตโนมัติ (Generated — อย่าแก้ด้วยมือ)
+
+| Path | คืออะไร |
+|---|---|
+| `graphs/` | คลังกราฟ 192 ชิ้นจากทุก notebook แยกโฟลเดอร์ตามกลุ่ม — **สร้างจากสคริปต์ ห้ามแก้ตรง ๆ** |
+| `tools/export_graphs.py` | ตัวสร้าง `graphs/` — รันใหม่ทุกครั้งที่ notebook เปลี่ยน |
+
+```powershell
+.\venv\Scripts\python.exe tools\export_graphs.py
+```
+
+**ทำไมต้องมีสคริปต์นี้:** Plotly renderer `'notebook'` ฝังไลบรารี plotly.js (4.85 MB) ลงในทุก cell output
+ถ้าบันทึกกราฟตรง ๆ 125 กราฟจะกินพื้นที่ ~650 MB สคริปต์จึงดึงเฉพาะ `<div class="plotly-graph-div">`
+กับ `Plotly.newPlot(...)` แล้วประกอบหน้า HTML ใหม่ที่โหลด plotly.js จาก CDN — เหลือรวม **15.1 MB**
+
+*หมายเหตุ:* notebook บางไฟล์รันด้วย renderer `'notebook_connected'` ซึ่ง inject `<script src="cdn.plot.ly/...">`
+เข้ามาเองตอนรัน (42 จาก 125 กราฟ) สคริปต์จะตรวจเจอแล้ว **ไม่ใส่ CDN tag ซ้ำ** เพื่อไม่ให้โหลด plotly สองรอบ
+
 ---
 
 ## ⚠️ กฎสำคัญเรื่อง Git
