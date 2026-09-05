@@ -4,6 +4,17 @@
 
 📦 **GitHub Repository**: https://github.com/ZouWhatqq/Ta_AJ_Bank.git
 
+### 🌐 ดู Dashboard ออนไลน์ (Live Catalog)
+
+> ### **[✨ เปิดเว็บแคตตาล็อก Dashboard ✨](https://zouwhatqq.github.io/dga-viz-catalog/)**
+>
+> **23 Dashboard · 191 กราฟ · 5 กลุ่มงาน** — เปิดดูผลวิเคราะห์ทั้งหมดได้ทันทีในเบราว์เซอร์
+> โดยไม่ต้อง clone, ไม่ต้องติดตั้ง Python, ไม่ต้องรัน notebook
+>
+> คลังเว็บอยู่แยกที่ [`ZouWhatqq/dga-viz-catalog`](https://github.com/ZouWhatqq/dga-viz-catalog)
+> (เก็บเฉพาะหน้าเว็บที่ build แล้ว จึงไม่มีข้อมูลดิบและไม่ต้องใช้ Git LFS)
+> สร้างใหม่จาก notebook ใน repo นี้ได้ด้วย `python tools/build_site.py` ในคลังนั้น
+
 > ⚠️ **ต้องติดตั้ง [Git LFS](https://git-lfs.com) ก่อน clone** — repo นี้เก็บ CSV ทะเบียนผู้เสียภาษี VAT ขนาด 243 MB และ 60 MB ผ่าน Git LFS
 > ```powershell
 > git lfs install
@@ -28,7 +39,7 @@
 
 ## 📊 คลังกราฟรวมทุกกลุ่ม (Graph Gallery)
 
-กราฟทั้งหมด **192 ชิ้น** จากทุก notebook ในโครงการ ถูกดึงออกมารวมไว้ที่ **[`graphs/`](graphs/README.md)**
+กราฟทั้งหมด **191 ชิ้น** จากทุก notebook ในโครงการ ถูกดึงออกมารวมไว้ที่ **[`graphs/`](graphs/README.md)**
 เปิดดูได้เลยโดยไม่ต้องรัน notebook
 
 | กลุ่ม | จำนวนกราฟ | ดัชนี |
@@ -37,8 +48,8 @@
 | 🐃 เกษตรกรรม / ปศุสัตว์ (DLD) | 16 | [`graphs/เกษตรกรรม/`](graphs/เกษตรกรรม/README.md) |
 | 🦟 ควบคุมโรค (DDC) | 52 | [`graphs/ควบคุมโรค/`](graphs/ควบคุมโรค/README.md) |
 | 🏢 DGA_2 — สรรพากร & มาตรวิทยา | 38 | [`graphs/DGA_2/`](graphs/DGA_2/README.md) |
-| 📈 DGA_3 — ดัชนีเศรษฐกิจ & สวัสดิการ | 71 | [`graphs/DGA_3/`](graphs/DGA_3/README.md) |
-| | **192** | **Plotly 125 · PNG 67** |
+| 📈 DGA_3 — ดัชนีเศรษฐกิจ & สวัสดิการ | 70 | [`graphs/DGA_3/`](graphs/DGA_3/README.md) |
+| | **191** | **Plotly 124 · PNG 67** |
 
 สร้างใหม่ได้ทุกเมื่อ (อ่านกราฟจาก notebook ปัจจุบันแล้วเขียนทับ `graphs/`):
 

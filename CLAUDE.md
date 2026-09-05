@@ -31,7 +31,7 @@ Clean CSV → EDA → Machine Learning → ข้อเสนอแนะเช�
 
 | Path | คืออะไร |
 |---|---|
-| `graphs/` | คลังกราฟ 192 ชิ้นจากทุก notebook แยกโฟลเดอร์ตามกลุ่ม — **สร้างจากสคริปต์ ห้ามแก้ตรง ๆ** |
+| `graphs/` | คลังกราฟ 191 ชิ้นจากทุก notebook แยกโฟลเดอร์ตามกลุ่ม — **สร้างจากสคริปต์ ห้ามแก้ตรง ๆ** |
 | `tools/export_graphs.py` | ตัวสร้าง `graphs/` — รันใหม่ทุกครั้งที่ notebook เปลี่ยน |
 
 ```powershell
@@ -39,11 +39,11 @@ Clean CSV → EDA → Machine Learning → ข้อเสนอแนะเช�
 ```
 
 **ทำไมต้องมีสคริปต์นี้:** Plotly renderer `'notebook'` ฝังไลบรารี plotly.js (4.85 MB) ลงในทุก cell output
-ถ้าบันทึกกราฟตรง ๆ 125 กราฟจะกินพื้นที่ ~650 MB สคริปต์จึงดึงเฉพาะ `<div class="plotly-graph-div">`
-กับ `Plotly.newPlot(...)` แล้วประกอบหน้า HTML ใหม่ที่โหลด plotly.js จาก CDN — เหลือรวม **15.1 MB**
+ถ้าบันทึกกราฟตรง ๆ 124 กราฟจะกินพื้นที่ ~600 MB สคริปต์จึงดึงเฉพาะ `<div class="plotly-graph-div">`
+กับ `Plotly.newPlot(...)` แล้วประกอบหน้า HTML ใหม่ที่โหลด plotly.js จาก CDN — เหลือรวม **11.2 MB**
 
 *หมายเหตุ:* notebook บางไฟล์รันด้วย renderer `'notebook_connected'` ซึ่ง inject `<script src="cdn.plot.ly/...">`
-เข้ามาเองตอนรัน (42 จาก 125 กราฟ) สคริปต์จะตรวจเจอแล้ว **ไม่ใส่ CDN tag ซ้ำ** เพื่อไม่ให้โหลด plotly สองรอบ
+เข้ามาเองตอนรัน (42 จาก 124 กราฟ) สคริปต์จะตรวจเจอแล้ว **ไม่ใส่ CDN tag ซ้ำ** เพื่อไม่ให้โหลด plotly สองรอบ
 
 ---
 

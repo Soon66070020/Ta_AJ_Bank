@@ -90,8 +90,15 @@ def group_of(nb: Path) -> tuple[str, str] | None:
     return None
 
 
+# ต้องเจอ "element" จริง ไม่ใช่แค่สตริง — notebook บางเล่ม (เช่น shipment_goal_analysis)
+# มี cell ที่ปล่อย <style> ฝังฟอนต์ไทยเป็น base64 ขนาด ~4 MB ออกมา และข้างในมี
+# CSS selector ".plotly-graph-div" อยู่ ถ้าเช็คแบบ substring จะนับบล็อกนั้นเป็นกราฟ
+# แล้วเขียนไฟล์ 4 MB ที่เปิดมาไม่มีกราฟเลย
+RE_CHART_EL = re.compile(r"""class=["']plotly-graph-div["']""")
+
+
 def is_figure_html(html: str) -> bool:
-    return "plotly-graph-div" in html
+    return bool(RE_CHART_EL.search(html)) and "Plotly.newPlot" in html
 
 
 def extract_title(html: str) -> str:
